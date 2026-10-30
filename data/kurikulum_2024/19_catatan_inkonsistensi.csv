@@ -1,0 +1,32 @@
+id,kategori,kode_terkait,versi_1,versi_2,keputusan_dataset,dampak_ke_sistem
+INK01,prasyarat,CIE61108,Deskripsi hal. 41: prasyarat '-',Ringkasan hal. 29: 'Nilai MK Pengembangan Kurikulum ≥ E',Pakai Ringkasan (revisi lebih baru),tinggi
+INK02,prasyarat,CIE61110,Deskripsi hal. 43: prasyarat '-',Ringkasan hal. 29: 'Nilai MK Teori dan Sains Belajar ≥ E',Pakai Ringkasan,tinggi
+INK03,prasyarat,CSD60708,Deskripsi hal. 45: prasyarat '-',Ringkasan hal. 29: 'Nilai MK Kecerdasan Artifisial ≥ E',Pakai Ringkasan,tinggi
+INK04,praktikum,CIE62203,Deskripsi hal. 16: Berpraktikum (2+1 SKS); Tabel 9: Ya; Diagram: [2+1 SKS],Tabel struktur semester 2 (hal. 27): kolom praktikum '-',Pakai Berpraktikum (3 sumber vs 1),sedang
+INK05,semester,CSD60702;CIE61212,Deskripsi hal. 61-62: semester Ganjil (kode CIE61212 berdigit '1' = ganjil),Tabel 11 hal. 24: ditawarkan semester 6; Riwayat revisi 15 Des 2024 memindah Tema D ke semester 6,Pakai semester 6 (Ringkasan); paritas deskripsi tetap disimpan,tinggi
+INK06,semester,UBU60003,Deskripsi hal. 13: semester Genap,Struktur semester 1 (hal. 27) & Diagram: semester 1 (ganjil),Pakai semester 1 (struktur),sedang
+INK07,semester,CIE61113;CIE61114;CIE61115;CIE61215;CSD60713,Tabel 11: MK ganjil ditawarkan semester 5 (dan 7 untuk Tema H),Struktur Jalur A: slot Tema C & Tema H berada di semester 6 (genap),Simpan terpisah: semester_slot_tema_jalur_A vs semester_ditawarkan_tabel11; sistem memakai penawaran Tabel 11,tinggi
+INK08,semester,CIE62118;CIE62307;CIE62308,Tabel 11: Tema F hanya ditawarkan semester 4,Struktur Jalur A & Diagram: slot Tema F di semester 6,"Anggap dapat diambil di semester genap >= 4 (asumsi, konfirmasi prodi)",sedang
+INK09,bobot,CIE61212;CIE62116;CIE62117;CIE62118;CIE62307;CIE62308;CIE61215;CSD60713;CSD60714,Deskripsi: kolom praktikum berisi 'Tatap Muka = 3 SKS / Durasi = 150 menit' (templat salah ketik),Label PRAKTIKUM = Tidak Berpraktikum; Tabel 11: Tidak; Riwayat revisi 25 Juli 2024,"sks_praktikum = 0, durasi_praktikum = 0",rendah
+INK10,nama,CSD60713,Judul Deskripsi: 'Jaringan Terapan'; tabel Deskripsi: 'Jaringan Komputer Terapan',Riwayat revisi 25 Juli 2024: nama resmi 'Jaringan Terapan',Pakai 'Jaringan Terapan',rendah
+INK11,nama,CIE62305,Deskripsi: 'Pembelajaran Emosional Sosial',Tabel 11/12: 'Pembelajaran Sosial Emosional',Pakai nama Deskripsi; varian di nama_alias,rendah
+INK12,nama,CSD60709,Deskripsi: 'Keamanan Siber',Tabel 9 & struktur sem. 4: 'Keamana Siber',Salah ketik; pakai 'Keamanan Siber',rendah
+INK13,kode_diagram,COM60014;COM60015,"Tabel 8, struktur sem. 1, Deskripsi: COM60014 = Pemrograman Dasar","Diagram Jalur A-F: COM60014 berlabel Matematika Diskrit, COM60015 berlabel Pemrograman Dasar",Pakai tabel (diagram tertukar),tinggi
+INK14,kode_diagram,COM60052;CIE62401;UBU60005,"Tabel: COM60052 Etika Profesi, CIE62401 Inovasi Digital Kompetitif, UBU60005 PKM","Diagram: MPK60052, CIE62041, dan PKM berkode UBU60002",Pakai tabel,rendah
+INK15,diagram,COM60051,Tabel struktur sem. 5 (hal. 29) memuat Metode Penelitian dan Penulisan Ilmiah,Diagram Jalur A-F semester 5 tidak menampilkan COM60051 (total tetap tertulis 21 SKS),Pakai tabel,sedang
+INK16,diagram,CIE62209,Nama resmi: Pengembangan dan Manajemen Perangkat Lunak,Diagram: 'Manajemen dan Pengembangan Perangkat Lunak',Pakai nama resmi,rendah
+INK17,diagram,TEMA_A,Tabel 12: Tema A mendukung PL4,Diagram: Pilihan Tema A diletakkan di kolom 'Pendukung semua PL',Pakai Tabel 12,rendah
+INK18,sks_jalur,JALUR_B-F,"Tabel struktur semester 7 Jalur B-F: MK pilihan 3 SKS, total 14 SKS","Diagram Jalur B-F semester 7: MK pilihan 1 SKS, total 12 SKS; catatan diagram: tidak ada MK pilihan 1 SKS sehingga total studi bisa 147 SKS",Pakai tabel (3 SKS); total studi jalur B-F = 147,sedang
+INK19,jalur,JALUR_F,Tabel semester 6 Jalur F (hal. 43): konversi kegiatan DI DALAM UB,Diagram Jalur F semester 6: konversi DI LUAR UB,Pakai tabel (sesuai definisi Jalur F),sedang
+INK20,rekomendasi,SEM7_A,"Rentang IP ≥ 3,00: 22-24 SKS",Teks aksi: 'sehingga besar SKS menjadi 21',Simpan target 21 apa adanya + catatan,rendah
+INK21,rekomendasi,SEM3,"IP < 1,50: kurangi 4 MK (2+3+3+3 = 11 SKS) dari 21",Teks: 'besar SKS menjadi 12' (hasil hitung 10),Simpan teks apa adanya + catatan,rendah
+INK22,rekomendasi,SEM3,Nama MK: Basis Data (CIE61208),"Teks rekomendasi IP 2,00-2,49: 'Teknologi Basis Data'",Dipetakan ke CIE61208,rendah
+INK23,sks,UBU60002,"Tabel 7, Deskripsi, struktur: PKL 4 SKS",Narasi Bab 13 (hal. 62): PKL 3 SKS,Pakai 4 SKS,rendah
+INK24,cpl,CPL13,Tabel 3: '... dalam bentuk skripsi atau laporan tugas akhir atau artikel ilmiah',Tabel 4 (revisi 2 Des 2024): '... dalam bentuk laporan tugas akhir atau artikel ilmiah',Pakai Tabel 4,rendah
+INK25,ekstraksi,MPK60002,Sub-CPMK butir 2 dan 7 adalah lanjutan kalimat yang ikut bernomor,-,"Digabung ke butir 1 dan 6 (nomor_sumber '1+2', '6+7')",rendah
+INK26,ekstraksi,CIE61101,CPMK butir 6 dan referensi butir 7 kosong,-,Dibuang,rendah
+INK27,ekstraksi,CSD60711,CPMK butir 5 berisi dua capaian tanpa pemisah ('penggunaMampu'),-,Dipecah menjadi 5a dan 5b (8 CPMK),sedang
+INK28,ekstraksi,CIE62308,Referensi butir 5 terpotong ('Online Teaching at Its Best: Merging'),-,Disimpan apa adanya,rendah
+INK29,caption,JALUR_D;JALUR_E,Gambar 4 & 5 berjudul 'Struktur Kurikulum Jalur A',Isi gambar = Jalur D & E,Abaikan (salah caption),rendah
+INK30,prasyarat,CIE61111;CIE61112,Tabel 9 memasukkan PLP 1 & 2 sebagai MK Kependidikan,Syarat PLP = lulus semua MK Kependidikan,PLP dikecualikan dari syarat dirinya sendiri (10 MK),rendah
+INK31,penyetaraan,COM62015;COM60015,KHS mahasiswa Kurikulum 2020: Matematika Komputasi berkode COM62015 (3 SKS),Tabel 13 (hal. 56): Matematika Komputasi berkode COM60015 (2 SKS) -> Matematika Diskrit,Tambah baris penyetaraan COM62015 -> COM60015 Matematika Diskrit (sesuai Ringkasan Kurikulum),sedang

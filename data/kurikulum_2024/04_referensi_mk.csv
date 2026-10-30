@@ -1,0 +1,374 @@
+id_referensi,kode_mk,nomor,teks,tahun_terbit,catatan,halaman_pdf
+COM60014-REF01,COM60014,1,"Gaddis, T. (2022). Starting Out with Python (5th ed.). Pearson.",2022,,5
+COM60014-REF02,COM60014,2,"Deitel, P., & Deitel, H. (2021). C++ How to Program (11th ed.). Pearson.",2021,,5
+COM60014-REF03,COM60014,3,"Liang, Y. D. (2021). Introduction to Java Programming and Data Structures, Comprehensive Version (12th ed.). Pearson.",2021,,5
+COM60014-REF04,COM60014,4,"Sedgewick, R., & Wayne, K. (2022). Computer Science: An Interdisciplinary Approach. Addison-Wesley Professional.",2022,,5
+COM60014-REF05,COM60014,5,"McConnell, S. (2021). Code Complete: A Practical Handbook of Software Construction (3rd ed.). Microsoft Press.",2021,,5
+COM60016-REF01,COM60016,1,"Brookshear, J. G., & Brylow, D. (2022). Computer Science: An Overview (14th ed.). Pearson.",2022,,7
+COM60016-REF02,COM60016,2,"Forouzan, B. A. (2021). Foundations of Computer Science (5th ed.). Cengage Learning.",2021,,7
+COM60016-REF03,COM60016,3,"Schneider, G. M., & Gersting, J. L. (2021). Invitation to Computer Science (8th ed.). Cengage Learning.",2021,,7
+COM60016-REF04,COM60016,4,"Dale, N., & Lewis, J. (2020). Computer Science Illuminated (7th ed.). Jones & Bartlett Learning.",2020,,7
+COM60016-REF05,COM60016,5,"Sedgewick, R., & Wayne, K. (2022). Computer Science: An Interdisciplinary Approach. Addison-Wesley Professional.",2022,,7
+COM60015-REF01,COM60015,1,"Rosen, K. H. (2019). Discrete Mathematics and Its Applications (8th ed.). McGraw-Hill Education.",2019,,8
+COM60015-REF02,COM60015,2,"Epp, S. S. (2020). Discrete Mathematics with Applications (5th ed.). Cengage Learning.",2020,,8
+COM60015-REF03,COM60015,3,"Grimaldi, R. P. (2021). Discrete and Combinatorial Mathematics: An Applied Introduction (6th ed.). Pearson.",2021,,8
+COM60015-REF04,COM60015,4,"Johnsonbaugh, R. (2018). Discrete Mathematics (8th ed.). Pearson.",2018,,8
+COM60015-REF05,COM60015,5,"Liu, C. L. (2021). Elements of Discrete Mathematics (3rd ed.). McGraw-Hill Education.",2021,,8
+CIE61301-REF01,CIE61301,1,"Stewart, J. (2020). Calculus: Early Transcendentals (9th ed.). Cengage Learning.",2020,,9
+CIE61301-REF02,CIE61301,2,"Lay, D. C., Lay, S. R., & McDonald, J. J. (2021). Linear Algebra and Its Applications (6th ed.). Pearson.",2021,,9
+CIE61301-REF03,CIE61301,3,"Strang, G. (2019). Linear Algebra and Learning from Data. Wellesley-Cambridge Press.",2019,,9
+CIE61301-REF04,CIE61301,4,"Anton, H., & Rorres, C. (2022). Elementary Linear Algebra: Applications Version (12th ed.). Wiley.",2022,,9
+CIE61301-REF05,CIE61301,5,"Kreyszig, E. (2020). Advanced Engineering Mathematics (11th ed.). Wiley.",2020,,9
+MPK60007-REF01,MPK60007,1,"Zulvarina, P. dkk. 2021. Buku Ajar Bahasa Indonesia: Edisi Revisi. Malang: Oase Publishing",2021,,10
+MPK60007-REF02,MPK60007,2,"DIKTI. Bahasa Indonesia Untuk Perguruan Tinggi, 2016",2016,,10
+UBU60004-REF01,UBU60004,1,"Glendinning, E. H., & McEwan, J. (2022). Oxford English for Information Technology (3rd ed.). Oxford University Press.",2022,,11
+UBU60004-REF02,UBU60004,2,"Olejniczak, M. (2021). English for Information Technology (2nd ed.). Pearson Education.",2021,,11
+UBU60004-REF03,UBU60004,3,"Boeckner, K., & Brown, P. C. (2023). Oxford English for Computing (2nd ed.). Oxford University Press.",2023,,11
+UBU60004-REF04,UBU60004,4,"Esteras, S. R., & Fabre, E. M. (2022). Professional English in Use ICT for Computers and the Internet (2nd ed.). Cambridge University Press.",2022,,11
+UBU60004-REF05,UBU60004,5,"Ibbotson, M. (2021). Cambridge English for Engineering. Cambridge University Press.",2021,,11
+MPK60006-REF01,MPK60006,1,"Azra, A. (2021). Kewarganegaraan: Konteks Indonesia dan Global. Kencana.",2021,,12
+MPK60006-REF02,MPK60006,2,"Cipto, B. (2022). Politik dan Pemerintahan Indonesia. Rajawali Pers.",2022,,12
+MPK60006-REF03,MPK60006,3,"Ubaedillah, A. (2023). Pendidikan Kewarganegaraan (Civic Education): Demokrasi, Hak Asasi Manusia, dan Masyarakat Madani. Kencana.",2023,,12
+MPK60006-REF04,MPK60006,4,"Marzuki, S. (2021). Hukum dan Kewarganegaraan Indonesia. Prenadamedia Group.",2021,,12
+MPK60006-REF05,MPK60006,5,"Wahab, A.A., & Sapriya. (2022). Teori dan Landasan Pendidikan Kewarganegaraan. Alfabeta.",2022,,12
+UBU60003-REF01,UBU60003,1,"Ries, E. (2021). The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. Crown Business.",2021,,13
+UBU60003-REF02,UBU60003,2,"Blank, S., & Dorf, B. (2020). The Startup Owner's Manual: The Step-by-Step Guide for Building a Great Company. Wiley.",2020,,13
+UBU60003-REF03,UBU60003,3,"Osterwalder, A., & Pigneur, Y. (2023). Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers. Wiley.",2023,,13
+UBU60003-REF04,UBU60003,4,"Thiel, P., & Masters, B. (2022). Zero to One: Notes on Startups, or How to Build the Future. Crown Business.",2022,,13
+UBU60003-REF05,UBU60003,5,"Kawasaki, G. (2021). The Art of the Start 2.0: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything. Portfolio.",2021,,13
+CIE62201-REF01,CIE62201,1,"Tidwell, J., Brewer, C., & Valencia, A. (2020). Designing Interfaces: Patterns for Effective Interaction Design (3rd ed.). O'Reilly Media.",2020,,14
+CIE62201-REF02,CIE62201,2,"Krug, S. (2022). Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd ed.). New Riders.",2022,,14
+CIE62201-REF03,CIE62201,3,"Norman, D. (2023). The Design of Everyday Things: Revised and Expanded Edition. Basic Books.",2023,,14
+CIE62201-REF04,CIE62201,4,"Johnson, J. (2021). Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Guidelines (3rd ed.). Morgan Kaufmann.",2021,,14
+CIE62201-REF05,CIE62201,5,"Hartson, R., & Pyla, P. S. (2022). The UX Book: Process and Guidelines for Ensuring a Quality User Experience (2nd ed.). Morgan Kaufmann.",2022,,14
+CIE62202-REF01,CIE62202,1,"Gargenta, M., & Nakamura, M. (2022). Learning Android: Develop Mobile Apps Using Java and Kotlin (3rd ed.). O'Reilly Media.",2022,,15
+CIE62202-REF02,CIE62202,2,"Wexler, J., & Aderinokun, I. (2023). Head First PWA: A Brain-Friendly Guide to Building Progressive Web Apps. O'Reilly Media.",2023,,15
+CIE62202-REF03,CIE62202,3,"Newman, S. (2021). Building Microservices: Designing Fine-Grained Systems (2nd ed.). O'Reilly Media.",2021,,15
+CIE62202-REF04,CIE62202,4,"Fain, Y., & Moiseev, A. (2022). Angular Development with TypeScript (3rd ed.). Manning Publications.",2022,,15
+CIE62202-REF05,CIE62202,5,"Copeland, M., Soh, J., Puca, A., Manning, M., & Gollob, D. (2022). Microsoft Azure: Planning, Deploying, and Managing the Cloud (2nd ed.). Apress.",2022,,15
+CIE62203-REF01,CIE62203,1,"Bloch, J. (2018). Effective Java (3rd ed.). Addison-Wesley Professional.",2018,,16
+CIE62203-REF02,CIE62203,2,"Horstmann, C. S., & Cornell, G. (2019). Core Java Volume I--Fundamentals (11th ed.). Prentice Hall.",2019,,16
+CIE62203-REF03,CIE62203,3,"Lippman, S. B., Lajoie, J., & Moo, B. E. (2012). C++ Primer (5th ed.). Addison-Wesley Professional.",2012,,16
+CIE62203-REF04,CIE62203,4,"Freeman, E., & Robson, E. (2020). Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software (2nd ed.). O'Reilly Media.",2020,,16
+CIE62203-REF05,CIE62203,5,"Fowler, M. (2018). Refactoring: Improving the Design of Existing Code (2nd ed.). Addison-Wesley Professional.",2018,,16
+CIE62204-REF01,CIE62204,1,"Alter, S. (2022). Work System Theory: Overview of Core Concepts, Extensions, and Challenges for the Future. Journal of the Association for Information Systems, 23(2), 388-445.",2022,,17
+CIE62204-REF02,CIE62204,2,"Checkland, P., & Poulter, J. (2020). Soft Systems Methodology. In Systems Approaches to Making Change: A Practical Guide (pp. 201-253). Springer.",2020,,17
+CIE62204-REF03,CIE62204,3,"Sommerville, I. (2021). Software Engineering (10th ed.). Pearson.",2021,,17
+CIE62204-REF04,CIE62204,4,"Dori, D. (2022). Model-Based Systems Engineering: Fundamentals and Methods. MIT Press.",2022,,17
+CIE62204-REF05,CIE62204,5,"Boardman, J., & Sauser, B. (2020). Systems Thinking: Coping with 21st Century Problems. CRC Press.",2020,,17
+CSD60712-REF01,CSD60712,1,"Walpole, R. E., Myers, R. H., Myers, S. L., & Ye, K. (2021). Probability & Statistics for Engineers & Scientists (10th ed.). Pearson.",2021,,18
+CSD60712-REF02,CSD60712,2,"Montgomery, D. C., & Runger, G. C. (2022). Applied Statistics and Probability for Engineers (7th ed.). Wiley.",2022,,18
+CSD60712-REF03,CSD60712,3,"James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). An Introduction to Statistical Learning: With Applications in R (2nd ed.). Springer.",2021,,18
+CSD60712-REF04,CSD60712,4,"Ross, S. M. (2019). Introduction to Probability and Statistics for Engineers and Scientists (6th ed.). Academic Press.",2019,,18
+CSD60712-REF05,CSD60712,5,"McKinney, W. (2022). Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter (3rd ed.). O'Reilly Media.",2022,,18
+CIE62401-REF01,CIE62401,1,"Schilling, M. A. (2021). Strategic Management of Technological Innovation (6th ed.). McGraw-Hill Education.",2021,,19
+CIE62401-REF02,CIE62401,2,"Ries, E. (2021). The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. Crown Business.",2021,,19
+CIE62401-REF03,CIE62401,3,"Osterwalder, A., Pigneur, Y., Bernarda, G., & Smith, A. (2020). Value Proposition Design: How to Create Products and Services Customers Want. Wiley.",2020,,19
+CIE62401-REF04,CIE62401,4,"Christensen, C. M., Raynor, M. E., & McDonald, R. (2020). The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail. Harvard Business Review Press.",2020,,19
+CIE62401-REF05,CIE62401,5,"Tidd, J., & Bessant, J. (2021). Managing Innovation: Integrating Technological, Market and Organizational Change (7th ed.). Wiley.",2021,,19
+MPK60008-REF01,MPK60008,1,Kaelan. (2021). Pendidikan Pancasila untuk Perguruan Tinggi. Paradigma.,2021,,20
+MPK60008-REF02,MPK60008,2,"Latif, Y. (2022). Negara Paripurna: Historisitas, Rasionalitas, dan Aktualitas Pancasila. Gramedia Pustaka Utama.",2022,,20
+MPK60008-REF03,MPK60008,3,"Asshiddiqie, J. (2023). Ideologi, Pancasila, dan Konstitusi. Sinar Grafika.",2023,,20
+MPK60008-REF04,MPK60008,4,"Sulisworo, D., Wahyuningsih, T., & Arif, D.B. (2022). Pancasila dalam Era Industri 4.0. Deepublish.",2022,,20
+MPK60008-REF05,MPK60008,5,"Syarbaini, S. (2021). Pendidikan Pancasila di Perguruan Tinggi: Implementasi Nilai-nilai Karakter Bangsa. Ghalia Indonesia.",2021,,20
+MPK60001-REF01,MPK60001,1,Kitab Suci Al-Qur’an dan Hadis,,,21
+MPK60001-REF02,MPK60001,2,"Thohir Luth, dkk. Buku Ajar Pandidikan Agama Islam, PMPK UB, 2019",2019,,21
+MPK60001-REF03,MPK60001,3,"Direktorat Belmawa Dikti, Buku Ajar MKWU Pendidikan Agama Islam, Ditjen Belmawa, 2016.",2016,,21
+MPK60001-REF04,MPK60001,4,"Thohir Luth, dkk. Buku Daras Pendidikan Agama Islam, Malang, Universitas Brawijaya, 2012",2012,,21
+MPK60002-REF01,MPK60002,1,"Alkitab, Lembaga Alkitab Indonesia, 2014; atau secara online https://www.imankatolik.or.id/alkitab.php atau https://alkitab.sabda.org/verse.php?book=Kej&chapter=1&verse=2 atau https://www.sabda.org/sabdaweb/home/ atau http://ekaristi.org/bible/",2014,,22
+MPK60002-REF02,MPK60002,2,"Katekismus Gereja Katolik, Penerbit Nusa Indah, Ende, 2014; atau secara online https://www.imankatolik.or.id/katekismus.php atau http://www.ekaristi.org/kat/ atau http://www.vatican.va/archive/ccc/index_it.htm",2014,,22
+MPK60002-REF03,MPK60002,3,"Kompendium Katekismus Gereja Katolik, Penerbit Kanisius, Yogyakarta, 2015 atau secara online http://www.vatican.va/archive/ccc/index_it.htm (bahasa indonesia)",2015,,22
+MPK60002-REF04,MPK60002,4,"Direktorat Jenderal Pembelajaran dan Kemahasiswaan Kementerian Riset, Teknologi, dan Pendidikan Tinggi Republik Indonesia, Pendidikan Agama Katolik untuk Perguruan Tinggi, 2016 atau https://www.google.com/search?client=firefox-bd&q=luk.staff.ugm.ac.id+%E2%80%BA+atur+%E2%80%BA+mkwu+%E2%80%BA+5-PendidikanAgamaKatolik (download)",2016,,22
+MPK60002-REF05,MPK60002,5,"Komisi Kateketik KWI, Kurikulum Pendidikan Agama Katolik di Perguruan Tinggi Umum, Jakarta, 2011",2011,,22
+MPK60003-REF01,MPK60003,1,"Alkitab, Lembaga Alkitab Indonesia, 2014; Alkitab Online https://alkitab.sabda.org/home.php",2014,,23
+MPK60003-REF02,MPK60003,2,"Moral & Etika Kristen (R.C. Sproul, J. Verquil)",,,23
+MPK60003-REF03,MPK60003,3,A Practical Guide to Christian Belief (Kevin J. Conner),,,23
+MPK60003-REF04,MPK60003,4,"Roike R. Kowal & Bambang Semedi, Buku Ajar Pendidikan Agama Kristen, Malang: UPT PKM UB, 2019.",2019,,23
+MPK60003-REF05,MPK60003,5,"Direktorat Belmawa Dikti, Buku Ajar MKWU Pendidikan Agama Kriten, Ditjen Belmawa, 2016.",2016,,23
+MPK60003-REF06,MPK60003,6,"Baum, Gregory, Religion and Alienation: A Theological Reading of Sociology (New York: Paulist book, 1975)",1975,,23
+MPK60004-REF01,MPK60004,1,"Rambachan, A. (2021). Hinduism and the Ethics of Information Technology. Oxford University Press.",2021,,24
+MPK60004-REF02,MPK60004,2,"Sharma, A. (2022). Digital Dharma: Hinduism in the Information Age. Routledge.",2022,,24
+MPK60004-REF03,MPK60004,3,"Jha, D. N. (2023). Science and Technology in Ancient India. Penguin Random House India.",2023,,24
+MPK60004-REF04,MPK60004,4,"Flood, G. (2021). An Introduction to Hinduism (2nd ed.). Cambridge University Press.",2021,,24
+MPK60004-REF05,MPK60004,5,"Knott, K. (2022). Hinduism: A Very Short Introduction (2nd ed.). Oxford University Press.",2022,,24
+MPK60005-REF01,MPK60005,1,Thich Nhat Hanh. (2021). Zen and the Art of Saving the Planet. HarperOne.,2021,,25
+MPK60005-REF02,MPK60005,2,Bhikkhu Bodhi. (2022). The Buddha's Teachings on Social and Communal Harmony. Wisdom Publications.,2022,,25
+MPK60005-REF03,MPK60005,3,"Wallace, B. A. (2020). Fathoming the Mind: Inquiry and Insight in Dudjom Lingpa's Vajra Essence. Wisdom Publications.",2020,,25
+MPK60005-REF04,MPK60005,4,"Lopez Jr., D. S. (2023). Buddhism and Science: A Guide for the Perplexed. University of Chicago Press.",2023,,25
+MPK60005-REF05,MPK60005,5,"Cho, F. (2021). Seeing Like the Buddha: Enlightenment through Film. SUNY Press.",2021,,25
+CIE61101-REF01,CIE61101,1,"Santrock, W, John. 2023. Child Development. New York: McGrawHill",2023,,26
+CIE61101-REF02,CIE61101,2,"Harry Schofield, The Philosophy of Education, 2011;",2011,,26
+CIE61101-REF03,CIE61101,3,Gargiulo and Metcalf. 2021. Teaching in Today's Inclusive Classrooms: A Universal Design for Learning Approach. Boston: Cencage,2021,,26
+CIE61101-REF04,CIE61101,4,"Ali, Mohammad, Asrori, Mohammad. 2018. Psikologi Remaja. Jakarta: Bumi Aksara",2018,,26
+CIE61101-REF05,CIE61101,5,Djaali. 2006. Psikologi Pendidikan. Jakarta: Bumi Aksara,2006,,26
+CIE61101-REF06,CIE61101,6,"Badan Standar Kurikulum, dan Asesmen Pendidikan. 2022. Panduan Pendidikan Inklusif.",2022,,26
+CIE61102-REF01,CIE61102,1,"Schofield, Harry., 2011. The Philosophy of Education. Oxon: Routledge",2011,,27
+CIE61102-REF02,CIE61102,2,"Noddings, Nel., 2016. Philosophy of Education. 14th edition. New York: Routledge",2016,,27
+CIE61102-REF03,CIE61102,3,"Burbules, N. C. (Ed.). (2022). Philosophy of Education: An Anthology. Wiley-Blackwell.",2022,,27
+CIE61102-REF04,CIE61102,4,"Peters, M. A. (2021). Digital Technologies and the Philosophy of Education. Routledge.",2021,,27
+CIE61102-REF05,CIE61102,5,"Selwyn, N. (2022). Education and Technology: Key Issues and Debates (3rd ed.). Bloomsbury Academic.",2022,,27
+CIE61102-REF06,CIE61102,6,"Floridi, L. (2023). The Ethics of Information. Oxford University Press.",2023,,27
+CIE61103-REF01,CIE61103,1,"Smaldino, S. E., Lowther, D. L., Mims, C., & Russel, J. D. (2022). Instructional Technology and Media for Learning (13th ed.). Pearson.",2022,,28
+CIE61103-REF02,CIE61103,2,"Bates, A. W. (2023). Teaching in a Digital Age: Guidelines for Designing Teaching and Learning (3rd ed.). Tony Bates Associates Ltd.",2023,,28
+CIE61103-REF03,CIE61103,3,"Clark, R. C., & Mayer, R. E. (2021). E-Learning and the Science of Instruction: Proven Guidelines for Consumers and Designers of Multimedia Learning (4th ed.). Wiley.",2021,,28
+CIE61103-REF04,CIE61103,4,"Garrison, D. R. (2022). E-Learning in the 21st Century: A Community of Inquiry Framework for Research and Practice (4th ed.). Routledge.",2022,,28
+CIE61103-REF05,CIE61103,5,"Beetham, H., & Sharpe, R. (Eds.). (2020). Rethinking Pedagogy for a Digital Age: Principles and Practices of Design (3rd ed.). Routledge.",2020,,28
+CIE61205-REF01,CIE61205,1,"Welling, L., & Thomson, L. (2023). PHP and MySQL Web Development (6th ed.). Addison-Wesley Professional.",2023,,29
+CIE61205-REF02,CIE61205,2,"Tatroe, K., MacIntyre, P., & Lerdorf, R. (2022). Programming PHP: Creating Dynamic Web Pages (4th ed.). O'Reilly Media.",2022,,29
+CIE61205-REF03,CIE61205,3,"Lockhart, J. (2021). Modern PHP: New Features and Good Practices (2nd ed.). O'Reilly Media.",2021,,29
+CIE61205-REF04,CIE61205,4,"Stauffer, M. (2022). Laravel: Up & Running: A Framework for Building Modern PHP Apps (3rd ed.). O'Reilly Media.",2022,,29
+CIE61205-REF05,CIE61205,5,"Yank, K. (2021). PHP & MySQL: Novice to Ninja (7th ed.). SitePoint.",2021,,29
+CIE61206-REF01,CIE61206,1,"Kurose, J. F., & Ross, K. W. (2023). Computer Networking: A Top-Down Approach (8th ed.). Pearson.",2023,,30
+CIE61206-REF02,CIE61206,2,"Tanenbaum, A. S., & Wetherall, D. J. (2021). Computer Networks (6th ed.). Pearson.",2021,,30
+CIE61206-REF03,CIE61206,3,"Forouzan, B. A. (2022). Data Communications and Networking (6th ed.). McGraw-Hill Education.",2022,,30
+CIE61206-REF04,CIE61206,4,"Stallings, W. (2022). Data and Computer Communications (11th ed.). Pearson.",2022,,30
+CIE61206-REF05,CIE61206,5,"White, R., & Banks, E. (2022). Computer Networking Problems and Solutions: An Innovative Approach to Building Resilient, Modern Networks. Addison-Wesley Professional.",2022,,30
+CIE61207-REF01,CIE61207,1,"Sommerville, I. (2021). Software Engineering (10th ed.). Pearson.",2021,,31
+CIE61207-REF02,CIE61207,2,"Bass, L., Clements, P., & Kazman, R. (2022). Software Architecture in Practice (4th ed.). Addison-Wesley Professional.",2022,,31
+CIE61207-REF03,CIE61207,3,"Newman, S. (2021). Building Microservices: Designing Fine-Grained Systems (2nd ed.). O'Reilly Media.",2021,,31
+CIE61207-REF04,CIE61207,4,"Kim, G., Humble, J., Debois, P., & Willis, J. (2021). The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations (2nd ed.). IT Revolution Press.",2021,,31
+CIE61207-REF05,CIE61207,5,"Buyya, R., & Dastjerdi, A. V. (2023). Internet of Things: Principles and Paradigms (2nd ed.). Morgan Kaufmann.",2023,,31
+CIE61208-REF01,CIE61208,1,"Elmasri, R., & Navathe, S. B. (2021). Fundamentals of Database Systems (8th ed.). Pearson.",2021,,32
+CIE61208-REF02,CIE61208,2,"Silberschatz, A., Korth, H. F., & Sudarshan, S. (2020). Database System Concepts (7th ed.). McGraw-Hill Education.",2020,,32
+CIE61208-REF03,CIE61208,3,"Garcia-Molina, H., Ullman, J. D., & Widom, J. (2022). Database Systems: The Complete Book (3rd ed.). Pearson.",2022,,32
+CIE61208-REF04,CIE61208,4,"Coronel, C., & Morris, S. (2021). Database Systems: Design, Implementation, & Management (13th ed.). Cengage Learning.",2021,,32
+CIE61208-REF05,CIE61208,5,"Kleppmann, M. (2022). Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems. O'Reilly Media.",2022,,32
+CIE62104-REF01,CIE62104,1,"William R. Gordon, Rosemarye T. Taylor & Peter F. Olivia. 2019. Developing The Curriculum, Improved Outcomes Through Systems Approaches. Ninth Edition. United State of America: Pearson.",2019,,33
+CIE62104-REF02,CIE62104,2,"Ornstein, A. C., & Hunkins, F. P. (2021). Curriculum: Foundations, Principles, and Issues (8th ed.). Pearson.",2021,,33
+CIE62104-REF03,CIE62104,3,"Oliva, P. F., & Gordon, W. R. (2022). Developing the Curriculum (9th ed.). Pearson.",2022,,33
+CIE62104-REF04,CIE62104,4,"Marsh, C. J., & Willis, G. (2023). Curriculum: Alternative Approaches, Ongoing Issues (6th ed.). Pearson.",2023,,33
+CIE62104-REF05,CIE62104,5,"Roblyer, M. D., & Hughes, J. E. (2022). Integrating Educational Technology into Teaching: Transforming Learning Across Disciplines (8th ed.). Pearson.",2022,,33
+CIE62104-REF06,CIE62104,6,"Beetham, H., & Sharpe, R. (Eds.). (2020). Rethinking Pedagogy for a Digital Age: Principles and Practices of Design (3rd ed.). Routledge.",2020,,33
+CIE62104-REF07,CIE62104,7,"Jules Pieters, Joke Voogt, & Natalie Pareja Roblin. 2019. Collaborative Curriculum Design For Sustainable Innovation and Teacher Learning. Amsterdam: Springer Open",2019,,33
+CIE62104-REF08,CIE62104,8,"Inge Ayudia, et all. 2023. Pengembangan Kurikulum. Deli Serdang: PT. Mifandi Mandiri Digital.",2023,,33
+CIE62104-REF09,CIE62104,9,Baderiah. 2018. Buku Ajar Pengembangan Kurikulum. Palopo: Lembaga Penerbit Kampus IAIN Palopo,2018,,33
+CIE62105-REF01,CIE62105,1,"Carol Ann Tomlinson & Tonya R. Moon. 2013. Assessment and Student Success in a Differentiated Classroom. Alexandria, Virginia USA: ASCD.",2013,,34
+CIE62105-REF02,CIE62105,2,"David A. Sousa & Carol Ann Tomlinson. 2018. Differentiation and The Brain. Alexandria, Virginia USA: ASCD.",2018,,34
+CIE62105-REF03,CIE62105,3,"Tomlinson, C. A. (2021). How to Differentiate Instruction in Academically Diverse Classrooms (3rd ed.). ASCD.",2021,,34
+CIE62105-REF04,CIE62105,4,"Sousa, D. A., & Tomlinson, C. A. (2020). Differentiation and the Brain: How Neuroscience Supports the Learner-Friendly Classroom (2nd ed.). Solution Tree Press.",2020,,34
+CIE62105-REF05,CIE62105,5,"Wormeli, R. (2022). Fair Isn't Always Equal: Assessment and Grading in the Differentiated Classroom (2nd ed.). Stenhouse Publishers.",2022,,34
+CIE62105-REF06,CIE62105,6,"Gregory, G. H., & Chapman, C. (2023). Differentiated Instructional Strategies: One Size Doesn't Fit All (4th ed.). Corwin.",2023,,34
+CIE62105-REF07,CIE62105,7,"Bender, W. N. (2021). 20 Strategies for Increasing Student Engagement (2nd ed.). Learning Sciences International.",2021,,34
+CIE62105-REF08,CIE62105,8,Agus Purwowidodo & Muhamad Zaini. 2023. Teori Dan Praktik Model Pembelajaran Berdiferensiasi Implementasi Kurikulum Merdeka Belajar. Yogyakarta: Penebar Media Pustaka.,2023,,34
+CIE62105-REF09,CIE62105,9,"Mumpuniarti, Aini Mahabbati & Rendy Roos Handoyo. 2023. Diferensiasi Pembelajaran (Pengelolaan Pembelajaran untuk Siswa yang Beragam). Yogyakarta: UNY Press.",2023,,34
+CIE62106-REF01,CIE62106,1,Dale H. Schunk. 2014. Learning Theories An Educational Perspective. Sixth Edition. Person.,2014,,35
+CIE62106-REF02,CIE62106,2,"Ormrod, J. E., & Jones, B. D. (2022). Essentials of Educational Psychology: Big Ideas to Guide Effective Teaching (6th ed.). Pearson.",2022,,35
+CIE62106-REF03,CIE62106,3,"Salkind, N. J. (2021). Encyclopedia of Educational Psychology (2nd ed.). SAGE Publications.",2021,,35
+CIE62106-REF04,CIE62106,4,"Mayer, R. E. (2021). Multimedia Learning (3rd ed.). Cambridge University Press.",2021,,35
+CIE62106-REF05,CIE62106,5,"Bransford, J. D., Brown, A. L., & Cocking, R. R. (Eds.). (2019). How People Learn II: Learners, Contexts, and Cultures. National Academies Press.",2019,,35
+CIE62106-REF06,CIE62106,6,B.R. Hergenhahn & Matthew H. Olson. 2017. Theories Of Learning. Seven Edition. Jakarta: Kencana.,2017,,35
+CIE62106-REF07,CIE62106,7,Gusnarib Wahab & Rosnawati. 2021. Teori-Teori Belajar Dan Pembelajaran. Indramayu: Adab.,2021,,35
+CIE62107-REF01,CIE62107,1,"Bates, A. W. (2023). Teaching in a Digital Age: Guidelines for Designing Teaching and Learning (3rd ed.). Tony Bates Associates Ltd.",2023,,36
+CIE62107-REF02,CIE62107,2,"Clark, R. C., & Mayer, R. E. (2021). E-Learning and the Science of Instruction: Proven Guidelines for Consumers and Designers of Multimedia Learning (4th ed.). Wiley.",2021,,36
+CIE62107-REF03,CIE62107,3,"Garrison, D. R. (2022). E-Learning in the 21st Century: A Community of Inquiry Framework for Research and Practice (4th ed.). Routledge.",2022,,36
+CIE62107-REF04,CIE62107,4,"Vai, M., & Sosulski, K. (2022). Essentials of Online Course Design: A Standards-Based Guide (3rd ed.). Routledge.",2022,,36
+CIE62107-REF05,CIE62107,5,"Bonk, C. J., & Wiley, D. A. (2020). MOOCs and Open Education Around the World. Routledge.",2020,,36
+CIE62209-REF01,CIE62209,1,"Sommerville, I. (2021). Software Engineering (10th ed.). Pearson.",2021,,37
+CIE62209-REF02,CIE62209,2,"Pressman, R. S., & Maxim, B. R. (2020). Software Engineering: A Practitioner's Approach (9th ed.). McGraw-Hill Education.",2020,,37
+CIE62209-REF03,CIE62209,3,"Rubin, K. S. (2022). Essential Scrum: A Practical Guide to the Most Popular Agile Process. Addison-Wesley Professional.",2022,,37
+CIE62209-REF04,CIE62209,4,"McConnell, S. (2021). Code Complete: A Practical Handbook of Software Construction (3rd ed.). Microsoft Press.",2021,,37
+CIE62209-REF05,CIE62209,5,"Humble, J., & Farley, D. (2020). Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (2nd ed.). Addison-Wesley Professional.",2020,,37
+CSD60709-REF01,CSD60709,1,"Stallings, W., & Brown, L. (2022). Computer Security: Principles and Practice (5th ed.). Pearson.",2022,,38
+CSD60709-REF02,CSD60709,2,"Kim, P. (2021). The Hacker Playbook 3: Practical Guide To Penetration Testing. Secure Planet LLC.",2021,,38
+CSD60709-REF03,CSD60709,3,"Diogenes, Y., & Ozkaya, E. (2022). Cybersecurity - Attack and Defense Strategies (3rd ed.). Packt Publishing.",2022,,38
+CSD60709-REF04,CSD60709,4,"Vacca, J. R. (2021). Computer and Information Security Handbook (3rd ed.). Morgan Kaufmann.",2021,,38
+CSD60709-REF05,CSD60709,5,"Andress, J. (2022). The Basics of Information Security: Understanding the Fundamentals of InfoSec in Theory and Practice (3rd ed.). Syngress.",2022,,38
+CIE62303-REF01,CIE62303,1,"Russell, S. J., & Norvig, P. (2022). Artificial Intelligence: A Modern Approach (4th ed.). Pearson.",2022,,39
+CIE62303-REF02,CIE62303,2,"Goodfellow, I., Bengio, Y., & Courville, A. (2021). Deep Learning. MIT Press.",2021,,39
+CIE62303-REF03,CIE62303,3,"Géron, A. (2022). Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (3rd ed.). O'Reilly Media.",2022,,39
+CIE62303-REF04,CIE62303,4,"Luger, G. F. (2021). Artificial Intelligence: Structures and Strategies for Complex Problem Solving (7th ed.). Pearson.",2021,,39
+CIE62303-REF05,CIE62303,5,"Kelleher, J. D. (2023). Deep Learning. MIT Press.",2023,,39
+COM60052-REF01,COM60052,1,"Quinn, M. J. (2022). Ethics for the Information Age (8th ed.). Pearson.",2022,,40
+COM60052-REF02,COM60052,2,"Baase, S., & Henry, T. M. (2021). A Gift of Fire: Social, Legal, and Ethical Issues for Computing Technology (5th ed.). Pearson.",2021,,40
+COM60052-REF03,COM60052,3,"Tavani, H. T. (2023). Ethics and Technology: Controversies, Questions, and Strategies for Ethical Computing (6th ed.). Wiley.",2023,,40
+COM60052-REF04,COM60052,4,"Johnson, D. G. (2021). Computer Ethics (5th ed.). Pearson.",2021,,40
+COM60052-REF05,COM60052,5,"Spinello, R. A. (2022). Cyberethics: Morality and Law in Cyberspace (7th ed.). Jones & Bartlett Learning.",2022,,40
+COM60052-REF06,COM60052,6,"Ribble, M. (2022). Digital Citizenship in Schools: Nine Elements All Students Should Know (4th ed.). International Society for Technology in Education.",2022,,40
+COM60052-REF07,COM60052,7,"Johnson, D. G. (2021). Computer Ethics (5th ed.). Pearson.",2021,,40
+COM60052-REF08,COM60052,8,"Brooks, R. M. (2023). The Ethical Educator: Pointers and Pitfalls for School Leaders. Routledge.",2023,,40
+COM60052-REF09,COM60052,9,"Gunawan, J., & Sukmana, O. (2021). Etika Profesi Pendidik di Era Digital. Penerbit Andi.",2021,,40
+COM60052-REF10,COM60052,10,"Santoso, M. B. (2022). Etika dan Tanggung Jawab Profesional dalam Pendidikan. Kencana.",2022,,40
+CIE61108-REF01,CIE61108,1,"McMillan, J.H. 2024, Classroom Assessment: Principles and Practice that Enhance Student Learning and Motivation. 8th Edition. New Jearsey: Pearson",2024,,41
+CIE61108-REF02,CIE61108,2,"McMillan, J.H. 2013. Research on Classroom Assessment. London: Sage",2013,,41
+CIE61108-REF03,CIE61108,3,"Tomlinson, C.A., and Moon, T. R., 2013. Assessment and Student Success in a Differentiated Classroom. Alexandria: ASCD",2013,,41
+CIE61108-REF04,CIE61108,4,"Förster, Carla E., 2023. The Power of Assessment in the Classroom: Improving Decisions to Promote Learning. Springer",2023,,41
+CIE61109-REF01,CIE61109,1,"Asril, Z. (2021). Micro Teaching: Disertai dengan Pedoman Pengalaman Lapangan. Jakarta: Rajawali Pers.",2021,,42
+CIE61109-REF02,CIE61109,2,Helmiati. (2022). Micro Teaching: Melatih Keterampilan Dasar Mengajar. Yogyakarta: Aswaja Pressindo.,2022,,42
+CIE61109-REF03,CIE61109,3,Rusman. (2023). Model-Model Pembelajaran: Mengembangkan Profesionalisme Guru. Jakarta: Rajawali Pers.,2023,,42
+CIE61109-REF04,CIE61109,4,Suyono & Hariyanto. (2022). Belajar dan Pembelajaran: Teori dan Konsep Dasar. Bandung: PT Remaja Rosdakarya.,2022,,42
+CIE61109-REF05,CIE61109,5,"Darmawan, D. (2021). Teknologi Pembelajaran. Bandung: PT Remaja Rosdakarya.",2021,,42
+CIE61110-REF01,CIE61110,1,"Seel, M., Norbert, Lehmann, Thomas, Blumschein, Podolskiy, A., Oleg. 2017.Instructional Design For Learning Theoretical Foundations. Rotterdam: Sense",2017,,43
+CIE61110-REF02,CIE61110,2,"Branch, R. M. (2021). Instructional Design: The ADDIE Approach (3rd ed.). Springer.",2021,,43
+CIE61110-REF03,CIE61110,3,"Piskurich, G. M. (2022). Rapid Instructional Design: Learning ID Fast and Right (4th ed.). Wiley.",2022,,43
+CIE61110-REF04,CIE61110,4,"Dousay, T. A. (2023). Instructional Design for Teachers: Improving Classroom Practice (2nd ed.). Routledge.",2023,,43
+CIE61110-REF05,CIE61110,5,"Clark, R. C., & Mayer, R. E. (2021). E-Learning and the Science of Instruction: Proven Guidelines for Consumers and Designers of Multimedia Learning (4th ed.). Wiley.",2021,,43
+CIE61110-REF06,CIE61110,6,"Morrison, G. R., Ross, S. J., Morrison, J. R., & Kalman, H. K. (2022). Designing Effective Instruction (8th ed.). Wiley.",2022,,43
+COM60051-REF01,COM60051,1,"Creswell, J. W., & Creswell, J. D. (2023). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches (6th ed.). SAGE Publications.",2023,,44
+COM60051-REF02,COM60051,2,"Fraenkel, J. R., Wallen, N. E., & Hyun, H. H. (2022). How to Design and Evaluate Research in Education (11th ed.). McGraw-Hill Education.",2022,,44
+COM60051-REF03,COM60051,3,"Sugiyono. (2021). Metode Penelitian Pendidikan: Pendekatan Kuantitatif, Kualitatif, dan R&D. Alfabeta.",2021,,44
+COM60051-REF04,COM60051,4,"Putra, N. (2022). Research & Development: Penelitian dan Pengembangan: Suatu Pengantar. Rajawali Pers.",2022,,44
+CSD60708-REF01,CSD60708,1,"Han, J., Kamber, M., & Pei, J. (2022). Data Mining: Concepts and Techniques (4th ed.). Morgan Kaufmann.",2022,,45
+CSD60708-REF02,CSD60708,2,"Witten, I. H., Frank, E., Hall, M. A., & Pal, C. J. (2023). Data Mining: Practical Machine Learning Tools and Techniques (5th ed.). Morgan Kaufmann.",2023,,45
+CSD60708-REF03,CSD60708,3,"Aggarwal, C. C. (2021). Data Mining: The Textbook (2nd ed.). Springer.",2021,,45
+CSD60708-REF04,CSD60708,4,"Zaki, M. J., & Meira Jr, W. (2020). Data Mining and Machine Learning: Fundamental Concepts and Algorithms (2nd ed.). Cambridge University Press.",2020,,45
+CSD60708-REF05,CSD60708,5,"Tan, P. N., Steinbach, M., Karpatne, A., & Kumar, V. (2022). Introduction to Data Mining (2nd ed.). Pearson.",2022,,45
+CIE61111-REF01,CIE61111,1,"Li, Jian. 2023., Pre-service Teacher Education Policy Development: A Global Perspective. Singapore: Springer.",2023,,46
+CIE61111-REF02,CIE61111,2,"Kosnik and Beck. 2009., Priorities in Teacher Education: The 7 Key Elements of Pre-service Preparation. New York: Routledge",2009,,46
+CIE61111-REF03,CIE61111,3,"Mulyasa, E. (2021). Manajemen & Kepemimpinan Kepala Sekolah. Jakarta: Bumi Aksara.",2021,,46
+CIE61111-REF04,CIE61111,4,"Darmawan, D. (2022). Teknologi Pembelajaran. Bandung: Remaja Rosdakarya.",2022,,46
+CIE61111-REF05,CIE61111,5,"Suharsaputra, U. (2023). Administrasi Pendidikan. Bandung: Refika Aditama.",2023,,46
+CIE61111-REF06,CIE61111,6,Kompri. (2021). Manajemen Sekolah: Orientasi Kemandirian Kepala Sekolah. Yogyakarta: Pustaka Pelajar.,2021,,46
+CIE61111-REF07,CIE61111,7,Rusman. (2022). Manajemen Kurikulum. Jakarta: Rajawali Pers.,2022,,46
+CIE61112-REF01,CIE61112,1,Suyono & Hariyanto. (2022). Belajar dan Pembelajaran: Teori dan Konsep Dasar. Bandung: PT Remaja Rosdakarya.,2022,,47
+CIE61112-REF02,CIE61112,2,"Darmawan, D. (2021). Teknologi Pembelajaran. Bandung: PT Remaja Rosdakarya.",2021,,47
+CIE61112-REF03,CIE61112,3,Rusman. (2023). Model-Model Pembelajaran: Mengembangkan Profesionalisme Guru. Jakarta: Rajawali Pers.,2023,,47
+CIE61112-REF04,CIE61112,4,"Arifin, Z. (2022). Evaluasi Pembelajaran: Prinsip, Teknik, dan Prosedur. Bandung: PT Remaja Rosdakarya.",2022,,47
+CIE61112-REF05,CIE61112,5,"Mulyasa, E. (2021). Menjadi Guru Profesional: Menciptakan Pembelajaran Kreatif dan Menyenangkan. Bandung: PT Remaja Rosdakarya.",2021,,47
+UBU60002-REF01,UBU60002,1,"Sweitzer, H. F., & King, M. A. (2023). The Successful Internship: Personal, Professional, and Civic Development in Experiential Learning (6th ed.). Cengage Learning.",2023,,48
+UBU60002-REF02,UBU60002,2,"Kelley, R. E. (2022). The Art of Innovation: Lessons in Creativity from IDEO, America's Leading Design Firm. Crown Business.",2022,,48
+UBU60002-REF03,UBU60002,3,"Bock, L. (2021). Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead. Twelve.",2021,,48
+UBU60002-REF04,UBU60002,4,"Knapp, J., Zeratsky, J., & Kowitz, B. (2022). Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days. Simon & Schuster.",2022,,48
+UBU60002-REF05,UBU60002,5,"Duhigg, C. (2020). Smarter Faster Better: The Secrets of Being Productive in Life and Business. Random House.",2020,,48
+COM60061-REF01,COM60061,1,"Larmer, J., Mergendoller, J., & Boss, S. (2023). Project Based Teaching: How to Create Rigorous and Engaging Learning Experiences. ASCD.",2023,,49
+COM60061-REF02,COM60061,2,"Krajcik, J. S., & Czerniak, C. M. (2022). Teaching Science in Elementary and Middle School: A Project-Based Approach (6th ed.). Routledge.",2022,,49
+COM60061-REF03,COM60061,3,"Mishra, P., & Koehler, M. J. (2021). Handbook of Technological Pedagogical Content Knowledge (TPACK) for Educators (2nd ed.). Routledge.",2021,,49
+COM60061-REF04,COM60061,4,"Bender, W. N. (2022). Project-Based Learning: Differentiating Instruction for the 21st Century (2nd ed.). Corwin.",2022,,49
+COM60061-REF05,COM60061,5,"Means, B., & Neisler, J. (2023). Teaching and Learning in the Digital Age: Toward a New Educational Paradigm. Harvard Education Press.",2023,,49
+COM60061-REF06,COM60061,6,"Sommerville, I. (2021). Software Engineering (10th ed.). Pearson.",2021,,49
+COM60061-REF07,COM60061,7,"Pressman, R. S., & Maxim, B. R. (2020). Software Engineering: A Practitioner's Approach (9th ed.). McGraw-Hill Education.",2020,,49
+COM60061-REF08,COM60061,8,"Stellman, A., & Greene, J. (2022). Applied Software Project Management (2nd ed.). O'Reilly Media.",2022,,49
+COM60061-REF09,COM60061,9,"Wysocki, R. K. (2021). Effective Project Management: Traditional, Agile, Extreme, Hybrid (8th ed.). Wiley.",2021,,49
+COM60061-REF10,COM60061,10,"Dix, A., Finlay, J., Abowd, G. D., & Beale, R. (2022). Human-Computer Interaction (4th ed.). Pearson.",2022,,49
+UBU60001-REF01,UBU60001,1,"Creswell, J. W., & Creswell, J. D. (2023). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches (6th ed.). SAGE Publications.",2023,,50
+UBU60001-REF02,UBU60001,2,"Ary, D., Jacobs, L. C., Irvine, C. K. S., & Walker, D. (2022). Introduction to Research in Education (10th ed.). Cengage Learning.",2022,,50
+UBU60001-REF03,UBU60001,3,"Cohen, L., Manion, L., & Morrison, K. (2023). Research Methods in Education (9th ed.). Routledge.",2023,,50
+UBU60001-REF04,UBU60001,4,"Fraenkel, J. R., Wallen, N. E., & Hyun, H. H. (2022). How to Design and Evaluate Research in Education (11th ed.). McGraw-Hill Education.",2022,,50
+UBU60001-REF05,UBU60001,5,"Mishra, P., & Koehler, M. J. (2021). Handbook of Technological Pedagogical Content Knowledge (TPACK) for Educators (2nd ed.). Routledge.",2021,,50
+UBU60005-REF01,UBU60005,1,"Stoecker, R. (2023). Research Methods for Community Change: A Project-Based Approach (3rd ed.). SAGE Publications.",2023,,51
+UBU60005-REF02,UBU60005,2,"Phillips, R., & Pittman, R. H. (Eds.). (2022). An Introduction to Community Development (3rd ed.). Routledge.",2022,,51
+UBU60005-REF03,UBU60005,3,"Unwin, T. (2021). Digital Technologies and Social Transformation: Reclaiming the Commons. Routledge.",2021,,51
+UBU60005-REF04,UBU60005,4,"Sianipar, C. P. M., & Yudoko, G. (2021). Appropriate Technology for Sustainable Development: Integrating Local and Global Perspectives. Springer.",2021,,51
+UBU60005-REF05,UBU60005,5,"Heeks, R. (2020). ICT4D 3.0? Part 1 - The Components of an Emerging ""Digital-for-Development"" Paradigm. The Electronic Journal of Information Systems in Developing Countries, 86(3), e12124.",2020,,51
+CIE61402-REF01,CIE61402,1,"Denning, P. J., & Tedre, M. (2023). Computational Thinking: A Disciplinary Perspective. MIT Press.",2023,,52
+CIE61402-REF02,CIE61402,2,"Wing, J. M. (2021). Computational Thinking. MIT Press.",2021,,52
+CIE61402-REF03,CIE61402,3,"Yadav, A., & Stephenson, C. (2022). Computational Thinking for Educators: Principles and Applications. Springer.",2022,,52
+CIE61402-REF04,CIE61402,4,"Selby, C., & Woollard, J. (2021). Computational Thinking: A Guide for Teachers. Sage Publications.",2021,,52
+CIE61402-REF05,CIE61402,5,"Csizmadia, A., & Sentence, S. (2023). Teaching Computational Thinking: Developing Learners' Problem-Solving Skills. Cambridge University Press.",2023,,52
+CIE61403-REF01,CIE61403,1,"Stair, R. M., & Reynolds, G. W. (2023). Principles of Information Systems (14th ed.). Cengage Learning.",2023,,53
+CIE61403-REF02,CIE61403,2,"Lewrick, M., Link, P., & Leifer, L. (2022). The Design Thinking Toolbox: A Guide to Mastering the Most Popular and Valuable Innovation Methods. Wiley.",2022,,53
+CIE61403-REF03,CIE61403,3,"Beyer, H., & Holtzblatt, K. (2021). Contextual Design: Design for Life (2nd ed.). Morgan Kaufmann.",2021,,53
+CIE61403-REF04,CIE61403,4,"Valacich, J. S., & George, J. F. (2022). Modern Systems Analysis and Design (10th ed.). Pearson.",2022,,53
+CIE61403-REF05,CIE61403,5,"Brown, T., & Katz, B. (2021). Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation (2nd ed.). Harper Business.",2021,,53
+CIE61404-REF01,CIE61404,1,"Schwalbe, K. (2023). Information Technology Project Management (10th ed.). Cengage Learning.",2023,,54
+CIE61404-REF02,CIE61404,2,"Marchewka, J. T. (2021). Information Technology Project Management: Providing Measurable Organizational Value (6th ed.). Wiley.",2021,,54
+CIE61404-REF03,CIE61404,3,"Wysocki, R. K. (2022). Effective Project Management: Traditional, Agile, Extreme, Hybrid (9th ed.). Wiley.",2022,,54
+CIE61404-REF04,CIE61404,4,Project Management Institute. (2021). A Guide to the Project Management Body of Knowledge (PMBOK Guide) (7th ed.). Project Management Institute.,2021,,54
+CIE61404-REF05,CIE61404,5,"Cobb, C. G. (2022). Making Sense of Agile Project Management: Balancing Control and Agility (2nd ed.). Wiley.",2022,,54
+CSD60701-REF01,CSD60701,1,Axelos. (2023). ITIL 4 Foundation: ITIL 4 Edition. TSO.,2023,,55
+CSD60701-REF02,CSD60701,2,"Steinberg, R. A. (2022). ITIL Service Operation (ITIL v3). Van Haren Publishing.",2022,,55
+CSD60701-REF03,CSD60701,3,"Kempter, S. (2021). YaSM - A Service Management Framework for the Digital Age. IT Process Maps GbR.",2021,,55
+CSD60701-REF04,CSD60701,4,"Bernard, P. (2020). COBIT 2019 Framework: Introduction and Methodology. ISACA.",2020,,55
+CSD60701-REF05,CSD60701,5,"Iden, J., & Eikebrokk, T. R. (2023). Implementing IT Service Management: A Practice-Based Approach. Springer.",2023,,55
+CIE61113-REF01,CIE61113,1,"Noe, Raymond A., 2023. Employee Training and Development. Ninth Edition. New York: McGraw Hill",2023,,56
+CIE61113-REF02,CIE61113,2,"Knowles, M.S., Holton III, E.F., Swanson, R.A. 2005. The Adult Learner: The Definitive Classic in Adult Education and Human Resource Development. 6th edition. San Diego: Elsevier",2005,,56
+CIE61113-REF03,CIE61113,3,"Driscoll, M. & Carliner, S. 2005. Advanced Web-Based Training Strategies: Unlocking Instructionally Sound Online Learning. San Fransisco: Pfeiffer.",2005,,56
+CIE61113-REF04,CIE61113,4,"Nazar, Y., Sjofjan, Y., & Fitanto, B. 2019. Pengembangan Program Pendidikan dan Pelatihan. Tangerang Selatan: Universitas Terbuka.",2019,,56
+CIE61114-REF01,CIE61114,1,"Tonette S. Rocco, et all. 2020. The Handbook of Adult and Continuing Education. Virginia: Stylus Publishing",2020,,57
+CIE61114-REF02,CIE61114,2,"Merriam, S. B., & Baumgartner, L. M. (2020). Learning in Adulthood: A Comprehensive Guide (4th ed.). Jossey-Bass.",2020,,57
+CIE61114-REF03,CIE61114,3,"Knowles, M. S., Holton III, E. F., & Swanson, R. A. (2020). The Adult Learner: The Definitive Classic in Adult Education and Human Resource Development (9th ed.). Routledge.",2020,,57
+CIE61114-REF04,CIE61114,4,"Jarvis, P. (2021). Adult Education and Lifelong Learning: Theory and Practice (5th ed.). Routledge.",2021,,57
+CIE61114-REF05,CIE61114,5,"Merriam, S. B., & Bierema, L. L. (2022). Adult Learning: Linking Theory and Practice (2nd ed.). Jossey-Bass.",2022,,57
+CIE61114-REF06,CIE61114,6,"Kasworm, C. E., Rose, A. D., & Ross-Gordon, J. M. (Eds.). (2020). Handbook of Adult and Continuing Education (2nd ed.). SAGE Publications.",2020,,57
+CIE61115-REF01,CIE61115,1,"Bush, T. (2023). Educational Leadership and Management (6th ed.). SAGE Publications.",2023,,58
+CIE61115-REF02,CIE61115,2,"Hoy, W. K., & Miskel, C. G. (2022). Educational Administration: Theory, Research, and Practice (11th ed.). McGraw-Hill Education.",2022,,58
+CIE61115-REF03,CIE61115,3,"Bates, A. W., & Sangra, A. (2021). Managing Technology in Higher Education: Strategies for Transforming Teaching and Learning. Jossey-Bass.",2021,,58
+CIE61115-REF04,CIE61115,4,"Fullan, M. (2022). The Principal: Three Keys to Maximizing Impact. Jossey-Bass.",2022,,58
+CIE61115-REF05,CIE61115,5,"Mulyasa, E. (2021). Manajemen & Kepemimpinan Kepala Sekolah. Jakarta: Bumi Aksara.",2021,,58
+CIE62305-REF01,CIE62305,1,"Black, Lord, Donna. 2022. Essentials of Social Emotional Learning (SEL). New Jersey: Wiley",2022,,59
+CIE62305-REF02,CIE62305,2,"Durlak, J. A., Domitrovich, C. E., Weissberg, R. P., & Gullotta, T. P. (Eds.). (2021). Handbook of Social and Emotional Learning: Research and Practice (2nd ed.). Guilford Press.",2021,,59
+CIE62305-REF03,CIE62305,3,"Brackett, M. A. (2022). Permission to Feel: Unlocking the Power of Emotions to Help Our Kids, Ourselves, and Our Society Thrive. Celadon Books.",2022,,59
+CIE62305-REF04,CIE62305,4,"Elias, M. J., & Moceri, D. C. (2023). Social-Emotional Learning and Character Development in the Digital Age. Harvard Education Press.",2023,,59
+CIE62305-REF05,CIE62305,5,"Schonert-Reichl, K. A., & Roeser, R. W. (Eds.). (2021). Handbook of Mindfulness in Education: Integrating Theory and Research into Practice. Springer.",2021,,59
+CIE62305-REF06,CIE62305,6,"Zins, J. E., & Elias, M. J. (2022). Social and Emotional Learning: Promoting the Development of All Students. Journal of Educational and Psychological Consultation, 17(2-3), 233-255.",2022,,59
+CIE62306-REF01,CIE62306,1,"Gargiulo and Metcalf., 2021. Teaching in Today's Inclusive Classrooms: A Universal Design for Learning Approach. Boston: Cencage",2021,,60
+CIE62306-REF02,CIE62306,2,"Tomlinson, C.A., 2017. How to Differentiate Instruction in Academically Diverse Classroom. 3rd edition. Alexandria: ASCD",2017,,60
+CIE62306-REF03,CIE62306,3,"Florian, L. (Ed.). (2022). The SAGE Handbook of Inclusive and Special Education (2nd ed.). SAGE Publications.",2022,,60
+CIE62306-REF04,CIE62306,4,"Friend, M., & Bursuck, W. D. (2023). Including Students with Special Needs: A Practical Guide for Classroom Teachers (9th ed.). Pearson.",2023,,60
+CIE62306-REF05,CIE62306,5,"Meyer, A., Rose, D. H., & Gordon, D. (2021). Universal Design for Learning: Theory and Practice. CAST Professional Publishing.",2021,,60
+CIE62306-REF06,CIE62306,6,"Tomlinson, C. A. (2021). How to Differentiate Instruction in Academically Diverse Classrooms (3rd ed.). ASCD.",2021,,60
+CIE62306-REF07,CIE62306,7,"Dell, A. G., Newton, D. A., & Petroff, J. G. (2022). Assistive Technology in the Classroom: Enhancing the School Experiences of Students with Disabilities (3rd ed.). Pearson.",2022,,60
+CSD60702-REF01,CSD60702,1,"Turban, E., Aronson, J. E., & Liang, T. P. (2022). Decision Support and Business Intelligence Systems (10th ed.). Pearson.",2022,,61
+CSD60702-REF02,CSD60702,2,"Sauter, V. L. (2021). Decision Support Systems for Business Intelligence (3rd ed.). Wiley.",2021,,61
+CSD60702-REF03,CSD60702,3,"Power, D. J., Sharda, R., & Burstein, F. (2023). Decision Support Systems (4th ed.). Wiley.",2023,,61
+CSD60702-REF04,CSD60702,4,"Delen, D., & Ram, S. (2022). Business Analytics: Data Science and Decision Making. Springer.",2022,,61
+CSD60702-REF05,CSD60702,5,"Vercellis, C. (2021). Business Intelligence: Data Mining and Optimization for Decision Making (2nd ed.). Wiley.",2021,,61
+CIE61212-REF01,CIE61212,1,"Géron, A. (2022). Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (3rd ed.). O'Reilly Media.",2022,,62
+CIE61212-REF02,CIE61212,2,"Chollet, F. (2021). Deep Learning with Python (2nd ed.). Manning Publications.",2021,,62
+CIE61212-REF03,CIE61212,3,"Kuhn, M., & Johnson, K. (2023). Applied Predictive Modeling (2nd ed.). Springer.",2023,,62
+CIE61212-REF04,CIE61212,4,"Molnar, C. (2022). Interpretable Machine Learning: A Guide for Making Black Box Models Explainable (2nd ed.). Lulu.com.",2022,,62
+CIE61212-REF05,CIE61212,5,"Sculley, D., Holt, G., Golovin, D., Davydov, E., & Phillips, T. (2021). Machine Learning: The High Interest Credit Card of Technical Debt. In SE4ML: Software Engineering for Machine Learning (pp. 1-9). Springer.",2021,,62
+CIE62116-REF01,CIE62116,1,"Erl, T., Mahmood, Z., & Puttini, R. (2023). Cloud Computing: Concepts, Technology & Architecture (3rd ed.). Pearson.",2023,,63
+CIE62116-REF02,CIE62116,2,"Wittig, M., & Wittig, A. (2022). Amazon Web Services in Action (3rd ed.). Manning Publications.",2022,,63
+CIE62116-REF03,CIE62116,3,"Copeland, M., Soh, J., Puca, A., Manning, M., & Gollob, D. (2022). Microsoft Azure: Planning, Deploying, and Managing the Cloud (2nd ed.). Apress.",2022,,63
+CIE62116-REF04,CIE62116,4,"Arundel, J., & Domingus, J. (2022). Cloud Native DevOps with Kubernetes (2nd ed.). O'Reilly Media.",2022,,63
+CIE62116-REF05,CIE62116,5,"Raj, P. (2021). Hands-On Cloud Computing with Azure: Architect, deploy, and manage cloud applications using Microsoft Azure. Packt Publishing.",2021,,63
+CIE62117-REF01,CIE62117,1,"Serpanos, D., & Wolf, M. (2023). Internet-of-Things (IoT) Systems: Architectures, Algorithms, Methodologies. Springer.",2023,,64
+CIE62117-REF02,CIE62117,2,"Raj, P., & Raman, A. C. (2022). The Internet of Things: Enabling Technologies, Platforms, and Use Cases. CRC Press.",2022,,64
+CIE62117-REF03,CIE62117,3,"Buyya, R., & Dastjerdi, A. V. (2023). Internet of Things: Principles and Paradigms (2nd ed.). Morgan Kaufmann.",2023,,64
+CIE62117-REF04,CIE62117,4,"Slama, D., Puhlmann, F., Morrish, J., & Bhatnagar, R. M. (2022). Enterprise IoT: Strategies and Best Practices for Connected Products and Services (2nd ed.). O'Reilly Media.",2022,,64
+CIE62117-REF05,CIE62117,5,"Gilchrist, A. (2022). Industry 4.0: The Industrial Internet of Things (2nd ed.). Apress.",2022,,64
+CIE62118-REF01,CIE62118,1,"Kapp, K. M. (2022). The Gamification of Learning and Instruction Fieldbook: Ideas into Practice (2nd ed.). Wiley.",2022,,65
+CIE62118-REF02,CIE62118,2,"Plass, J. L., Mayer, R. E., & Homer, B. D. (Eds.). (2020). Handbook of Game-Based Learning. MIT Press.",2020,,65
+CIE62118-REF03,CIE62118,3,"Brusilovsky, P., & Peylo, C. (2021). Adaptive and Intelligent Web-based Educational Systems. Springer.",2021,,65
+CIE62118-REF04,CIE62118,4,"Clark, R. C., & Mayer, R. E. (2021). E-Learning and the Science of Instruction: Proven Guidelines for Consumers and Designers of Multimedia Learning (5th ed.). Wiley.",2021,,65
+CIE62118-REF05,CIE62118,5,"Ifenthaler, D., Sampson, D. G., & Spector, J. M. (Eds.). (2022). Artificial Intelligence in Education: Challenges and Opportunities for Teaching and Learning. Springer.",2022,,65
+CIE62307-REF01,CIE62307,1,"Clark, R. C., & Mayer, R. E. (2021). E-Learning and the Science of Instruction: Proven Guidelines for Consumers and Designers of Multimedia Learning (5th ed.). Wiley.",2021,,66
+CIE62307-REF02,CIE62307,2,"Plass, J. L., Mayer, R. E., & Homer, B. D. (Eds.). (2020). Handbook of Game-Based Learning. MIT Press.",2020,,66
+CIE62307-REF03,CIE62307,3,"Crompton, H., & Traxler, J. (Eds.). (2022). Mobile Learning and STEM: Case Studies in Practice (2nd ed.). Routledge.",2022,,66
+CIE62307-REF04,CIE62307,4,"Kapp, K. M. (2022). The Gamification of Learning and Instruction Fieldbook: Ideas into Practice (2nd ed.). Wiley.",2022,,66
+CIE62307-REF05,CIE62307,5,"Parsons, D. (Ed.). (2021). Mobile and Blended Learning Innovations for Improved Learning Outcomes. IGI Global.",2021,,66
+CIE62308-REF01,CIE62308,1,"Moore, M. G., & Diehl, W. C. (Eds.). (2023). Handbook of Distance Education (5th ed.). Routledge.",2023,,67
+CIE62308-REF02,CIE62308,2,"Vai, M., & Sosulski, K. (2022). Essentials of Online Course Design: A Standards-Based Guide (3rd ed.). Routledge.",2022,,67
+CIE62308-REF03,CIE62308,3,"Simonson, M., Zvacek, S. M., & Smaldino, S. (2023). Teaching and Learning at a Distance: Foundations of Distance Education (8th ed.). Information Age Publishing.",2023,,67
+CIE62308-REF04,CIE62308,4,"Boettcher, J. V., & Conrad, R. M. (2021). The Online Teaching Survival Guide: Simple and Practical Pedagogical Tips (3rd ed.). Jossey-Bass.",2021,,67
+CIE62308-REF05,CIE62308,5,"Nilson, L. B., & Goodson, L. A. (2021). Online Teaching at Its Best: Merging",2021,Terpotong di sumber,67
+CSD60716-REF01,CSD60716,1,"Saldaña, J. (2021). The Coding Manual for Qualitative Researchers (4th ed.). SAGE Publications.",2021,,68
+CSD60716-REF02,CSD60716,2,"Miles, M. B., Huberman, A. M., & Saldaña, J. (2020). Qualitative Data Analysis: A Methods Sourcebook (4th ed.). SAGE Publications.",2020,,68
+CSD60716-REF03,CSD60716,3,"Braun, V., & Clarke, V. (2021). Thematic Analysis: A Practical Guide. SAGE Publications.",2021,,68
+CSD60716-REF04,CSD60716,4,"Jackson, K., & Bazeley, P. (2019). Qualitative Data Analysis with NVivo (3rd ed.). SAGE Publications.",2019,,68
+CSD60716-REF05,CSD60716,5,"Friese, S. (2019). Qualitative Data Analysis with ATLAS.ti (3rd ed.). SAGE Publications.",2019,,68
+CSD60715-REF01,CSD60715,1,"Field, A. (2023). Discovering Statistics Using IBM SPSS Statistics (6th ed.). SAGE Publications.",2023,,69
+CSD60715-REF02,CSD60715,2,"Hair, J. F., Black, W. C., Babin, B. J., & Anderson, R. E. (2019). Multivariate Data Analysis (8th ed.). Cengage Learning.",2019,,69
+CSD60715-REF03,CSD60715,3,"McKinney, W. (2022). Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter (3rd ed.). O'Reilly Media.",2022,,69
+CSD60715-REF04,CSD60715,4,"Wickham, H., & Grolemund, G. (2023). R for Data Science: Import, Tidy, Transform, Visualize, and Model Data (2nd ed.). O'Reilly Media.",2023,,69
+CSD60715-REF05,CSD60715,5,"Tabachnick, B. G., & Fidell, L. S. (2019). Using Multivariate Statistics (7th ed.). Pearson.",2019,,69
+CIE61215-REF01,CIE61215,1,"Lecheta, R. (2023). Google Android: Aprenda a criar aplicações para dispositivos móveis com o Android SDK (6th ed.). Novatec.",2023,,70
+CIE61215-REF02,CIE61215,2,"Phillips, B., Stewart, C., & Marsicano, K. (2022). Android Programming: The Big Nerd Ranch Guide (5th ed.). Big Nerd Ranch Guides.",2022,,70
+CIE61215-REF03,CIE61215,3,"Nahavandipoor, V. (2023). iOS 16 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa Basics. O'Reilly Media.",2023,,70
+CIE61215-REF04,CIE61215,4,"Wenderlich, R., Gallagher, M., & Galloway, A. (2022). SwiftUI Apprentice (3rd ed.). Razeware LLC.",2022,,70
+CIE61215-REF05,CIE61215,5,"Martin, R. C. (2021). Clean Architecture: A Craftsman's Guide to Software Structure and Design. Pearson.",2021,,70
+CSD60713-REF01,CSD60713,1,"Cisco Networking Academy. (2023). CCNA: Enterprise Networking, Security, and Automation Companion Guide. Cisco Press.",2023,,71
+CSD60713-REF02,CSD60713,2,"White, R., & Banks, E. (2022). Computer Networking Problems and Solutions: An Innovative Approach to Building Resilient, Modern Networks. Addison-Wesley Professional.",2022,,71
+CSD60713-REF03,CSD60713,3,"Edgeworth, B., Garza Rios, B., Gooley, N., & Hucaby, D. (2023). CCNP Enterprise Advanced Routing ENARSI 300-410 Official Cert Guide. Cisco Press.",2023,,71
+CSD60713-REF04,CSD60713,4,"Kurose, J. F., & Ross, K. W. (2022). Computer Networking: A Top-Down Approach (8th ed.). Pearson.",2022,,71
+CSD60713-REF05,CSD60713,5,"Meyers, M. (2023). CompTIA Network+ Certification All-in-One Exam Guide (8th ed.). McGraw-Hill Education.",2023,,71
+CSD60711-REF01,CSD60711,1,Interaction Design Foundation. (2023). The Basics of User Experience Design. Interaction Design Foundation.,2023,,72
+CSD60711-REF02,CSD60711,2,"Goodman, E., Kuniavsky, M., & Moed, A. (2022). Observing the User Experience: A Practitioner's Guide to User Research (3rd ed.). Morgan Kaufmann.",2022,,72
+CSD60711-REF03,CSD60711,3,"Krug, S. (2023). Don't Make Me Think, Revisited: A Common Sense Approach to Web and Mobile Usability (3rd ed.). New Riders.",2023,,72
+CSD60711-REF04,CSD60711,4,"Gothelf, J., & Seiden, J. (2021). Lean UX: Applying Lean Principles to Improve User Experience (3rd ed.). O'Reilly Media.",2021,,72
+CSD60711-REF05,CSD60711,5,"Norman, D. (2023). The Design of Everyday Things: Revised and Expanded Edition. Basic Books.",2023,,72
+CSD60714-REF01,CSD60714,1,"Pressman, R. S., & Maxim, B. R. (2020). Software Engineering: A Practitioner's Approach (9th ed.). McGraw-Hill Education.",2020,,73
+CSD60714-REF02,CSD60714,2,"Myers, G. J., Sandler, C., & Badgett, T. (2021). The Art of Software Testing (4th ed.). Wiley.",2021,,73
+CSD60714-REF03,CSD60714,3,"Kaner, C., Bach, J., & Pettichord, B. (2022). Lessons Learned in Software Testing: A Context-Driven Approach. Wiley.",2022,,73
+CSD60714-REF04,CSD60714,4,"Lewis, W. E. (2023). Software Testing and Continuous Quality Improvement (4th ed.). Auerbach Publications.",2023,,73
+CSD60714-REF05,CSD60714,5,"Fewster, M., & Graham, D. (2021). Software Test Automation: Effective Use of Test Execution Tools (2nd ed.). Addison-Wesley Professional.",2021,,73
+CIE61119-REF01,CIE61119,1,"Page, R. (2021). Narratives Online: Shared Stories in Social Media. Cambridge University Press.",2021,,74
+CIE61119-REF02,CIE61119,2,"Bateman, J. A., Wildfeuer, J., & Hiippala, T. (2023). Multimodality: Foundations, Research and Analysis – A Problem-Oriented Introduction. De Gruyter Mouton.",2023,,74
+CIE61119-REF03,CIE61119,3,"Alexander, B. (2022). The New Digital Storytelling: Creating Narratives with New Media. Praeger.",2022,,74
+CIE61119-REF04,CIE61119,4,"Kress, G. (2021). Multimodality: A Social Semiotic Approach to Contemporary Communication. Routledge.",2021,,74
+CIE61119-REF05,CIE61119,5,"Ryan, M. L. (2022). Narrative as Virtual Reality 2: Revisiting Immersion and Interactivity in Literature and Electronic Media. Johns Hopkins University Press.",2022,,74
+CIE61120-REF01,CIE61120,1,"Belshaw, D. (2023). The Essential Elements of Digital Literacies. Independently published.",2023,,75
+CIE61120-REF02,CIE61120,2,"Hobbs, R. (2021). Mind Over Media: Propaganda Education for a Digital Age. W. W. Norton & Company.",2021,,75
+CIE61120-REF03,CIE61120,3,"Polizzi, G. (2022). Digital Literacy and Education: Frameworks, Competencies and Strategies. Routledge.",2022,,75
+CIE61120-REF04,CIE61120,4,"Alexander, B., Adams Becker, S., & Cummins, M. (2021). Digital Literacy in Higher Education: A Report. New Media Consortium.",2021,,75
+CIE61120-REF05,CIE61120,5,"Carretero, S., Vuorikari, R., & Punie, Y. (2022). DigComp 2.2: The Digital Competence Framework for Citizens. Publications Office of the European Union.",2022,,75

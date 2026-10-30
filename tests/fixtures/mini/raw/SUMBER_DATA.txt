@@ -1,0 +1,3 @@
+fixture
+
+Data KRS fiktif buatan tangan untuk tes (tests/fixtures/README.md). Bukan data penelitian.

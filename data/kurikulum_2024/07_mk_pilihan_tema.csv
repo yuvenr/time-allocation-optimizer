@@ -1,0 +1,25 @@
+kode_mk,tema,nama_mk_tabel11,sks,praktikum_tabel11,semester_ditawarkan_1,semester_ditawarkan_2,prasyarat_tabel12,profil_lulusan_tabel12,semester_paritas_deskripsi,paritas_konsisten
+CIE61402,A,Paradigma Berpikir Komputasi,3,Tidak,3,5,Tidak ada,PL4,Ganjil,Y
+CIE61403,A,Paradigma Berpikir Sistem dan Desain,3,Tidak,3,5,Tidak ada,PL4,Ganjil,Y
+CIE61404,B,Manajemen Proyek Teknologi Informasi,3,Tidak,5,,Tidak ada,PL4,Ganjil,Y
+CSD60701,B,Manajemen Layanan Teknologi Informasi,3,Tidak,5,,Tidak ada,PL4,Ganjil,Y
+CIE61113,C,Pengembangan Program Pelatihan Teknologi Informasi,3,Tidak,5,,Tidak ada,PL1,Ganjil,Y
+CIE61114,C,Pendidikan Orang Dewasa dan Berkelanjutan,3,Tidak,5,,Tidak ada,PL1,Ganjil,Y
+CIE61115,C,Manajemen Sistem Pendidikan,3,Tidak,5,,Tidak ada,PL1,Ganjil,Y
+CIE62305,C,Pembelajaran Sosial Emosional,3,Tidak,6,,Tidak ada,PL1,Genap,Y
+CIE62306,C,Pembelajaran Inklusif,3,Tidak,6,,Tidak ada,PL1,Genap,Y
+CSD60702,D,Sistem Pendukung Keputusan,3,Ya,6,,Tidak ada,PL3,Ganjil,N
+CIE61212,D,Sistem Belajar Mesin,3,Tidak,6,,Nilai MK Kecerdasan Artifisial ≥ E,PL3,Ganjil,N
+CIE62116,E,Teknologi Komputasi Awan,3,Tidak,6,8,Tidak ada,PL2,Genap,Y
+CIE62117,E,Teknologi Peranti Internet,3,Tidak,6,8,Nilai MK Teknologi Platform ≥ E,PL2,Genap,Y
+CIE62118,F,Sistem Pembelajaran Bergamifikasi dan Terpersonalisasi,3,Tidak,4,,Tidak ada,PL1,Genap,Y
+CIE62307,F,"Sistem Pembelajaran Berbasis Multimedia, Gim, dan Peranti Bergerak",3,Tidak,4,,Nilai MK Lingkungan Pembelajaran Digital ≥ E,PL1,Genap,Y
+CIE62308,F,Sistem Pembelajaran Jarak Jauh,3,Tidak,4,,Tidak ada,PL1,Genap,Y
+CSD60716,G,Analisis Data Penelitian Kualitatif,3,Tidak,6,8,Tidak ada,PL3,Genap,Y
+CSD60715,G,Analisis Data Penelitian Kuantitatif,3,Tidak,6,8,Tidak ada,PL3,Genap,Y
+CIE61215,H,Pengembangan Aplikasi Peranti Bergerak,3,Tidak,5,7,Tidak ada,PL2,Ganjil,Y
+CSD60713,H,Jaringan Terapan,3,Tidak,5,7,Nilai MK Jaringan Komputer ≥ E,PL2,Ganjil,Y
+CSD60711,H,Perancangan Pengalaman Pengguna,3,Ya,6,8,Nilai MK Perancangan Antarmuka Pengguna ≥ E,PL2,Genap,Y
+CSD60714,H,Jaminan Kualitas Perangkat Lunak,3,Tidak,6,8,Tidak ada,PL2,Genap,Y
+CIE61119,I,Multimodal Storytelling,3,Tidak,4,6,Tidak ada,PL4,Genap,Y
+CIE61120,I,Literasi Digital,3,Tidak,4,6,Tidak ada,PL4,Genap,Y

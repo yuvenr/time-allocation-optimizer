@@ -1,0 +1,157 @@
+# =====================================================================
+# Konfigurasi Sistem Rekomendasi Rencana Studi PTI UB (ARM + LLM) — versi 2
+# Semua ambang & parameter ada di sini, tidak di-hardcode (KNF-07).
+# Perubahan dari UI Administrator disimpan ke config.override.yaml
+# (di-merge di atas file ini) agar komentar di file ini tetap utuh.
+# Rahasia (kunci API, salt anonimisasi, hash kata sandi peran) hanya di .env.
+# =====================================================================
+
+seed: 42                      # seed global: riwayat pelengkap, split latih/uji, few-shot
+# Sumber data KRS (src.data_loader.sumber_data):
+# - KRS akademik nyata: diimpor ke basis data (src/akademik.py; UI Administrator → Data akademik);
+# - riwayat multisemester bernilai: paths.raw/histori_krs.csv — asli, atau "sintetis" (penanda
+#   SUMBER_DATA.txt; riwayat pelengkap terkalibrasi dari src/sintetis.py) | fixture (tes).
+
+paths:                        # relatif terhadap root proyek
+  raw: data/raw                    # riwayat KRS multisemester (histori_krs.csv; tidak pernah di-commit)
+  db: data/crs.db                  # SQLite: histori anonim, transaksi, aturan, rating Bloom, CL, rencana, log
+  ekspor: data/ekspor              # ekspor CSV untuk JASP / lampiran
+  logs: logs
+  kurikulum: data/kurikulum_2024   # dataset Kurikulum 2024 (hasil scripts/kurikulum/build_dataset.py, read-only)
+  rating: data/rating              # formulir isian pakar (templat) & berkas pakar yang akan diimpor
+
+kurikulum:
+  horizon_semester: 8               # AD-09: rencana sampai semester 8 ...
+  perpanjang_melewati_horizon: true # ... diperpanjang (≤ AT04, 14 semester) bila belum lulus
+
+# Constraint engine kurikulum. Angka aturan (145/160 SKS,
+# 7–14 semester, pita SKS, prasyarat, jalur) dibaca dari CSV di paths.kurikulum; di sini tafsiran
+# dan parameter dari Pedoman Pendidikan UB yang tidak termuat di dataset.
+aturan:
+  PRASYARAT_E_BERARTI_PERNAH_MENEMPUH: false  # AD-03: prasyarat harus LULUS. true = tafsiran
+                                              # literal "Nilai MK X ≥ E" (pernah menempuh, nilai apa pun)
+  NILAI_LULUS_MINIMUM: "D"                    # AD-07: lulus = bukan E (Pedoman UB 8.4); D/D+ dibatasi di bawah
+  SKALA_NILAI: [A, B+, B, C+, C, D+, D, E]    # urut dari tertinggi
+  BOBOT_NILAI: {A: 4.0, B+: 3.5, B: 3.0, C+: 2.5, C: 2.0, D+: 1.5, D: 1.0, E: 0.0}   # untuk IP/IPK
+  NILAI_DIBATASI: [D+, D]                     # AD-07: SKS bernilai D/D+ paling banyak ...
+  BATAS_PROPORSI_NILAI_DIBATASI: 0.10         # ... 10% total beban kredit (Pedoman UB 8.4)
+  BATAS_SKS_IP: null                          # KF-11: timpa pita SKS 09 per batas bawah IP, mis.
+                                              # {3.00: [22, 24], 2.50: [19, 21], 2.00: [16, 18], 1.50: [12, 15], 0.00: [0, 12]}
+  SKRIPSI:                                    # AD-10 (Pedoman UB 8.5)
+    kode: UBU60001
+    min_sks_lulus: 120
+    min_ipk: 2.00
+  MODE_PENAWARAN_PILIHAN: paritas             # §4.5 tabel11_ketat | paritas (paritas sama & ≥ semester Tabel 11 terkecil)
+  # 09 menyarankan "tambah" MK di semester berparitas lain dari struktur Jalur A (Skripsi & PKM di
+  # sem. 7, Capstone di sem. 6). true = MK itu dianggap ditawarkan pada paritas tsb. mulai semester itu.
+  # Konflik ini belum tercatat di 19_catatan_inkonsistensi.csv (usulan INK31) — konfirmasi prodi.
+  PENAWARAN_DARI_REKOMENDASI_09: true
+
+preprocessing:                # UC-07
+  max_masa_studi: 8           # hanya alumni dengan masa studi <= 8 semester
+  # Lulus = nilai ≥ aturan.NILAI_LULUS_MINIMUM. Normalisasi kode 2020 → 2024 memakai 11_penyetaraan.
+  # MK 2020 'dihapus' (21 MK): buang (default; dampaknya dilaporkan) | prefiks_old (item historis OLD:<kode>)
+  mk_dihapus: buang
+  kolom_id: [nim, id_anon]    # kolom ID yang akan di-hash (yang pertama ditemukan)
+  kolom_identitas: [nim, nama, nama_mahasiswa, email, no_hp, alamat, tanggal_lahir]
+  proporsi_uji: 0.2           # 80:20 per mahasiswa, terpisah untuk tiap sumber
+
+arm:                          # UC-08
+  min_support: 0.2
+  min_confidence: 0.65
+  min_lift: 1.0
+  lift_ketat: true            # lift > min_lift; false = lift ≥ min_lift
+  max_len: 3                  # panjang itemset maksimum (membatasi ledakan aturan)
+  # Setiap transaksi hanya berisi item dari satu semester, sehingga support
+  # global sebuah item paling tinggi ~1/8. Dengan partisi, support dihitung
+  # relatif terhadap jumlah transaksi pada semester yang sama.
+  partisi_semester: true
+  # CLAUDE.md §6: MK wajib sudah terpaket (08) → aturan yang konsekuennya MK wajib dibuang agar aturan
+  # trivial tidak mendominasi; ruang keputusan ARM = 24 MK pilihan dalam 9 tema.
+  buang_konsekuen_wajib: true
+  # Sumber transaksi per semester: utamakan_asli = KRS akademik bila transaksi latih semester itu
+  # ≥ min_transaksi_asli, selain itu riwayat pelengkap | asli | sintetis | gabungan
+  sumber_data: utamakan_asli
+  min_transaksi_asli: 20
+  sensitivitas:
+    support: [0.05, 0.1, 0.15, 0.2, 0.25, 0.3]
+    confidence: [0.5, 0.65, 0.8]
+
+llm:                          # UC-09 — provider/model ditimpa oleh LLM_PROVIDER/LLM_MODEL di .env
+  provider: openai            # openai | anthropic | mock (luring, = heuristik KKO 02; dipakai tes)
+  model: gpt-6-luna           # LLM_PROVIDER/LLM_MODEL di .env menimpa dua nilai ini
+  temperature: 0              # hanya dikirim bila penalaran nonaktif & model menerimanya (model penalaran menolak →
+                              # dilepas & dicatat); konsistensi dijaga oleh n_pengulangan + median (KNF-02)
+  thinking: true              # penalaran internal model (OpenAI: reasoning; Claude: adaptive thinking)
+  thinking_display: summarized  # Claude: summarized = ringkasan penalaran ikut disimpan | omitted
+  effort: high                # low | medium | high | xhigh | max — kedalaman penalaran
+  structured_output: true     # OpenAI (text.format) & Claude (output_config.format): keluaran dipaksa JSON schema
+  max_tokens: 100000          # batas atas keluaran SATU batch (termasuk penalaran); terpotong → batch dibelah dua
+  anthropic_fallback: true    # fallbacks "default" bila Claude menolak (model pelayan dicatat per baris)
+  max_retry: 3                # retry setelah percobaan pertama gagal validasi JSON
+  max_retry_jaringan: 4       # retry SDK untuk galat jaringan/429/5xx (backoff eksponensial)
+  timeout_detik: 900           # per jeda antar-event stream (penalaran batch bisa lama tanpa event)
+  konkurensi: 3               # pengulangan (batch) dijalankan paralel
+  n_pengulangan: 3            # pengulangan (= jumlah batch) untuk reliabilitas; konsensus per CPMK = median
+  mk_per_batch: 0             # 0 = seluruh MK dalam SATU permintaan per pengulangan (3 permintaan total)
+  versi_prompt_bloom: v3      # bloom_v3.md: batch semua MK + few-shot 3 MK fiktif + penalaran singkat.
+                              # Hasil bloom-v2 (satu permintaan per MK, 2026-10-07) tetap dipakai sampai ada run v3.
+
+beban:
+  metode: jumlah              # jumlah: B_s = Σ cl×sks | rata_tertimbang: Σ cl×sks / Σ sks
+  theta: null                 # angka = ditimpa manual; null = otomatis menurut theta_sumber
+  # otomatis: data bila transaksi latih ada, selain itu struktur. data: persentil B_s semester KRS data
+  # latih (sumber per semester sama dengan arm.sumber_data). struktur: persentil B_s semester struktur
+  # resmi Jalur A–F (08) — belum dikalibrasi data KRS (dicatat sebagai asumsi di setiap rencana hybrid).
+  theta_sumber: otomatis
+  theta_persentil: 75
+  cl_default: null            # CL untuk MK tanpa skor; null = median skor MK lain
+  cl_afektif: 1.0             # MK yang SEMUA CPMK-nya afektif: CL dari penilaian kognitif individual bila ada,
+                              # selain itu nilai ini (beban kognitif minimal, asumsi)
+  # CL per MK = agregasi level Bloom (C1..C6 → 1..6) CPMK kognitif; CPMK afektif ("A") tidak ikut.
+  # sumber_cl: llm (LLM-as-judge; default v2) | pakar (impor UC-10) | heuristik (kamus KKO, 02) | llm_mock.
+  # Asumsi ini dicatat di setiap rencana; bila rating sumber belum ada → heuristik.
+  sumber_cl: llm
+  agregasi_cl: median         # median | maks | rata
+  kecualikan_kegiatan_transisi: true   # PLP/PKL/PKM/Capstone (16) dilaksanakan di masa transisi → tidak masuk B_s
+
+metrik:
+  abaikan_semester_kosong: true   # SD beban/SKS hanya atas semester yang berisi MK
+
+simulasi:                     # UC-12
+  k_potong: [2, 3, 4, 5, 6]   # potong riwayat multisemester data uji di semester k
+  validasi_krs:               # rekomendasi semester berjalan vs KRS akademik nyata (data uji)
+    semester: [3, 5]          # semester ≥ 7 tidak dipakai: MK pilihan yang sudah ditempuh tidak teramati
+    toleransi_sks: 0          # |SKS lulus akademik − SKS riwayat tersimpulkan (struktur Jalur A)| maksimum
+
+generator:                    # src/sintetis.py — riwayat KRS pelengkap, dikalibrasi dari data akademik
+  n_alumni: 300
+  angkatan_min: 2021          # riwayat Kurikulum 2024 (kode 2024), angkatan yang sudah lulus
+  angkatan_max: 2022
+  ipk_min: 2.75               # batas bawah target IPK (sampel dari distribusi IPK nyata)
+
+penyesuaian:                  # iterasi 3 — mahasiswa menggeser MK antarsemester (drag & drop; src/penyesuaian.py)
+  # pemindahan yang menimbulkan pelanggaran BARU aturan berikut ditolak (prasyarat, penawaran, pita SKS, paket,
+  # masa studi, Skripsi, PLP/korequisit, agama, konversi, AT10). Pelanggaran baru aturan lain — mis. AD-07
+  # (MK wajib tertunda tidak diambil di kesempatan pertama) — diterima sebagai catatan untuk DPA.
+  aturan_keras: [AD-02, AD-03, AD-04, AD-06, AD-08, AD-09, AD-10, AD-11, AD-12, AD-14, AD-15]
+  theta_keras: false          # true = pemindahan yang membuat beban semester > θ (mode hybrid) ditolak
+
+tampilan:                     # label UI saja; nilai dataset (06_tema_pilihan.csv) tidak diubah
+  # Nama tema berbahasa Indonesia untuk UI. Dokumen [R] hanya memuat nama berbahasa Inggris (mis. "Computing
+  # Education Thinking Paradigm Course"); terjemahan ini belum dikonfirmasi prodi.
+  nama_tema:
+    A: Paradigma Berpikir Pendidikan Komputasi
+    B: Manajemen Teknologi Informasi
+    C: Pendidikan Nonformal
+    D: Pengambilan Keputusan Berbasis Data
+    E: Teknologi Informasi yang Saling Terkait
+    F: Sistem Pembelajaran Imersif
+    G: Analisis Data Penelitian
+    H: Teknologi Informasi Lanjut
+    I: Keterampilan Komunikasi Publik
+
+auth:                         # KF-22 — hash kata sandi di .env (CRS_HASH_ADMIN, CRS_HASH_DPA),
+  aktif: true                 #   dibuat dengan: python -m src.auth
+  peran_terproteksi: [Administrator, DPA]
+  maks_gagal: 5               # percobaan gagal per sesi sebelum dikunci

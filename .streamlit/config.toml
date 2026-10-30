@@ -1,0 +1,14 @@
+# Konfigurasi server Streamlit (produksi). Rahasia TIDAK di sini — gunakan .env.
+[server]
+headless = true
+enableXsrfProtection = true
+enableCORS = true
+maxUploadSize = 50            # MB — xlsx/CSV akademik
+runOnSave = false
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showErrorDetails = "none"     # galat tidak membocorkan jejak kode ke pengguna
+toolbarMode = "minimal"

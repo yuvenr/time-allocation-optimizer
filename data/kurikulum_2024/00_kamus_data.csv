@@ -1,0 +1,85 @@
+file,kolom,keterangan
+01_mata_kuliah.csv,*,Master MK Kurikulum 2024 (70 MK Deskripsi + 2 MK Pilihan Universitas)
+01_mata_kuliah.csv,kode_mk,Kode MK resmi (PK)
+01_mata_kuliah.csv,nama_mk,Nama resmi (judul halaman Deskripsi)
+01_mata_kuliah.csv,nama_mk_en,Nama Inggris
+01_mata_kuliah.csv,nama_alias,Variasi nama di dokumen/diagram/MK lama (untuk pencocokan teks KRS)
+01_mata_kuliah.csv,sks,Bobot total
+01_mata_kuliah.csv,sks_tatap_muka,SKS tatap muka
+01_mata_kuliah.csv,sks_praktikum,SKS praktikum
+01_mata_kuliah.csv,durasi_tatap_muka_menit,Menit/minggu
+01_mata_kuliah.csv,durasi_praktikum_menit,Menit/minggu
+01_mata_kuliah.csv,berpraktikum,1/0
+01_mata_kuliah.csv,status,Wajib/Pilihan
+01_mata_kuliah.csv,kategori,Wajib Umum|Wajib Universitas|Wajib Fakultas|Wajib Program Studi|Pilihan Program Studi|Pilihan Universitas
+01_mata_kuliah.csv,kelompok_prodi,Kependidikan (MK wajib prodi PL1; syarat PLP) / Non-Kependidikan
+01_mata_kuliah.csv,profil_lulusan,PL1-PL4 / PENDUKUNG_SEMUA (CPL12-15)
+01_mata_kuliah.csv,sumber_profil_lulusan,Tabel/diagram asal pemetaan PL
+01_mata_kuliah.csv,tema_pilihan,A-I untuk MK pilihan prodi
+01_mata_kuliah.csv,semester_paritas_deskripsi,Ganjil/Genap menurut Deskripsi
+01_mata_kuliah.csv,semester_rekomendasi_jalur_A,Semester paket MK wajib (tabel struktur)
+01_mata_kuliah.csv,semester_slot_tema_jalur_A,Semester slot tema di Jalur A
+01_mata_kuliah.csv,semester_ditawarkan_tabel11,"Semester penawaran MK pilihan (Tabel 11, dipisah ';')"
+01_mata_kuliah.csv,grup_pilih_satu,AGAMA = cukup satu dari MPK60001-5
+01_mata_kuliah.csv,is_mk_lapangan,"1 untuk PLP 1/2, PKL, PKM"
+01_mata_kuliah.csv,prasyarat_deskripsi,Teks prasyarat di Deskripsi
+01_mata_kuliah.csv,prasyarat_ringkasan,Teks prasyarat di Ringkasan
+01_mata_kuliah.csv,deskripsi,Deskripsi MK
+01_mata_kuliah.csv,jumlah_cpmk,Jumlah CPMK setelah koreksi
+01_mata_kuliah.csv,jumlah_subcpmk,Jumlah Sub-CPMK
+01_mata_kuliah.csv,jumlah_referensi,Jumlah referensi
+01_mata_kuliah.csv,halaman_pdf_deskripsi,Halaman fisik PDF Deskripsi
+01_mata_kuliah.csv,sumber,Rujukan dokumen
+01_mata_kuliah.csv,catatan,Anomali bobot/keterangan
+02_cpmk.csv,*,CPMK per MK + analisis KKO/Bloom heuristik + kolom kosong untuk rating pakar & LLM
+02_cpmk.csv,id_cpmk,KODE-CPMKnn (PK)
+02_cpmk.csv,kode_mk,FK ke 01
+02_cpmk.csv,nomor,Urutan setelah koreksi
+02_cpmk.csv,nomor_sumber,Nomor di dokumen (5a/5b/1+2 = hasil koreksi)
+02_cpmk.csv,teks,Teks CPMK
+02_cpmk.csv,kko_utama,Kata kerja operasional pertama
+02_cpmk.csv,kko_semua,KKO utama + KKO terkoordinasi (dan/serta/koma)
+02_cpmk.csv,bloom_kko_utama_heuristik,Level Bloom KKO utama (18_kko_bloom_map)
+02_cpmk.csv,bloom_maks_heuristik,Level tertinggi dari kko_semua; A = afektif
+02_cpmk.csv,ranah_heuristik,kognitif/afektif/afektif+kognitif
+02_cpmk.csv,kko_ambigu,Y jika salah satu KKO ambigu
+02_cpmk.csv,kko_dikenal,Y/N
+02_cpmk.csv,bloom_pakar,KOSONG - diisi dari penilaian pakar (DPA)
+02_cpmk.csv,bloom_llm,KOSONG - diisi keluaran LLM-as-judge
+02_cpmk.csv,halaman_pdf,Halaman PDF
+03_subcpmk.csv,*,"Sub-CPMK per MK, skema sama dengan 02 (id_subcpmk)"
+04_referensi_mk.csv,*,Referensi per MK
+04_referensi_mk.csv,tahun_terbit,Tahun pertama yang terdeteksi di teks (regex)
+05_prasyarat.csv,*,Relasi prasyarat (edge list) MK -> MK syarat
+05_prasyarat.csv,jenis_syarat,nilai_minimal_mk | lulus_kelompok_mk_kependidikan | korequisit | pedoman_eksternal
+05_prasyarat.csv,nilai_minimal,E (pernah menempuh) / LULUS (ambang dikonfigurasi)
+05_prasyarat.csv,status_konsistensi,konsisten | hanya_ringkasan | hanya_deskripsi
+06_tema_pilihan.csv,*,"9 tema MK pilihan prodi (wajib terpenuhi semua, 3 SKS/tema)"
+07_mk_pilihan_tema.csv,*,MK pilihan per tema (Tabel 11 & 12)
+07_mk_pilihan_tema.csv,semester_ditawarkan_1,Kolom SEMESTER pertama Tabel 11
+07_mk_pilihan_tema.csv,semester_ditawarkan_2,Kolom SEMESTER kedua Tabel 11 (kosong = '-')
+07_mk_pilihan_tema.csv,paritas_konsisten,Y jika paritas semester Tabel 11 = paritas Deskripsi
+08_struktur_kurikulum_jalur.csv,*,Slot per jalur A-F x semester 1-8 (sem. 1-5 identik untuk semua jalur)
+08_struktur_kurikulum_jalur.csv,jenis_slot,MK_WAJIB | MK_WAJIB_PILIH_SATU | PILIHAN_TEMA | PILIHAN_KONVERSI | PILIHAN_SISA_TEMA
+08_struktur_kurikulum_jalur.csv,mode_pelaksanaan,reguler | konversi_dalam_UB | konversi_luar_UB | diselesaikan_selama_kegiatan_luar_UB
+09_rekomendasi_beban_sks.csv,*,Aturan beban SKS berdasar IP semester sebelumnya per jalur & semester
+09_rekomendasi_beban_sks.csv,jalur,SEMUA atau A-F
+09_rekomendasi_beban_sks.csv,ip_min,Batas bawah inklusif
+09_rekomendasi_beban_sks.csv,ip_max,Batas atas inklusif
+09_rekomendasi_beban_sks.csv,aksi,tambah | kurangi | tetap | tambah_jika_ada
+09_rekomendasi_beban_sks.csv,kode_terdampak,Kode MK / TEMA_x / MK_LAIN / PILIHAN_SISA_TEMA / MK_BELUM_DITEMPUH_ATAU_ULANG
+09_rekomendasi_beban_sks.csv,target_sks,SKS hasil menurut teks dokumen
+10_aturan_akademik.csv,*,Aturan akademik untuk constraint engine
+11_penyetaraan_mk_2020_2024.csv,*,Tabel 13: pemetaan MK Kurikulum 2020 -> 2024
+11_penyetaraan_mk_2020_2024.csv,jenis_perubahan,identik | berubah_<kode/nama/sks/status> | dihapus | mk_baru
+12_profil_lulusan.csv,*,Profil lulusan PL1-PL4
+13_cpl.csv,*,CPL01-CPL15 (Tabel 4) + PL terkait
+14_cpl_profil_lulusan.csv,*,Relasi CPL-PL (Tabel 5)
+15_cpl_sndikti_reformulasi.csv,*,CPL SN-DIKTI (Tabel 2) dan hasil reformulasinya (Tabel 3)
+16_jadwal_kegiatan_lapangan.csv,*,Jadwal pelaksanaan PLP/PKL/PKM/Capstone dari panel diagram
+17_fitur_mk_turunan.csv,*,FITUR TURUNAN (bukan isi dokumen) untuk analisis beban kognitif
+17_fitur_mk_turunan.csv,menit_per_minggu,durasi TM + praktikum
+17_fitur_mk_turunan.csv,kedalaman_rantai_prasyarat,Panjang rantai prasyarat terpanjang
+17_fitur_mk_turunan.csv,jumlah_mk_bergantung,Jumlah MK yang mensyaratkan MK ini
+18_kko_bloom_map.csv,*,Kamus KKO -> Bloom revisi (Anderson & Krathwohl) yang dipakai heuristik; dapat diedit
+19_catatan_inkonsistensi.csv,*,Konflik antar-dokumen/antar-bagian dan keputusan dataset

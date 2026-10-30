@@ -1,0 +1,5 @@
+# Pengembangan & tes: pip install -r requirements-dev.txt
+-r requirements.txt
+pytest>=8.0
+anthropic>=1.13        # Claude (perbandingan model iterasi 2); SDK di-import hanya saat provider dipakai
+google-genai>=2.30     # Gemini (perbandingan model iterasi 2)

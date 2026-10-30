@@ -1,0 +1,7 @@
+# Sidik data (src/data_loader.sidik_raw) di-hash per byte: dataset & riwayat harus LF di semua mesin
+# (Windows autocrlf, kontainer Linux Azure) agar hasil proses yang dipindah ke cloud tidak dianggap basi.
+*.csv text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+# skrip shell dijalankan di Linux (kontainer, GitHub Actions, Azure Cloud Shell)
+*.sh text eol=lf

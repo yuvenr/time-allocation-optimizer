@@ -1,0 +1,43 @@
+# Rahasia — kunci API hanya di .env (KNF-04)
+.env
+
+# Lingkungan Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Basis data SQLite & ekspor CSV (dibangkitkan ulang oleh pipeline; memuat histori KRS anonim)
+data/crs.db
+data/crs.db-*
+data/ekspor/
+# Folder hasil proses versi berkas (sebelum SQLite) — tidak dipakai lagi
+data/processed/*
+!data/processed/.gitkeep
+logs/*
+!logs/.gitkeep
+
+# Parameter hasil ubahan UI (lokal per mesin)
+config.override.yaml
+
+# Streamlit / editor
+.streamlit/secrets.toml
+.vscode/
+.idea/
+
+# Data mentah KRS tidak pernah di-commit: data asli berisi data pribadi (CLAUDE.md §6).
+data/raw/*
+!data/raw/.gitkeep
+
+# Keluaran generator sintetis (hanya demo/UAT)
+data/sintetis_demo/
+
+# Rating Bloom: keluaran mock & templat pakar dapat dibangkitkan ulang
+data/rating/*_mock.csv
+data/rating/bloom_pakar_template.csv
+
+# Ekspor akademik (xlsx berisi NIM) + kunci anonimisasi NIM→id_anon & salt: RAHASIA, tidak pernah di-commit.
+akademik_filkom/
+
+# Paket data uji (KRS akademik anonim + rating LLM): diserahkan langsung, tidak di-commit
+data/paket_uji/

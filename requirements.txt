@@ -1,0 +1,14 @@
+# Dependensi aplikasi (juga dipakai Streamlit Community Cloud & Docker). Pengembangan & tes: requirements-dev.txt
+pandas>=2.2
+numpy>=1.26
+mlxtend>=0.23
+scipy>=1.11
+pydantic>=2.5
+pyyaml>=6.0
+python-dotenv>=1.0
+streamlit>=1.50
+altair>=5.0
+streamlit-sortables>=0.3.1  # papan drag & drop penyesuaian rencana (fallback: menu pindah)
+openpyxl>=3.1               # impor xlsx data akademik
+openai>=1.66                # provider LLM produksi (gpt-6-luna); hanya dipakai saat penilaian Bloom dijalankan
+psycopg[binary,pool]>=3.2   # backend PostgreSQL + kumpulan koneksi saat di-hosting (DATABASE_URL); lokal tetap SQLite

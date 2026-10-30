@@ -1,0 +1,95 @@
+kko,level_bloom,ranah,ambigu,catatan,frekuensi_cpmk_subcpmk
+berapologetika,A,afektif,Y,A/C5,1
+beriman,A,afektif,,,2
+bersikap,A,afektif,,,1
+bertakwa,A,afektif,,,3
+memiliki,A,afektif,Y,'memiliki kasih/budi pekerti',3
+menanggapi,A,afektif,,A&K afektif: responding,0
+menerima,A,afektif,Y,,1
+mengalami,A,afektif,Y,,2
+menghormati,A,afektif,,,3
+menjunjung,A,afektif,,,2
+menunjukkan,A,afektif,Y,umumnya 'menunjukkan sikap',3
+merespons,A,afektif,Y,,1
+mendefinisikan,C1,kognitif,,,3
+mengenali,C1,kognitif,,,0
+mengidentifikasi,C1,kognitif,Y,A&K: recognizing (C1); banyak daftar KKO PT memetakan juga ke C4,32
+menyebutkan,C1,kognitif,,,0
+memahami,C2,kognitif,Y,KKO tidak terukur (umum dipetakan C2),103
+memaknai,C2,kognitif,,,2
+membaca,C2,kognitif,Y,,1
+membandingkan,C2,kognitif,Y,A&K: comparing (C2); sering dipetakan C4,9
+mendeskripsikan,C2,kognitif,,,1
+mendiskusikan,C2,kognitif,Y,,1
+mengamati,C2,kognitif,Y,observasi; C1/C2,3
+menggambarkan,C2,kognitif,,,1
+menginterpretasikan,C2,kognitif,,,4
+menguasai,C2,kognitif,Y,KKO tidak terukur; dipetakan C2,19
+mengungkapkan,C2,kognitif,Y,,1
+menguraikan,C2,kognitif,,,18
+menjabarkan,C2,kognitif,,,1
+menjelaskan,C2,kognitif,,,69
+menyajikan,C2,kognitif,Y,,2
+merangkum,C2,kognitif,,,1
+bekerja,C3,kognitif,Y,keterampilan umum/sosial,1
+berkolaborasi,C3,kognitif,Y,keterampilan umum/sosial,3
+berkomunikasi,C3,kognitif,Y,keterampilan umum,1
+melaksanakan,C3,kognitif,,,11
+melakukan,C3,kognitif,Y,KKO generik; level bergantung objek,34
+melatih,C3,kognitif,,,1
+memanfaatkan,C3,kognitif,,,2
+memanipulasi,C3,kognitif,,,2
+memecahkan,C3,kognitif,Y,C3/C4,1
+memimpin,C3,kognitif,Y,keterampilan umum,2
+memotivasi,C3,kognitif,Y,,1
+mempersiapkan,C3,kognitif,,,1
+mempresentasikan,C3,kognitif,,,8
+mendebug,C3,kognitif,Y,C3/C4,1
+menerapkan,C3,kognitif,,,105
+mengadopsi,C3,kognitif,,,1
+mengaplikasikan,C3,kognitif,,,19
+mengatasi,C3,kognitif,Y,,6
+mengelola,C3,kognitif,Y,C3/C6 bergantung konteks,30
+mengestimasi,C3,kognitif,Y,,2
+menggunakan,C3,kognitif,,,51
+menghitung,C3,kognitif,,,1
+mengimplementasikan,C3,kognitif,,,85
+mengkomunikasikan,C3,kognitif,Y,,1
+mengkonfigurasi,C3,kognitif,,,5
+mengonsumsi,C3,kognitif,,,1
+meningkatkan,C3,kognitif,Y,,8
+menulis,C3,kognitif,Y,C3/C6 (menyusun tulisan baru = C6),5
+menutup,C3,kognitif,,,1
+menyelesaikan,C3,kognitif,Y,,2
+menyesuaikan,C3,kognitif,,,1
+menyunting,C3,kognitif,Y,C3/C5,1
+membedakan,C4,kognitif,Y,A&K: differentiating (C4); sering dipetakan C2,3
+menarik,C4,kognitif,Y,'menarik simpulan' C4/C5,2
+menelusuri,C4,kognitif,,,1
+menganalisa,C4,kognitif,,,1
+menganalisis,C4,kognitif,,,95
+mengeksplorasi,C4,kognitif,Y,,2
+mengintegrasikan,C4,kognitif,Y,A&K: integrating/organizing (C4); sering dipetakan C6,29
+mengkaji,C4,kognitif,,,1
+berargumentasi,C5,kognitif,,,1
+memberikan,C5,kognitif,Y,umumnya 'memberikan argumentasi',18
+memilih,C5,kognitif,Y,,3
+mempertanggungjawabkan,C5,kognitif,,,1
+memvalidasi,C5,kognitif,,,1
+menentukan,C5,kognitif,Y,,2
+mengevaluasi,C5,kognitif,,,52
+mengoptimalkan,C5,kognitif,Y,C5/C6,13
+menguji,C5,kognitif,Y,C4/C5,1
+menilai,C5,kognitif,,,3
+merefleksikan,C5,kognitif,,,2
+membangun,C6,kognitif,Y,dapat afektif: 'membangun hubungan harmonis',5
+membuat,C6,kognitif,,,3
+memodifikasi,C6,kognitif,Y,,1
+menciptakan,C6,kognitif,,,3
+mengembangkan,C6,kognitif,,,80
+mensintesis,C6,kognitif,,,1
+menyusun,C6,kognitif,,,21
+merancang,C6,kognitif,,,95
+merencanakan,C6,kognitif,,,3
+merumuskan,C6,kognitif,,,5
+mewujudkan,C6,kognitif,,,1

@@ -1,0 +1,618 @@
+id_subcpmk,kode_mk,nomor,nomor_sumber,teks,kko_utama,kko_semua,bloom_kko_utama_heuristik,bloom_maks_heuristik,ranah_heuristik,kko_ambigu,kko_dikenal,bloom_pakar,bloom_llm,halaman_pdf
+COM60014-SUBCPMK01,COM60014,1,1,Mahasiswa mampu menyusun algoritma dengan menggunakan flowchart dan pseudocode sebagai alat untuk menggambarkan algoritma.,menyusun,menyusun,C6,C6,kognitif,,Y,,,5
+COM60014-SUBCPMK02,COM60014,2,2,"Mahasiswa mampu mengimplementasikan variabel dengan tipe data primitive, input-output, serta struktur kontrol percabangan (if, if-else, switch-case) dan perulangan (for, while, do-while) dalam pemrograman terstruktur.",mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,5
+COM60014-SUBCPMK03,COM60014,3,3,"Mahasiswa mampu menggunakan modularisasi program yang memanfaatkan parameter, nilai kembali (return value), dan overload, serta memanipulasi array dalam pengembangan aplikasi atau sistem.",menggunakan,menggunakan;memanipulasi,C3,C3,kognitif,,Y,,,5
+COM60014-SUBCPMK04,COM60014,4,4,"Mahasiswa mampu membuat struktur kelas yang memanfaatkan enkapsulasi dengan baik, termasuk menggunakan accessor dan mutator (getter dan setter) untuk mengelola dan memodifikasi atribut kelas secara efektif.",membuat,membuat;memodifikasi,C6,C6,kognitif,Y,Y,,,5
+COM60014-SUBCPMK05,COM60014,5,5,Mahasiswa mampu mengimplementasikan konsep inheritance dan polymorphism melalui metode overriding dengan menggunakan abstract class dan interface dalam pemrograman berorientasi objek.,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,5
+COM60014-SUBCPMK06,COM60014,6,6,Mahasiswa mampu mengimplementasikan exception handling dalam konteks pemrograman berorientasi objek.,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,5
+COM60014-SUBCPMK07,COM60014,7,7,"Mahasiswa memiliki kemampuan untuk menguraikan konsep dasar algoritma dan struktur data seperti array, list, stack, dan queue, serta dapat menerapkan struktur data tersebut dalam pembuatan program sederhana.",menguraikan,menguraikan,C2,C2,kognitif,,Y,,,5
+COM60016-SUBCPMK01,COM60016,1,1,"Mahasiswa mampu menjelaskan berbagai rumpun keilmuan komputer dalam kaitannya dengan profil/profesi TI, kompetensi dasar lulusan TI dan konsepsi dasar bidang TI",menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,7
+COM60016-SUBCPMK02,COM60016,2,2,"Mahasiswa mampu menjelaskan berbagai hardware peripheral komputer meliputi motherboard, CPU, memory, disk, input dan output device, future peripheral)",menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,7
+COM60016-SUBCPMK03,COM60016,3,3,"Mahasiswa mampu menjelaskan berbagai software peripheral meliputi operating system, programming, application)",menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,7
+COM60016-SUBCPMK04,COM60016,4,4,"Mahasiswa mampu menjelaskan internet, network, maupun security",menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,7
+COM60016-SUBCPMK05,COM60016,5,5,"Mahasiswa mampu menjelaskan database, computational thinking, dan pengembangan software",menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,7
+COM60016-SUBCPMK06,COM60016,6,6,Mahasiswa mampu membedakan integrasi teknologi informasi pada tingkat enhancing (sebagai alat pendukung) dan tingkat transforming (sebagai alat pengubah) pada proses pembelajaran,membedakan,membedakan,C4,C4,kognitif,Y,Y,,,7
+COM60016-SUBCPMK07,COM60016,7,7,"Mahasiswa mampu menggunakan teknologi IT dalam proses pembelajaran meliputi repository, e-learning tools dan Google service",menggunakan,menggunakan,C3,C3,kognitif,,Y,,,7
+COM60016-SUBCPMK08,COM60016,8,8,"Mahasiswa mampu menjelaskan beberapa tren perkembangan teknologi dan riset bidang keilmuan komputer: AI, Big Data, IoT, Cloud Computing, Cyber Security",menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,7
+COM60015-SUBCPMK01,COM60015,1,1,Mengaplikasikan operasi logika dan tabel kebenaran dalam analisis rangkaian digital,mengaplikasikan,mengaplikasikan,C3,C3,kognitif,,Y,,,8
+COM60015-SUBCPMK02,COM60015,2,2,Menggunakan teori himpunan untuk merepresentasikan dan memanipulasi data,menggunakan,menggunakan;memanipulasi,C3,C3,kognitif,,Y,,,8
+COM60015-SUBCPMK03,COM60015,3,3,Mengimplementasikan algoritma rekursif dalam pemecahan masalah,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,8
+COM60015-SUBCPMK04,COM60015,4,4,Menerapkan induksi matematika untuk membuktikan kebenaran algoritma,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,8
+COM60015-SUBCPMK05,COM60015,5,5,Menggunakan teori graf untuk memodelkan jaringan komputer dan sosial,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,8
+COM60015-SUBCPMK06,COM60015,6,6,Mengaplikasikan algoritma pencarian dan penjelajahan graf,mengaplikasikan,mengaplikasikan,C3,C3,kognitif,,Y,,,8
+COM60015-SUBCPMK07,COM60015,7,7,Memahami konsep pohon (tree) dan penerapannya dalam struktur data,memahami,memahami,C2,C2,kognitif,Y,Y,,,8
+COM60015-SUBCPMK08,COM60015,8,8,Menggunakan teori bilangan dalam pengembangan fungsi hash,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,8
+COM60015-SUBCPMK09,COM60015,9,9,Memahami prinsip dasar kriptografi dan algoritma enkripsi sederhana,memahami,memahami,C2,C2,kognitif,Y,Y,,,8
+COM60015-SUBCPMK10,COM60015,10,10,Menerapkan konsep kombinatorika dalam analisis kompleksitas algoritma,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,8
+CIE61301-SUBCPMK01,CIE61301,1,1,"Menerapkan konsep limit, turunan, dan integral dalam analisis fungsi",menerapkan,menerapkan,C3,C3,kognitif,,Y,,,9
+CIE61301-SUBCPMK02,CIE61301,2,2,Menggunakan teknik optimasi berbasis kalkulus dalam pemecahan masalah,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,9
+CIE61301-SUBCPMK03,CIE61301,3,3,Melakukan operasi matriks dan menyelesaikan sistem persamaan linear,melakukan,melakukan;menyelesaikan,C3,C3,kognitif,Y,Y,,,9
+CIE61301-SUBCPMK04,CIE61301,4,4,Memahami konsep nilai eigen dan vektor eigen serta aplikasinya,memahami,memahami,C2,C2,kognitif,Y,Y,,,9
+CIE61301-SUBCPMK05,CIE61301,5,5,Mengaplikasikan transformasi linear dalam grafika komputer,mengaplikasikan,mengaplikasikan,C3,C3,kognitif,,Y,,,9
+CIE61301-SUBCPMK06,CIE61301,6,6,Menggunakan metode least squares dalam analisis regresi,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,9
+CIE61301-SUBCPMK07,CIE61301,7,7,Menerapkan konsep gradien dalam algoritma machine learning,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,9
+CIE61301-SUBCPMK08,CIE61301,8,8,Menggunakan integral ganda dalam perhitungan probabilitas multivariat,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,9
+CIE61301-SUBCPMK09,CIE61301,9,9,Memahami konsep ruang vektor dan basis ortonormal,memahami,memahami,C2,C2,kognitif,Y,Y,,,9
+CIE61301-SUBCPMK10,CIE61301,10,10,Menggunakan perangkat lunak seperti MATLAB atau Python untuk komputasi matematis,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,9
+MPK60007-SUBCPMK01,MPK60007,1,1,Mahasiswa mampu menunjukkan sikap positif dan bangga berbahasa Indonesia,menunjukkan,menunjukkan,A,A,afektif,Y,Y,,,10
+MPK60007-SUBCPMK02,MPK60007,2,2,Mahasiswa mampu memahami ragam bahasa serta memilih dan menerapkan ragam bahasa Indonesia dalam forum ilmiah melalui pengembangan keterampilan berbicara,memahami,memahami;memilih;menerapkan,C2,C5,kognitif,Y,Y,,,10
+MPK60007-SUBCPMK03,MPK60007,3,3,Mahasiswa mampu menggunakan ejaan dan diksi yang tepat dalam menyusun kalimat hingga paragraf dalam tulisan ilmiah dan popular,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,10
+MPK60007-SUBCPMK04,MPK60007,4,4,"Mahasiswa mampu menjelaskan ragam, jenis, prinsip, sistematika penulisan karya ilmiah dan populer, dan membaca kritis teks-teks sesuai dengan bidang keilmuan dengan menganalisis dan mensintesis ide-ide pokok dalam wacana ilmiah dan popular",menjelaskan,menjelaskan;membaca;mensintesis,C2,C6,kognitif,Y,Y,,,10
+MPK60007-SUBCPMK05,MPK60007,5,5,"Mahasiswa mampu menulis dan menyunting karya ilmiah atau populer secara sistematis, logis, empiris, dan verifikatif sesuai dengan kaidah penulisan dan ejaan",menulis,menulis;menyunting,C3,C3,kognitif,Y,Y,,,10
+UBU60004-SUBCPMK01,UBU60004,1,1,Menguasai kosakata teknis bahasa Inggris dalam bidang ilmu komputer dan teknologi informasi,menguasai,menguasai,C2,C2,kognitif,Y,Y,,,11
+UBU60004-SUBCPMK02,UBU60004,2,2,Memahami dan menganalisis struktur teks teknis berbahasa Inggris,memahami,memahami;menganalisis,C2,C4,kognitif,Y,Y,,,11
+UBU60004-SUBCPMK03,UBU60004,3,3,Menulis laporan teknis dan dokumentasi perangkat lunak dalam bahasa Inggris,menulis,menulis,C3,C3,kognitif,Y,Y,,,11
+UBU60004-SUBCPMK04,UBU60004,4,4,Menyusun dan mempresentasikan proposal proyek teknologi informasi dalam bahasa Inggris,menyusun,menyusun;mempresentasikan,C6,C6,kognitif,,Y,,,11
+UBU60004-SUBCPMK05,UBU60004,5,5,Mengembangkan kemampuan menulis email profesional dan korespondensi bisnis dalam bahasa Inggris,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,11
+UBU60004-SUBCPMK06,UBU60004,6,6,Meningkatkan keterampilan berdiskusi dan berargumentasi dalam bahasa Inggris tentang topik teknologi informasi,meningkatkan,meningkatkan;berargumentasi,C3,C5,kognitif,Y,Y,,,11
+UBU60004-SUBCPMK07,UBU60004,7,7,Memahami dan merangkum presentasi teknis berbahasa Inggris,memahami,memahami;merangkum,C2,C2,kognitif,Y,Y,,,11
+UBU60004-SUBCPMK08,UBU60004,8,8,Mengembangkan kemampuan menulis abstrak dan makalah ilmiah dalam bahasa Inggris,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,11
+UBU60004-SUBCPMK09,UBU60004,9,9,Meningkatkan keterampilan wawancara kerja dalam bahasa Inggris untuk posisi di bidang teknologi informasi,meningkatkan,meningkatkan,C3,C3,kognitif,Y,Y,,,11
+UBU60004-SUBCPMK10,UBU60004,10,10,Memahami dan menggunakan ungkapan idiomatik dalam konteks teknologi informasi,memahami,memahami;menggunakan,C2,C3,kognitif,Y,Y,,,11
+MPK60006-SUBCPMK01,MPK60006,1,1,Menjelaskan konsep kewarganegaraan dan perkembangannya di era global,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,12
+MPK60006-SUBCPMK02,MPK60006,2,2,Menganalisis sistem demokrasi dan penerapannya di Indonesia,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,12
+MPK60006-SUBCPMK03,MPK60006,3,3,Memahami struktur dan fungsi lembaga-lembaga negara Indonesia,memahami,memahami,C2,C2,kognitif,Y,Y,,,12
+MPK60006-SUBCPMK04,MPK60006,4,4,Mengidentifikasi hak dan kewajiban warga negara dalam konstitusi Indonesia,mengidentifikasi,mengidentifikasi,C1,C1,kognitif,Y,Y,,,12
+MPK60006-SUBCPMK05,MPK60006,5,5,Menganalisis peran masyarakat sipil dalam penguatan demokrasi,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,12
+MPK60006-SUBCPMK06,MPK60006,6,6,Memahami konsep good governance dan penerapannya di Indonesia,memahami,memahami,C2,C2,kognitif,Y,Y,,,12
+MPK60006-SUBCPMK07,MPK60006,7,7,Menganalisis isu-isu HAM dan keadilan sosial dalam konteks Indonesia,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,12
+MPK60006-SUBCPMK08,MPK60006,8,8,Mengevaluasi peran teknologi informasi dalam partisipasi warga negara dan e-government,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,12
+MPK60006-SUBCPMK09,MPK60006,9,9,Menganalisis tantangan kewarganegaraan di era globalisasi dan digitalisasi,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,12
+MPK60006-SUBCPMK10,MPK60006,10,10,Mengembangkan proyek kewarganegaraan aktif berbasis teknologi informasi,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,12
+UBU60003-SUBCPMK01,UBU60003,1,1,Menjelaskan karakteristik dan mindset wirausahawan teknologi,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,13
+UBU60003-SUBCPMK02,UBU60003,2,2,Menganalisis tren teknologi dan peluang bisnis di era digital,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,13
+UBU60003-SUBCPMK03,UBU60003,3,3,Menggunakan teknik design thinking untuk pengembangan produk inovatif,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,13
+UBU60003-SUBCPMK04,UBU60003,4,4,Merancang model bisnis menggunakan Business Model Canvas,merancang,merancang,C6,C6,kognitif,,Y,,,13
+UBU60003-SUBCPMK05,UBU60003,5,5,Mengembangkan strategi pemasaran digital untuk startup teknologi,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,13
+UBU60003-SUBCPMK06,UBU60003,6,6,Memahami dasar-dasar pengelolaan keuangan dan pendanaan startup,memahami,memahami,C2,C2,kognitif,Y,Y,,,13
+UBU60003-SUBCPMK07,UBU60003,7,7,Menganalisis aspek hukum dan etika dalam bisnis teknologi,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,13
+UBU60003-SUBCPMK08,UBU60003,8,8,Mengembangkan pitch deck dan mempresentasikan ide bisnis kepada investor,mengembangkan,mengembangkan;mempresentasikan,C6,C6,kognitif,,Y,,,13
+UBU60003-SUBCPMK09,UBU60003,9,9,Menerapkan prinsip-prinsip manajemen proyek dalam pengembangan produk teknologi,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,13
+UBU60003-SUBCPMK10,UBU60003,10,10,Membangun dan mengelola tim startup yang efektif,membangun,membangun;mengelola,C6,C6,kognitif,Y,Y,,,13
+CIE62201-SUBCPMK01,CIE62201,1,1,Menjelaskan prinsip-prinsip desain visual dan tata letak untuk antarmuka pengguna,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,14
+CIE62201-SUBCPMK02,CIE62201,2,2,Menganalisis kebutuhan pengguna dan menciptakan persona pengguna,menganalisis,menganalisis;menciptakan,C4,C6,kognitif,,Y,,,14
+CIE62201-SUBCPMK03,CIE62201,3,3,Merancang alur navigasi dan arsitektur informasi yang efektif,merancang,merancang,C6,C6,kognitif,,Y,,,14
+CIE62201-SUBCPMK04,CIE62201,4,4,Mengembangkan wireframe dan prototipe interaktif menggunakan alat desain modern,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,14
+CIE62201-SUBCPMK05,CIE62201,5,5,Menerapkan prinsip-prinsip desain responsif untuk berbagai perangkat dan ukuran layar,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,14
+CIE62201-SUBCPMK06,CIE62201,6,6,Melakukan pengujian kegunaan dan menganalisis umpan balik pengguna,melakukan,melakukan;menganalisis,C3,C4,kognitif,Y,Y,,,14
+CIE62201-SUBCPMK07,CIE62201,7,7,Mengoptimalkan antarmuka berdasarkan prinsip-prinsip aksesibilitas web,mengoptimalkan,mengoptimalkan,C5,C5,kognitif,Y,Y,,,14
+CIE62201-SUBCPMK08,CIE62201,8,8,Menerapkan prinsip-prinsip desain universal untuk menciptakan antarmuka yang inklusif,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,14
+CIE62201-SUBCPMK09,CIE62201,9,9,Mengintegrasikan elemen microinteractions untuk meningkatkan pengalaman pengguna,mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,14
+CIE62201-SUBCPMK10,CIE62201,10,10,Menganalisis dan menerapkan tren desain antarmuka terkini seperti desain berbasis suara dan gesture,menganalisis,menganalisis;menerapkan,C4,C4,kognitif,,Y,,,14
+CIE62202-SUBCPMK01,CIE62202,1,1,Menjelaskan karakteristik dan komponen utama platform mobile (Android dan iOS),menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,15
+CIE62202-SUBCPMK02,CIE62202,2,2,Mengembangkan aplikasi web responsif menggunakan framework modern,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,15
+CIE62202-SUBCPMK03,CIE62202,3,3,Mengimplementasikan arsitektur microservices untuk pengembangan aplikasi terdistribusi,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,15
+CIE62202-SUBCPMK04,CIE62202,4,4,"Mengintegrasikan layanan cloud (IaaS, PaaS, SaaS) dalam pengembangan aplikasi",mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,15
+CIE62202-SUBCPMK05,CIE62202,5,5,Menerapkan teknik pengembangan aplikasi lintas platform (cross-platform development),menerapkan,menerapkan,C3,C3,kognitif,,Y,,,15
+CIE62202-SUBCPMK06,CIE62202,6,6,Mengimplementasikan keamanan dan manajemen identitas dalam aplikasi lintas platform,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,15
+CIE62202-SUBCPMK07,CIE62202,7,7,Mengoptimalkan kinerja aplikasi menggunakan teknik caching dan load balancing,mengoptimalkan,mengoptimalkan,C5,C5,kognitif,Y,Y,,,15
+CIE62202-SUBCPMK08,CIE62202,8,8,Menerapkan continuous integration dan continuous deployment (CI/CD) untuk platform teknologi,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,15
+CIE62202-SUBCPMK09,CIE62202,9,9,Menganalisis dan mengatasi masalah kompatibilitas antar platform,menganalisis,menganalisis;mengatasi,C4,C4,kognitif,Y,Y,,,15
+CIE62202-SUBCPMK10,CIE62202,10,10,Mengeksplorasi teknologi emerging seperti Progressive Web Apps (PWA) dan serverless computing,mengeksplorasi,mengeksplorasi,C4,C4,kognitif,Y,Y,,,15
+CIE62203-SUBCPMK01,CIE62203,1,1,"Menjelaskan konsep dasar OOP seperti kelas, objek, atribut, dan metode",menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,16
+CIE62203-SUBCPMK02,CIE62203,2,2,"Merancang dan mengimplementasikan kelas dan objek dalam bahasa pemrograman OOP (misalnya Java, C++, Python)",merancang,merancang;mengimplementasikan,C6,C6,kognitif,,Y,,,16
+CIE62203-SUBCPMK03,CIE62203,3,3,Menggunakan konsep pewarisan untuk mengembangkan hierarki kelas,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,16
+CIE62203-SUBCPMK04,CIE62203,4,4,Menerapkan polimorfisme untuk meningkatkan fleksibilitas dan keterbacaan kode,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,16
+CIE62203-SUBCPMK05,CIE62203,5,5,Mengimplementasikan enkapsulasi untuk melindungi data dan metode dalam kelas,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,16
+CIE62203-SUBCPMK06,CIE62203,6,6,Menggunakan abstraksi untuk menyederhanakan kompleksitas sistem,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,16
+CIE62203-SUBCPMK07,CIE62203,7,7,Mengembangkan dan menggunakan antarmuka (interfaces) dan kelas abstrak,mengembangkan,mengembangkan;menggunakan,C6,C6,kognitif,,Y,,,16
+CIE62203-SUBCPMK08,CIE62203,8,8,Menerapkan prinsip-prinsip desain OOP seperti SOLID,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,16
+CIE62203-SUBCPMK09,CIE62203,9,9,Menggunakan pola desain (design patterns) untuk menyelesaikan masalah umum dalam pengembangan perangkat lunak,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,16
+CIE62203-SUBCPMK10,CIE62203,10,10,Menguji dan mendebug aplikasi OOP untuk memastikan kualitas dan kinerja,menguji,menguji;mendebug,C5,C5,kognitif,Y,Y,,,16
+CIE62204-SUBCPMK01,CIE62204,1,1,Menjelaskan perkembangan historis paradigma sistem informasi,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,17
+CIE62204-SUBCPMK02,CIE62204,2,2,Menganalisis karakteristik paradigma struktural dan berorientasi objek,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,17
+CIE62204-SUBCPMK03,CIE62204,3,3,Memahami konsep dan penerapan paradigma agile dalam pengembangan sistem,memahami,memahami,C2,C2,kognitif,Y,Y,,,17
+CIE62204-SUBCPMK04,CIE62204,4,4,Menerapkan pendekatan socio-technical dalam analisis dan desain sistem,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,17
+CIE62204-SUBCPMK05,CIE62204,5,5,Mengimplementasikan paradigma service-oriented architecture (SOA),mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,17
+CIE62204-SUBCPMK06,CIE62204,6,6,Memahami dan menerapkan konsep sistem adaptif kompleks,memahami,memahami;menerapkan,C2,C3,kognitif,Y,Y,,,17
+CIE62204-SUBCPMK07,CIE62204,7,7,Menganalisis peran paradigma sistem dalam transformasi digital organisasi,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,17
+CIE62204-SUBCPMK08,CIE62204,8,8,Mengevaluasi kelebihan dan keterbatasan berbagai paradigma sistem,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,17
+CIE62204-SUBCPMK09,CIE62204,9,9,Mengintegrasikan paradigma sistem dengan teknologi emerging seperti AI dan IoT,mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,17
+CIE62204-SUBCPMK10,CIE62204,10,10,Merancang strategi pengembangan sistem yang mengombinasikan berbagai paradigma,merancang,merancang,C6,C6,kognitif,,Y,,,17
+CSD60712-SUBCPMK01,CSD60712,1,1,Menghitung probabilitas kejadian menggunakan berbagai metode,menghitung,menghitung,C3,C3,kognitif,,Y,,,18
+CSD60712-SUBCPMK02,CSD60712,2,2,Mengidentifikasi dan menerapkan distribusi probabilitas diskrit dan kontinu,mengidentifikasi,mengidentifikasi;menerapkan,C1,C3,kognitif,Y,Y,,,18
+CSD60712-SUBCPMK03,CSD60712,3,3,Melakukan analisis deskriptif data menggunakan ukuran pemusatan dan penyebaran,melakukan,melakukan,C3,C3,kognitif,Y,Y,,,18
+CSD60712-SUBCPMK04,CSD60712,4,4,Mengestimasi parameter populasi menggunakan metode titik dan interval,mengestimasi,mengestimasi,C3,C3,kognitif,Y,Y,,,18
+CSD60712-SUBCPMK05,CSD60712,5,5,Melakukan uji hipotesis untuk satu dan dua populasi,melakukan,melakukan,C3,C3,kognitif,Y,Y,,,18
+CSD60712-SUBCPMK06,CSD60712,6,6,Mengaplikasikan analisis varians (ANOVA) untuk membandingkan lebih dari dua populasi,mengaplikasikan,mengaplikasikan,C3,C3,kognitif,,Y,,,18
+CSD60712-SUBCPMK07,CSD60712,7,7,Menggunakan regresi linear sederhana dan berganda untuk pemodelan data,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,18
+CSD60712-SUBCPMK08,CSD60712,8,8,Menerapkan analisis korelasi untuk mengukur kekuatan hubungan antar variabel,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,18
+CSD60712-SUBCPMK09,CSD60712,9,9,Menggunakan metode non-parametrik untuk analisis data kategorikal,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,18
+CSD60712-SUBCPMK10,CSD60712,10,10,Mengimplementasikan analisis statistik menggunakan software seperti R atau Python,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,18
+CIE62401-SUBCPMK01,CIE62401,1,1,Menjelaskan konsep dasar inovasi dan transformasi digital,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,19
+CIE62401-SUBCPMK02,CIE62401,2,2,Menganalisis tren teknologi dan peluang inovasi di era digital,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,19
+CIE62401-SUBCPMK03,CIE62401,3,3,Menggunakan teknik design thinking untuk mengembangkan ide inovatif,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,19
+CIE62401-SUBCPMK04,CIE62401,4,4,Merancang model bisnis inovatif menggunakan Business Model Canvas,merancang,merancang,C6,C6,kognitif,,Y,,,19
+CIE62401-SUBCPMK05,CIE62401,5,5,Mengembangkan prototipe solusi digital menggunakan teknologi terkini,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,19
+CIE62401-SUBCPMK06,CIE62401,6,6,Menerapkan strategi pemasaran digital untuk produk inovatif,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,19
+CIE62401-SUBCPMK07,CIE62401,7,7,Mengelola proyek inovasi digital menggunakan metodologi Agile,mengelola,mengelola,C3,C3,kognitif,Y,Y,,,19
+CIE62401-SUBCPMK08,CIE62401,8,8,Menerapkan prinsip-prinsip manajemen perubahan dalam implementasi inovasi,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,19
+CIE62401-SUBCPMK09,CIE62401,9,9,Menganalisis dampak ekonomi dan sosial dari inovasi digital,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,19
+CIE62401-SUBCPMK10,CIE62401,10,10,Mengevaluasi keberhasilan inovasi digital menggunakan metrik dan KPI,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,19
+MPK60008-SUBCPMK01,MPK60008,1,1,Menjelaskan sejarah perumusan dan penetapan Pancasila sebagai dasar negara,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,20
+MPK60008-SUBCPMK02,MPK60008,2,2,Menganalisis kedudukan dan fungsi Pancasila dalam sistem ketatanegaraan Indonesia,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,20
+MPK60008-SUBCPMK03,MPK60008,3,3,Menguraikan makna dan nilai-nilai yang terkandung dalam setiap sila Pancasila,menguraikan,menguraikan,C2,C2,kognitif,,Y,,,20
+MPK60008-SUBCPMK04,MPK60008,4,4,Mengidentifikasi implementasi nilai-nilai Pancasila dalam kehidupan sehari-hari,mengidentifikasi,mengidentifikasi,C1,C1,kognitif,Y,Y,,,20
+MPK60008-SUBCPMK05,MPK60008,5,5,Menganalisis tantangan penerapan Pancasila di era globalisasi dan revolusi industri 4.0,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,20
+MPK60008-SUBCPMK06,MPK60008,6,6,Mengevaluasi kebijakan pembangunan nasional dari perspektif Pancasila,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,20
+MPK60008-SUBCPMK07,MPK60008,7,7,Mengembangkan model penerapan nilai-nilai Pancasila dalam pengembangan teknologi informasi,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,20
+MPK60008-SUBCPMK08,MPK60008,8,8,Menganalisis isu-isu etika teknologi informasi dari sudut pandang Pancasila,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,20
+MPK60008-SUBCPMK09,MPK60008,9,9,Merancang proyek teknologi informasi yang mencerminkan nilai-nilai Pancasila,merancang,merancang,C6,C6,kognitif,,Y,,,20
+MPK60008-SUBCPMK10,MPK60008,10,10,Mengembangkan argumentasi ilmiah terkait relevansi Pancasila di era digital,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,20
+MPK60001-SUBCPMK01,MPK60001,1,1,Mampu menggunakan nilai agama sebagai acuan dalam kehidupan sehari-hari atau rutinitas kerja dan sebagai bukti sebagai makhluk yang tunduk pada kekuasaan Tuhan.,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,21
+MPK60001-SUBCPMK02,MPK60001,2,2,Mampu mengembangkan pemikiran dan nalar yang benar dan kritis dalam memahami berbagai permasalahan aktual dari perspektif agama.,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,21
+MPK60001-SUBCPMK03,MPK60001,3,3,Mampu menghormati hak individu dan kelompok dengan memberikan kebebasan berekspresi dengan penuh tanggung jawab.,menghormati,menghormati,A,A,afektif,,Y,,,21
+MPK60001-SUBCPMK04,MPK60001,4,4,"Mampu menerapkan budi pekerti yang baik dalam kehidupan sehari-hari, baik di kampus, dalam keluarga, maupun di masyarakat.",menerapkan,menerapkan,C3,C3,afektif+kognitif,,Y,,,21
+MPK60001-SUBCPMK05,MPK60001,5,5,Mampu membangun hubungan yang harmonis dan saling menghargai dalam keberagaman.,membangun,membangun,C6,C6,kognitif,Y,Y,,,21
+MPK60002-SUBCPMK01,MPK60002,1,1+2,"Bertakwa kepada Tuhan Yang Maha Esa dan mampu menunjukkan sikap religius dalam diri mahasiswa melalui pemahaman, penghayatan, dan pengamalan terhadap nilai-nilai ajaran Katolik.",bertakwa,bertakwa,A,A,afektif,,Y,,,22
+MPK60002-SUBCPMK02,MPK60002,2,3,"Mahasiswa memiliki budi pekerti kristiani melalui pemahaman, internalisasi dan implementasi ajaran iman dan moral Katolik untuk mengembangkan pemikiran dan penalaran yang benar serta kritis dalam memahami berbagai masalah yang aktual dalam perspektif agama.",memiliki,memiliki,A,A,afektif,Y,Y,,,22
+MPK60002-SUBCPMK03,MPK60002,3,4,"Mahasiswa mampu menerapkan moral dan budi pekerti kristiani dalam kehidupan sehari-hari, baik di kampus, keluarga, maupun masyarakat untuk membangun hubungan harmonis dan saling menghormati dalam keragaman.",menerapkan,menerapkan,C3,C3,afektif+kognitif,,Y,,,22
+MPK60002-SUBCPMK04,MPK60002,4,5,"Mahasiswa mampu dalam memahami, menelusuri, merefleksikan dan mengungkapkan sejarah iman Katoliknya dengan berpijak pada keunikan pribadi masing-masing.",memahami,memahami;menelusuri;merefleksikan;mengungkapkan,C2,C5,kognitif,Y,Y,,,22
+MPK60002-SUBCPMK05,MPK60002,5,6+7,Mahasiswa agar mampu berapologetika atau mempertanggungjawabkan imannya dengan menanggapi dan bersikap secara Katolik.,berapologetika,berapologetika;mempertanggungjawabkan;bersikap,A,C5,afektif,Y,Y,,,22
+MPK60003-SUBCPMK01,MPK60003,1,1,Mahasiswa mampu Beriman dan bertakwa kepada Tuhan Yesus Kristus,beriman,beriman;bertakwa,A,A,afektif,,Y,,,23
+MPK60003-SUBCPMK02,MPK60003,2,2,"Mahasiswa mampu memiliki Kasih (taat, jujur, kerja keras, tanggung jawab, dan disiplin) dan mahasiswa mampu menerapkan sifat Kasih dalam kehidupan sehari-hari, baik di kampus, keluarga, maupun masyarakat",memiliki,memiliki,A,A,afektif,Y,Y,,,23
+MPK60003-SUBCPMK03,MPK60003,3,3,Mahasiswa mampu mengembangkan pemikiran dan penalaran yang benar dan kritis dalam memahami berbagai masalah yang aktual dalam perspektif Kristen.,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,23
+MPK60003-SUBCPMK04,MPK60003,4,4,Mahasiswa mampu menghormati hak individu dan kelompok dengan memberikan kebebasan dalam penyampaian pendapat dengan tanggung jawab.,menghormati,menghormati,A,A,afektif,,Y,,,23
+MPK60003-SUBCPMK05,MPK60003,5,5,Mampu membangun hubungan harmonis dan saling menghormati dalam keragaman dan mengalami transformasi nilai-nilai kehidupan kekristenan yang dapat mempermantap kepribadian sebagai “Intelektual Kristen”,membangun,membangun;mengalami,C6,C6,kognitif,Y,Y,,,23
+MPK60004-SUBCPMK01,MPK60004,1,1,Menjelaskan konsep dasar Dharma dan Karma dalam ajaran Hindu,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,24
+MPK60004-SUBCPMK02,MPK60004,2,2,Memahami ajaran Tri Hita Karana dan aplikasinya dalam dunia teknologi,memahami,memahami,C2,C2,kognitif,Y,Y,,,24
+MPK60004-SUBCPMK03,MPK60004,3,3,"Menganalisis hubungan antara spiritualitas Hindu, ilmu pengetahuan, dan teknologi",menganalisis,menganalisis,C4,C4,kognitif,,Y,,,24
+MPK60004-SUBCPMK04,MPK60004,4,4,Menerapkan etika Hindu dalam pengembangan dan penggunaan teknologi informasi,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,24
+MPK60004-SUBCPMK05,MPK60004,5,5,Memahami konsep Tat Tvam Asi dalam konteks interaksi digital,memahami,memahami,C2,C2,kognitif,Y,Y,,,24
+MPK60004-SUBCPMK06,MPK60004,6,6,Mengidentifikasi tantangan dan peluang bagi umat Hindu di dunia teknologi informasi,mengidentifikasi,mengidentifikasi,C1,C1,kognitif,Y,Y,,,24
+MPK60004-SUBCPMK07,MPK60004,7,7,Menganalisis isu-isu bioetika terkait teknologi dari perspektif Hindu,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,24
+MPK60004-SUBCPMK08,MPK60004,8,8,Mengembangkan strategi integrasi nilai-nilai Hindu dalam profesi di bidang teknologi informasi,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,24
+MPK60004-SUBCPMK09,MPK60004,9,9,Memahami peran media dan komunikasi dalam penyebaran ajaran Hindu di era modern,memahami,memahami,C2,C2,kognitif,Y,Y,,,24
+MPK60004-SUBCPMK10,MPK60004,10,10,Merancang proyek teknologi informasi yang mencerminkan nilai-nilai Hindu,merancang,merancang,C6,C6,kognitif,,Y,,,24
+MPK60005-SUBCPMK01,MPK60005,1,1,Menjelaskan Empat Kebenaran Mulia dan Jalan Mulia Berunsur Delapan dalam konteks modern,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,25
+MPK60005-SUBCPMK02,MPK60005,2,2,Memahami konsep karma dan aplikasinya dalam dunia teknologi,memahami,memahami,C2,C2,kognitif,Y,Y,,,25
+MPK60005-SUBCPMK03,MPK60005,3,3,"Menganalisis hubungan antara meditasi Buddha, kesadaran, dan perkembangan teknologi",menganalisis,menganalisis,C4,C4,kognitif,,Y,,,25
+MPK60005-SUBCPMK04,MPK60005,4,4,Menerapkan etika Buddha dalam pengembangan dan penggunaan teknologi informasi,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,25
+MPK60005-SUBCPMK05,MPK60005,5,5,Memahami konsep interdependensi dalam konteks jaringan digital dan sosial,memahami,memahami,C2,C2,kognitif,Y,Y,,,25
+MPK60005-SUBCPMK06,MPK60005,6,6,Mengidentifikasi tantangan dan peluang bagi umat Buddha di dunia teknologi informasi,mengidentifikasi,mengidentifikasi,C1,C1,kognitif,Y,Y,,,25
+MPK60005-SUBCPMK07,MPK60005,7,7,Menganalisis isu-isu bioetika terkait teknologi dari perspektif Buddha,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,25
+MPK60005-SUBCPMK08,MPK60005,8,8,Mengembangkan strategi integrasi nilai-nilai Buddha dalam profesi di bidang teknologi informasi,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,25
+MPK60005-SUBCPMK09,MPK60005,9,9,Memahami peran media dan komunikasi dalam penyebaran Dharma di era modern,memahami,memahami,C2,C2,kognitif,Y,Y,,,25
+MPK60005-SUBCPMK10,MPK60005,10,10,Merancang proyek teknologi informasi yang mencerminkan nilai-nilai Buddha,merancang,merancang,C6,C6,kognitif,,Y,,,25
+CIE61101-SUBCPMK01,CIE61101,1,1,Mampu menjelaskan konsep dasar perkembangan tumbuh dan kembang peserta didik,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,26
+CIE61101-SUBCPMK02,CIE61101,2,2,Mampu menjelaskan proses terjadinya tumbuh dan kembang peserta didik,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,26
+CIE61101-SUBCPMK03,CIE61101,3,3,"Mampu menganalisis hubungan keluarga, lingkungan, sosial masyarakat, dan budaya terhadap tumbuh kembang peserta didik",menganalisis,menganalisis,C4,C4,kognitif,,Y,,,26
+CIE61101-SUBCPMK04,CIE61101,4,4,"Mampu membandingkan proses perubahan fisik, emosional, dan sosial pada tumbuh kembang peserta didik",membandingkan,membandingkan,C2,C2,kognitif,Y,Y,,,26
+CIE61101-SUBCPMK05,CIE61101,5,5,Mampu merancang kontekstualisasi tumbuh kembang peserta didik terhadap program pembelajaran,merancang,merancang,C6,C6,kognitif,,Y,,,26
+CIE61102-SUBCPMK01,CIE61102,1,1,"Mendefinisikan makna filosofi, ilmu, dan pendidikan",mendefinisikan,mendefinisikan,C1,C1,kognitif,,Y,,,27
+CIE61102-SUBCPMK02,CIE61102,2,2,"Memaknai peran budaya, kurikulum, nilai dan moral dalam meranang pembelajaran",memaknai,memaknai,C2,C2,kognitif,,Y,,,27
+CIE61102-SUBCPMK03,CIE61102,3,3,"Memaknai hubungan Pendidikan, kurikulum dan pengajaran",memaknai,memaknai,C2,C2,kognitif,,Y,,,27
+CIE61102-SUBCPMK04,CIE61102,4,4,Menjelaskan makna konsep Pendidikan dan pengajaran,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,27
+CIE61102-SUBCPMK05,CIE61102,5,5,Mendiskusikan peran filsafat ilmu dan pendidikan pada perancangan kegiatan pembelajaran,mendiskusikan,mendiskusikan,C2,C2,kognitif,Y,Y,,,27
+CIE61103-SUBCPMK01,CIE61103,1,1,Menjelaskan teori dan model komunikasi pendidikan dalam era digital,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,28
+CIE61103-SUBCPMK02,CIE61103,2,2,Menganalisis karakteristik dan kebutuhan peserta didik dalam komunikasi pendidikan berbasis teknologi,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,28
+CIE61103-SUBCPMK03,CIE61103,3,3,Merancang konten pembelajaran digital yang interaktif dan menarik,merancang,merancang;menarik,C6,C6,kognitif,Y,Y,,,28
+CIE61103-SUBCPMK04,CIE61103,4,4,Mengembangkan strategi pembelajaran blended dan fully online untuk mata pelajaran teknologi informasi,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,28
+CIE61103-SUBCPMK05,CIE61103,5,5,Mengimplementasikan teknologi multimedia dalam penyampaian materi pembelajaran,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,28
+CIE61103-SUBCPMK06,CIE61103,6,6,Menerapkan prinsip-prinsip desain instruksional dalam pengembangan media pembelajaran digital,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,28
+CIE61103-SUBCPMK07,CIE61103,7,7,Menggunakan social media dan tools kolaborasi online untuk meningkatkan interaksi pembelajaran,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,28
+CIE61103-SUBCPMK08,CIE61103,8,8,Menerapkan teknik presentasi dan fasilitasi online yang efektif,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,28
+CIE61103-SUBCPMK09,CIE61103,9,9,Menganalisis dan mengatasi hambatan komunikasi dalam pembelajaran berbasis teknologi,menganalisis,menganalisis;mengatasi,C4,C4,kognitif,Y,Y,,,28
+CIE61103-SUBCPMK10,CIE61103,10,10,Mengevaluasi dampak penggunaan teknologi terhadap hasil belajar dan motivasi siswa,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,28
+CIE61205-SUBCPMK01,CIE61205,1,1,Mahasiswa dapat menjelaskan perkembangan teknologi web dan piranti bergerak serta dampak positif dan negatifnya terhadap kehidupan sehari-hari dan berbagai industri.,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,29
+CIE61205-SUBCPMK02,CIE61205,2,2,Mahasiswa mampu mengimplementasikan teknologi standar untuk pengembangan aplikasi web dengan menerapkan integrasi data terstruktur pada aplikasi web dan piranti bergerak.,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,29
+CIE61205-SUBCPMK03,CIE61205,3,3,Mahasiswa mampu memvalidasi data yang dimasukkan pada aplikasi web dan piranti bergerak sesuai fungsionalitasnya.,memvalidasi,memvalidasi,C5,C5,kognitif,,Y,,,29
+CIE61205-SUBCPMK04,CIE61205,4,4,"Mahasiswa mampu mengidentifikasi jenis-jenis ancaman keamanan pada aplikasi web dan piranti bergerak, seperti XSS dan SQL injection.",mengidentifikasi,mengidentifikasi,C1,C1,kognitif,Y,Y,,,29
+CIE61205-SUBCPMK05,CIE61205,5,5,Mahasiswa mampu mengimplementasikan teknik enkripsi dan menerapkan sertifikat keamanan (SSL/TLS) pada aplikasi web dan piranti bergerak.,mengimplementasikan,mengimplementasikan;menerapkan,C3,C3,kognitif,,Y,,,29
+CIE61205-SUBCPMK06,CIE61205,6,6,Mahasiswa mampu memilih format dan tipe file grafis yang tepat dalam pengiriman media digital yang sesuai dengan kebutuhan aplikasi web dan piranti bergerak.,memilih,memilih,C5,C5,kognitif,Y,Y,,,29
+CIE61205-SUBCPMK07,CIE61205,7,7,Mahasiswa mampu menganalisis kelebihan dan kekurangan penggunaan kerangka kerja serta menggunakan alat kolaborasi untuk mendukung kerja tim dalam pengembangan aplikasi web dan piranti bergerak,menganalisis,menganalisis;menggunakan,C4,C4,kognitif,,Y,,,29
+CIE61206-SUBCPMK01,CIE61206,1,1,Menjelaskan model referensi OSI dan TCP/IP,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,30
+CIE61206-SUBCPMK02,CIE61206,2,2,Mengimplementasikan pengalamatan IP dan subnetting,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,30
+CIE61206-SUBCPMK03,CIE61206,3,3,Mengkonfigurasi perangkat jaringan seperti switch dan router,mengkonfigurasi,mengkonfigurasi,C3,C3,kognitif,,Y,,,30
+CIE61206-SUBCPMK04,CIE61206,4,4,Menerapkan protokol routing statis dan dinamis,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,30
+CIE61206-SUBCPMK05,CIE61206,5,5,"Mengimplementasikan layanan jaringan seperti DHCP, DNS, dan web server",mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,30
+CIE61206-SUBCPMK06,CIE61206,6,6,Merancang dan mengimplementasikan VLAN dan inter-VLAN routing,merancang,merancang;mengimplementasikan,C6,C6,kognitif,,Y,,,30
+CIE61206-SUBCPMK07,CIE61206,7,7,Menganalisis lalu lintas jaringan menggunakan tools monitoring,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,30
+CIE61206-SUBCPMK08,CIE61206,8,8,Menerapkan keamanan jaringan dasar seperti firewall dan VPN,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,30
+CIE61206-SUBCPMK09,CIE61206,9,9,Memahami konsep dasar teknologi nirkabel dan seluler,memahami,memahami,C2,C2,kognitif,Y,Y,,,30
+CIE61206-SUBCPMK10,CIE61206,10,10,Mengeksplorasi teknologi jaringan terkini seperti SDN dan NFV,mengeksplorasi,mengeksplorasi,C4,C4,kognitif,Y,Y,,,30
+CIE61207-SUBCPMK01,CIE61207,1,1,Menjelaskan komponen-komponen utama dalam sistem terintegrasi,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,31
+CIE61207-SUBCPMK02,CIE61207,2,2,Merancang arsitektur sistem terintegrasi yang scalable dan maintainable,merancang,merancang,C6,C6,kognitif,,Y,,,31
+CIE61207-SUBCPMK03,CIE61207,3,3,Mengimplementasikan integrasi antar sistem menggunakan API dan web services,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,31
+CIE61207-SUBCPMK04,CIE61207,4,4,Menerapkan teknik virtualisasi dan kontainerisasi dalam sistem terintegrasi,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,31
+CIE61207-SUBCPMK05,CIE61207,5,5,Mengintegrasikan sistem Internet of Things (IoT) dengan infrastruktur TI yang ada,mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,31
+CIE61207-SUBCPMK06,CIE61207,6,6,Menerapkan prinsip-prinsip keamanan dalam perancangan sistem terintegrasi,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,31
+CIE61207-SUBCPMK07,CIE61207,7,7,Mengimplementasikan sistem monitoring dan manajemen untuk sistem terintegrasi,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,31
+CIE61207-SUBCPMK08,CIE61207,8,8,Mengoptimalkan kinerja sistem terintegrasi menggunakan teknik caching dan load balancing,mengoptimalkan,mengoptimalkan,C5,C5,kognitif,Y,Y,,,31
+CIE61207-SUBCPMK09,CIE61207,9,9,Menerapkan metodologi DevOps dalam pengembangan dan pengelolaan sistem terintegrasi,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,31
+CIE61207-SUBCPMK10,CIE61207,10,10,Menganalisis dan mengatasi masalah interoperabilitas dalam sistem terintegrasi,menganalisis,menganalisis;mengatasi,C4,C4,kognitif,Y,Y,,,31
+CIE61208-SUBCPMK01,CIE61208,1,1,Menjelaskan model data dan sistem manajemen basis data (DBMS),menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,32
+CIE61208-SUBCPMK02,CIE61208,2,2,Merancang basis data menggunakan model Entity-Relationship (ER),merancang,merancang,C6,C6,kognitif,,Y,,,32
+CIE61208-SUBCPMK03,CIE61208,3,3,Mengimplementasikan normalisasi data untuk menghindari redundansi,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,32
+CIE61208-SUBCPMK04,CIE61208,4,4,Menulis query SQL kompleks untuk pengambilan dan manipulasi data,menulis,menulis,C3,C3,kognitif,Y,Y,,,32
+CIE61208-SUBCPMK05,CIE61208,5,5,Mengimplementasikan indeks dan optimasi query untuk meningkatkan kinerja,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,32
+CIE61208-SUBCPMK06,CIE61208,6,6,Menerapkan kontrol akses dan keamanan data dalam sistem basis data,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,32
+CIE61208-SUBCPMK07,CIE61208,7,7,Memahami konsep transaksi dan konkurensi dalam basis data,memahami,memahami,C2,C2,kognitif,Y,Y,,,32
+CIE61208-SUBCPMK08,CIE61208,8,8,Mengimplementasikan prosedur tersimpan dan trigger dalam basis data,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,32
+CIE61208-SUBCPMK09,CIE61208,9,9,"Mengelola backup, recovery, dan integritas data",mengelola,mengelola,C3,C3,kognitif,Y,Y,,,32
+CIE61208-SUBCPMK10,CIE61208,10,10,Memahami konsep dasar big data dan sistem basis data NoSQL,memahami,memahami,C2,C2,kognitif,Y,Y,,,32
+CIE62104-SUBCPMK01,CIE62104,1,1,Mampu menjelaskan konsep kurikulum dan sejarah perkembangan kurikulum dengan tepat,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,33
+CIE62104-SUBCPMK02,CIE62104,2,2,"Mampu menguraikan prinsip, faktor, dan pendekatan pengembangan kurikulum dengan tepat",menguraikan,menguraikan,C2,C2,kognitif,,Y,,,33
+CIE62104-SUBCPMK03,CIE62104,3,3,"Mampu memberikan argumentasi terkait pihak terkait, organisasi, dan model dalam pengembangan kurikulum dengan tepat",memberikan,memberikan,C5,C5,kognitif,Y,Y,,,33
+CIE62104-SUBCPMK04,CIE62104,4,4,Mampu memberikan argumentasi terkait perencanaan dan evaluasi pengembangan kurikulum dengan tepat,memberikan,memberikan,C5,C5,kognitif,Y,Y,,,33
+CIE62104-SUBCPMK05,CIE62104,5,5,Mampu menilai proses implementasi kurikulum pada suatu satuan pendidikan di bidang teknologi informasi dengan tepat,menilai,menilai,C5,C5,kognitif,,Y,,,33
+CIE62105-SUBCPMK01,CIE62105,1,1,Mampu menjelaskan landasan dan konsep pembelajaran berdiferensiasi dengan tepat,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,34
+CIE62105-SUBCPMK02,CIE62105,2,2,Mampu menguraikan penilaian dalam pembelajaran berdiferensiasi dengan tepat,menguraikan,menguraikan,C2,C2,kognitif,,Y,,,34
+CIE62105-SUBCPMK03,CIE62105,3,3,Mampu memberikan argumentasi bagaimana merespon kebutuhan belajar siswa dalam pembelajaran berdiferensiasi dengan tepat,memberikan,memberikan,C5,C5,kognitif,Y,Y,,,34
+CIE62105-SUBCPMK04,CIE62105,4,4,Mampu membandingkan proses kegiatan pembelajaran berdiferensiasi yang efektif dengan tepat,membandingkan,membandingkan,C2,C2,kognitif,Y,Y,,,34
+CIE62105-SUBCPMK05,CIE62105,5,5,Mampu mampu merancang kegiatan pembelajaran berdiferensiasi berdasarkan kebutuhan belajar siswa dengan tepat,merancang,merancang,C6,C6,kognitif,,Y,,,34
+CIE62106-SUBCPMK01,CIE62106,1,1,Mampu menjelaskan konsep dasar kegiatan belajar dengan tepat,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,35
+CIE62106-SUBCPMK02,CIE62106,2,2,"Mampu menguraikan teori belajar behaviorisme, konstruktivisme, kognitivisme, dan humanisme dengan tepat",menguraikan,menguraikan,C2,C2,kognitif,,Y,,,35
+CIE62106-SUBCPMK03,CIE62106,3,3,Mampu memberikan argumentasi hubungan antara motivasi terhadap proses pembelajaran dengan tepat,memberikan,memberikan,C5,C5,kognitif,Y,Y,,,35
+CIE62106-SUBCPMK04,CIE62106,4,4,"Mampu membandingkan kelebihan dan kekurangan dari teori belajar behaviorisme, konstruktivisme, kognitivisme, dan humanisme dengan tepat",membandingkan,membandingkan,C2,C2,kognitif,Y,Y,,,35
+CIE62106-SUBCPMK05,CIE62106,5,5,"Mampu merancang kegiatan pembelajaran berdasarkan teori belajar behaviorisme, konstruktivisme, kognitivisme, dan humanisme dengan tepat",merancang,merancang,C6,C6,kognitif,,Y,,,35
+CIE62107-SUBCPMK01,CIE62107,1,1,Menganalisis karakteristik dan kebutuhan peserta didik dalam lingkungan pembelajaran digital,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,36
+CIE62107-SUBCPMK02,CIE62107,2,2,Merancang pembelajaran blended dan fully online untuk mata pelajaran teknologi informasi,merancang,merancang,C6,C6,kognitif,,Y,,,36
+CIE62107-SUBCPMK03,CIE62107,3,3,"Mengembangkan objek pembelajaran digital interaktif (video, animasi, simulasi)",mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,36
+CIE62107-SUBCPMK04,CIE62107,4,4,Mengimplementasikan Learning Management System (LMS) dalam pembelajaran teknologi informasi,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,36
+CIE62107-SUBCPMK05,CIE62107,5,5,Menerapkan strategi penilaian dan umpan balik dalam lingkungan pembelajaran digital,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,36
+CIE62107-SUBCPMK06,CIE62107,6,6,Mengintegrasikan media sosial dan tools kolaborasi online dalam pembelajaran,mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,36
+CIE62107-SUBCPMK07,CIE62107,7,7,Menerapkan prinsip-prinsip desain instruksional untuk e-learning,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,36
+CIE62107-SUBCPMK08,CIE62107,8,8,Mengembangkan strategi untuk meningkatkan engagement siswa dalam pembelajaran online,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,36
+CIE62107-SUBCPMK09,CIE62107,9,9,Mengevaluasi efektivitas lingkungan pembelajaran digital menggunakan learning analytics,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,36
+CIE62107-SUBCPMK10,CIE62107,10,10,Mengintegrasikan teknologi Augmented Reality (AR) dan Virtual Reality (VR) dalam pembelajaran teknologi informasi,mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,36
+CIE62209-SUBCPMK01,CIE62209,1,1,Menjelaskan berbagai model siklus hidup pengembangan perangkat lunak,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,37
+CIE62209-SUBCPMK02,CIE62209,2,2,Melakukan analisis kebutuhan dan pemodelan sistem menggunakan UML,melakukan,melakukan,C3,C3,kognitif,Y,Y,,,37
+CIE62209-SUBCPMK03,CIE62209,3,3,Menerapkan prinsip-prinsip desain perangkat lunak yang baik,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,37
+CIE62209-SUBCPMK04,CIE62209,4,4,Mengimplementasikan praktik pengembangan berbasis Agile dan Scrum,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,37
+CIE62209-SUBCPMK05,CIE62209,5,5,Menggunakan alat bantu pengembangan perangkat lunak modern,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,37
+CIE62209-SUBCPMK06,CIE62209,6,6,Mengelola konfigurasi dan versi perangkat lunak,mengelola,mengelola,C3,C3,kognitif,Y,Y,,,37
+CIE62209-SUBCPMK07,CIE62209,7,7,Melakukan estimasi biaya dan penjadwalan proyek perangkat lunak,melakukan,melakukan,C3,C3,kognitif,Y,Y,,,37
+CIE62209-SUBCPMK08,CIE62209,8,8,Menerapkan manajemen risiko dalam proyek pengembangan perangkat lunak,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,37
+CIE62209-SUBCPMK09,CIE62209,9,9,Mengimplementasikan strategi pengujian perangkat lunak yang efektif,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,37
+CIE62209-SUBCPMK10,CIE62209,10,10,Mengevaluasi dan meningkatkan kualitas perangkat lunak,mengevaluasi,mengevaluasi;meningkatkan,C5,C5,kognitif,Y,Y,,,37
+CSD60709-SUBCPMK01,CSD60709,1,1,Menjelaskan komponen-komponen utama dalam keamanan siber (CIA triad),menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,38
+CSD60709-SUBCPMK02,CSD60709,2,2,Menganalisis berbagai jenis serangan siber dan metode mitigasinya,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,38
+CSD60709-SUBCPMK03,CSD60709,3,3,Mengimplementasikan teknik kriptografi untuk pengamanan data,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,38
+CSD60709-SUBCPMK04,CSD60709,4,4,Merancang dan mengelola sistem keamanan jaringan,merancang,merancang;mengelola,C6,C6,kognitif,Y,Y,,,38
+CSD60709-SUBCPMK05,CSD60709,5,5,Menerapkan praktik keamanan dalam pengembangan perangkat lunak,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,38
+CSD60709-SUBCPMK06,CSD60709,6,6,Melakukan pengujian penetrasi (penetration testing) dan analisis kerentanan,melakukan,melakukan,C3,C3,kognitif,Y,Y,,,38
+CSD60709-SUBCPMK07,CSD60709,7,7,Mengembangkan rencana respons insiden dan pemulihan bencana,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,38
+CSD60709-SUBCPMK08,CSD60709,8,8,Menerapkan keamanan pada sistem cloud dan Internet of Things (IoT),menerapkan,menerapkan,C3,C3,kognitif,,Y,,,38
+CSD60709-SUBCPMK09,CSD60709,9,9,Memahami kerangka kerja kepatuhan dan standar keamanan informasi,memahami,memahami,C2,C2,kognitif,Y,Y,,,38
+CSD60709-SUBCPMK10,CSD60709,10,10,Menganalisis tren terkini dalam ancaman siber dan teknologi keamanan,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,38
+CIE62303-SUBCPMK01,CIE62303,1,1,"Menjelaskan sejarah, perkembangan, dan aplikasi AI di berbagai bidang",menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,39
+CIE62303-SUBCPMK02,CIE62303,2,2,Mengimplementasikan teknik pencarian (search) dan optimasi dalam pemecahan masalah,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,39
+CIE62303-SUBCPMK03,CIE62303,3,3,Merancang sistem berbasis aturan (rule-based systems) dan logika fuzzy,merancang,merancang,C6,C6,kognitif,,Y,,,39
+CIE62303-SUBCPMK04,CIE62303,4,4,Mengaplikasikan algoritma pembelajaran supervised dan unsupervised,mengaplikasikan,mengaplikasikan,C3,C3,kognitif,,Y,,,39
+CIE62303-SUBCPMK05,CIE62303,5,5,Mengembangkan model deep learning menggunakan jaringan saraf tiruan,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,39
+CIE62303-SUBCPMK06,CIE62303,6,6,Menerapkan teknik pemrosesan bahasa alami (NLP) dalam aplikasi AI,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,39
+CIE62303-SUBCPMK07,CIE62303,7,7,Mengimplementasikan sistem penglihatan komputer (computer vision),mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,39
+CIE62303-SUBCPMK08,CIE62303,8,8,Merancang agen cerdas dan sistem multi-agen,merancang,merancang,C6,C6,kognitif,,Y,,,39
+CIE62303-SUBCPMK09,CIE62303,9,9,Menganalisis big data menggunakan teknik AI,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,39
+CIE62303-SUBCPMK10,CIE62303,10,10,Mengevaluasi kinerja dan keterbatasan sistem AI,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,39
+COM60052-SUBCPMK01,COM60052,1,1,Menjelaskan konsep profesionalisme dan kode etik profesi-profesi terkait bidang teknologi informasi,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,40
+COM60052-SUBCPMK02,COM60052,2,2,Mengidentifikasi dilema etis dalam pengembangan dan implementasi sistem informasi,mengidentifikasi,mengidentifikasi,C1,C1,kognitif,Y,Y,,,40
+COM60052-SUBCPMK03,COM60052,3,3,Menganalisis isu privasi dan keamanan data dalam konteks teknologi informasi,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,40
+COM60052-SUBCPMK04,COM60052,4,4,Menerapkan etika penggunaan media sosial dan komunikasi online sebagai pendidik maupuun praktisibidang teknologi informasi,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,40
+COM60052-SUBCPMK05,COM60052,5,5,Memahami hak kekayaan intelektual dan lisensi perangkat lunak dalam organisasi pendidikan maupun industri teknologi informasi,memahami,memahami,C2,C2,kognitif,Y,Y,,,40
+COM60052-SUBCPMK06,COM60052,6,6,Mengembangkan strategi untuk mengatasi masalah etika dalam kasus pendidikan maupun proyek teknologi informasi,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,40
+COM60052-SUBCPMK07,COM60052,7,7,Menerapkan prinsip-prinsip etika dalam pengembangan kecerdasan buatan dan big data,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,40
+COM60052-SUBCPMK08,COM60052,8,8,Memahami implikasi etis dari teknologi emerging seperti blockchain dan Internet of Things,memahami,memahami,C2,C2,kognitif,Y,Y,,,40
+COM60052-SUBCPMK09,COM60052,9,9,Mengembangkan rencana pengembangan profesional berkelanjutan sebagai praktisi maupun pendidik bidang teknologi informasi,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,40
+COM60052-SUBCPMK10,COM60052,10,10,Mengevaluasi dan merefleksikan praktik profesional diri sendiri dan rekan sejawat,mengevaluasi,mengevaluasi;merefleksikan,C5,C5,kognitif,,Y,,,40
+CIE61108-SUBCPMK01,CIE61108,1,1,Mampu menjabarkan peran penilaian pada proses pembelajaran dan pengajaran,menjabarkan,menjabarkan,C2,C2,kognitif,,Y,,,41
+CIE61108-SUBCPMK02,CIE61108,2,2,Mampu mendeskripsikan penilaian hasil belajar yang tepat dan berkualitas,mendeskripsikan,mendeskripsikan,C2,C2,kognitif,,Y,,,41
+CIE61108-SUBCPMK03,CIE61108,3,3,Mampu mengidentifikasi karakteristik penilaian formatif dan sumatif,mengidentifikasi,mengidentifikasi,C1,C1,kognitif,Y,Y,,,41
+CIE61108-SUBCPMK04,CIE61108,4,4,Mampu menentukan instrumen penilaian hasil belajar yang tepat,menentukan,menentukan,C5,C5,kognitif,Y,Y,,,41
+CIE61108-SUBCPMK05,CIE61108,5,5,Mampu melaksanakan penilaian hasil belajar menggunakan instrumen yang sesuai,melaksanakan,melaksanakan,C3,C3,kognitif,,Y,,,41
+CIE61109-SUBCPMK01,CIE61109,1,1,Mengidentifikasi komponen-komponen keterampilan dasar mengajar teknologi informasi,mengidentifikasi,mengidentifikasi,C1,C1,kognitif,Y,Y,,,42
+CIE61109-SUBCPMK02,CIE61109,2,2,Menyusun rencana pembelajaran teknologi informasi yang sesuai dengan kurikulum dan karakteristik siswa,menyusun,menyusun,C6,C6,kognitif,,Y,,,42
+CIE61109-SUBCPMK03,CIE61109,3,3,Menerapkan keterampilan membuka dan menutup pelajaran teknologi informasi,menerapkan,menerapkan;menutup,C3,C3,kognitif,,Y,,,42
+CIE61109-SUBCPMK04,CIE61109,4,4,Mengembangkan keterampilan menjelaskan konsep-konsep teknologi informasi dengan jelas dan sistematis,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,42
+CIE61109-SUBCPMK05,CIE61109,5,5,Menerapkan keterampilan bertanya dan memberikan penguatan dalam pembelajaran teknologi informasi,menerapkan,menerapkan;memberikan,C3,C5,kognitif,Y,Y,,,42
+CIE61109-SUBCPMK06,CIE61109,6,6,Menggunakan media dan teknologi pembelajaran yang relevan dalam praktik mengajar mikro,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,42
+CIE61109-SUBCPMK07,CIE61109,7,7,Mengelola kelas dan menciptakan iklim belajar yang kondusif dalam skala mikro,mengelola,mengelola;menciptakan,C3,C6,kognitif,Y,Y,,,42
+CIE61109-SUBCPMK08,CIE61109,8,8,Melaksanakan penilaian proses dan hasil belajar dalam konteks pembelajaran mikro,melaksanakan,melaksanakan,C3,C3,kognitif,,Y,,,42
+CIE61109-SUBCPMK09,CIE61109,9,9,Menganalisis dan mengevaluasi penampilan mengajar diri sendiri dan teman sejawat,menganalisis,menganalisis;mengevaluasi,C4,C5,kognitif,,Y,,,42
+CIE61109-SUBCPMK10,CIE61109,10,10,Merumuskan rencana tindak lanjut untuk perbaikan keterampilan mengajar,merumuskan,merumuskan,C6,C6,kognitif,,Y,,,42
+CIE61110-SUBCPMK01,CIE61110,1,1,Mampu menjelaskan pengertian dan konsep desain instruksional,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,43
+CIE61110-SUBCPMK02,CIE61110,2,2,Mampu menjelaskan secara praktis desain instruksional berdasarkan pengembangannya,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,43
+CIE61110-SUBCPMK03,CIE61110,3,3,Mampu memberikan argumentasi terhadap model-model pengembangan desain instruksional,memberikan,memberikan,C5,C5,kognitif,Y,Y,,,43
+CIE61110-SUBCPMK04,CIE61110,4,4,Mampu merancang desain instruksional berbasis penelitian (research-based) atau berdasarkan suatu lingkungan pembelajaran,merancang,merancang,C6,C6,kognitif,,Y,,,43
+CIE61110-SUBCPMK05,CIE61110,5,5,Mampu merancang desain instruksional terhadap suatu tingkat pembelajaran,merancang,merancang,C6,C6,kognitif,,Y,,,43
+COM60051-SUBCPMK01,COM60051,1,1,Mengidentifikasi masalah penelitian dan merumuskan pertanyaan penelitian di bidang pendidikan teknologi informasi,mengidentifikasi,mengidentifikasi;merumuskan,C1,C6,kognitif,Y,Y,,,44
+COM60051-SUBCPMK02,COM60051,2,2,Melakukan kajian literatur dan menyusun kerangka teori penelitian,melakukan,melakukan;menyusun,C3,C6,kognitif,Y,Y,,,44
+COM60051-SUBCPMK03,COM60051,3,3,"Memilih dan menerapkan metode penelitian yang sesuai (kuantitatif, kualitatif, atau mixed method)",memilih,memilih;menerapkan,C5,C5,kognitif,Y,Y,,,44
+COM60051-SUBCPMK04,COM60051,4,4,Merancang instrumen penelitian dan teknik pengumpulan data,merancang,merancang,C6,C6,kognitif,,Y,,,44
+COM60051-SUBCPMK05,COM60051,5,5,Menganalisis data penelitian menggunakan teknik statistik atau analisis kualitatif,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,44
+COM60051-SUBCPMK06,COM60051,6,6,Menginterpretasikan hasil penelitian dan menarik kesimpulan,menginterpretasikan,menginterpretasikan;menarik,C2,C4,kognitif,Y,Y,,,44
+COM60051-SUBCPMK07,COM60051,7,7,Menulis proposal penelitian dan laporan hasil penelitian,menulis,menulis,C3,C3,kognitif,Y,Y,,,44
+COM60051-SUBCPMK08,COM60051,8,8,Menyusun artikel ilmiah untuk publikasi,menyusun,menyusun,C6,C6,kognitif,,Y,,,44
+COM60051-SUBCPMK09,COM60051,9,9,Melakukan presentasi hasil penelitian secara efektif,melakukan,melakukan,C3,C3,kognitif,Y,Y,,,44
+COM60051-SUBCPMK10,COM60051,10,10,Menerapkan etika penelitian dan menghindari plagiarisme dalam penulisan ilmiah,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,44
+CSD60708-SUBCPMK01,CSD60708,1,1,Menjelaskan tahapan-tahapan dalam proses Knowledge Discovery in Databases (KDD),menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,45
+CSD60708-SUBCPMK02,CSD60708,2,2,"Melakukan teknik pembersihan data, integrasi data, dan transformasi data",melakukan,melakukan,C3,C3,kognitif,Y,Y,,,45
+CSD60708-SUBCPMK03,CSD60708,3,3,"Mengimplementasikan algoritma klasifikasi seperti Decision Tree, Naive Bayes, dan Support Vector Machine",mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,45
+CSD60708-SUBCPMK04,CSD60708,4,4,Menerapkan teknik clustering menggunakan algoritma K-Means dan Hierarchical Clustering,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,45
+CSD60708-SUBCPMK05,CSD60708,5,5,Menggunakan algoritma Apriori untuk menemukan pola asosiasi dalam data,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,45
+CSD60708-SUBCPMK06,CSD60708,6,6,"Melakukan evaluasi model menggunakan metrik seperti akurasi, presisi, recall, dan F1-score",melakukan,melakukan,C3,C3,kognitif,Y,Y,,,45
+CSD60708-SUBCPMK07,CSD60708,7,7,Menggunakan teknik visualisasi data untuk menginterpretasikan hasil data mining,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,45
+CSD60708-SUBCPMK08,CSD60708,8,8,Menerapkan teknik feature selection dan dimensionality reduction,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,45
+CSD60708-SUBCPMK09,CSD60708,9,9,Mengimplementasikan ensemble learning untuk meningkatkan performa model,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,45
+CSD60708-SUBCPMK10,CSD60708,10,10,Mengaplikasikan data mining dalam konteks big data menggunakan teknologi seperti Hadoop dan Spark,mengaplikasikan,mengaplikasikan,C3,C3,kognitif,,Y,,,45
+CIE61111-SUBCPMK01,CIE61111,1,1,Mengidentifikasi komponen-komponen dalam struktur organisasi sekolah,mengidentifikasi,mengidentifikasi,C1,C1,kognitif,Y,Y,,,46
+CIE61111-SUBCPMK02,CIE61111,2,2,Menganalisis peran kepala sekolah dan tim manajemen dalam pengelolaan sekolah,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,46
+CIE61111-SUBCPMK03,CIE61111,3,3,Mengevaluasi implementasi kurikulum teknologi informasi di sekolah,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,46
+CIE61111-SUBCPMK04,CIE61111,4,4,Mengamati proses perencanaan dan pengelolaan sumber daya teknologi informasi di sekolah,mengamati,mengamati,C2,C2,kognitif,Y,Y,,,46
+CIE61111-SUBCPMK05,CIE61111,5,5,Menganalisis sistem manajemen kelas dalam pembelajaran teknologi informasi,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,46
+CIE61111-SUBCPMK06,CIE61111,6,6,Mengevaluasi pengelolaan dan pemanfaatan laboratorium komputer di sekolah,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,46
+CIE61111-SUBCPMK07,CIE61111,7,7,Mengamati proses penilaian dan evaluasi pembelajaran teknologi informasi,mengamati,mengamati,C2,C2,kognitif,Y,Y,,,46
+CIE61111-SUBCPMK08,CIE61111,8,8,Menganalisis program pengembangan profesional guru teknologi informasi di sekolah,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,46
+CIE61111-SUBCPMK09,CIE61111,9,9,Mengevaluasi sistem informasi manajemen sekolah dan pemanfaatannya,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,46
+CIE61111-SUBCPMK10,CIE61111,10,10,Menyusun laporan hasil observasi dan rekomendasi perbaikan manajemen sekolah,menyusun,menyusun,C6,C6,kognitif,,Y,,,46
+CIE61112-SUBCPMK01,CIE61112,1,1,Menganalisis kurikulum dan menyusun rencana pembelajaran teknologi informasi,menganalisis,menganalisis;menyusun,C4,C6,kognitif,,Y,,,47
+CIE61112-SUBCPMK02,CIE61112,2,2,Menerapkan berbagai metode dan strategi pembelajaran yang sesuai dengan materi teknologi informasi,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,47
+CIE61112-SUBCPMK03,CIE61112,3,3,Menggunakan teknologi informasi dan komunikasi dalam proses pembelajaran,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,47
+CIE61112-SUBCPMK04,CIE61112,4,4,Mengelola interaksi kelas dan memotivasi siswa dalam pembelajaran teknologi informasi,mengelola,mengelola;memotivasi,C3,C3,kognitif,Y,Y,,,47
+CIE61112-SUBCPMK05,CIE61112,5,5,Merancang dan mengembangkan media pembelajaran interaktif untuk mata pelajaran teknologi informasi,merancang,merancang;mengembangkan,C6,C6,kognitif,,Y,,,47
+CIE61112-SUBCPMK06,CIE61112,6,6,Melaksanakan penilaian proses dan hasil belajar siswa menggunakan berbagai teknik dan instrumen,melaksanakan,melaksanakan,C3,C3,kognitif,,Y,,,47
+CIE61112-SUBCPMK07,CIE61112,7,7,Melakukan refleksi terhadap praktik mengajar dan merencanakan perbaikan pembelajaran,melakukan,melakukan;merencanakan,C3,C6,kognitif,Y,Y,,,47
+CIE61112-SUBCPMK08,CIE61112,8,8,Berkolaborasi dengan guru pamong dan rekan sejawat dalam pengembangan pembelajaran,berkolaborasi,berkolaborasi,C3,C3,kognitif,Y,Y,,,47
+CIE61112-SUBCPMK09,CIE61112,9,9,Menerapkan etika profesi guru dalam praktik mengajar di sekolah,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,47
+CIE61112-SUBCPMK10,CIE61112,10,10,Menyusun laporan praktik mengajar dan portfolio pengajaran,menyusun,menyusun,C6,C6,kognitif,,Y,,,47
+UBU60002-SUBCPMK01,UBU60002,1,1,Mengidentifikasi dan memahami struktur organisasi dan budaya kerja perusahaan,mengidentifikasi,mengidentifikasi;memahami,C1,C2,kognitif,Y,Y,,,48
+UBU60002-SUBCPMK02,UBU60002,2,2,Menerapkan metodologi pengembangan perangkat lunak dalam proyek nyata,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,48
+UBU60002-SUBCPMK03,UBU60002,3,3,Menggunakan alat dan teknologi terkini yang digunakan di industri,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,48
+UBU60002-SUBCPMK04,UBU60002,4,4,Berkolaborasi dalam tim multidisiplin untuk menyelesaikan proyek,berkolaborasi,berkolaborasi,C3,C3,kognitif,Y,Y,,,48
+UBU60002-SUBCPMK05,UBU60002,5,5,Mengelola waktu dan prioritas dalam menangani berbagai tugas,mengelola,mengelola,C3,C3,kognitif,Y,Y,,,48
+UBU60002-SUBCPMK06,UBU60002,6,6,Berkomunikasi secara efektif dengan rekan kerja dan atasan,berkomunikasi,berkomunikasi,C3,C3,kognitif,Y,Y,,,48
+UBU60002-SUBCPMK07,UBU60002,7,7,Menganalisis kebutuhan pengguna dan merancang solusi teknologi yang sesuai,menganalisis,menganalisis;merancang,C4,C6,kognitif,,Y,,,48
+UBU60002-SUBCPMK08,UBU60002,8,8,Menerapkan praktik keamanan informasi dan etika profesional di tempat kerja,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,48
+UBU60002-SUBCPMK09,UBU60002,9,9,Mengevaluasi kinerja diri dan menerima umpan balik untuk pengembangan profesional,mengevaluasi,mengevaluasi;menerima,C5,C5,kognitif,Y,Y,,,48
+UBU60002-SUBCPMK10,UBU60002,10,10,Menyusun laporan teknis dan presentasi hasil praktik kerja lapangan,menyusun,menyusun,C6,C6,kognitif,,Y,,,48
+COM60061-SUBCPMK01,COM60061,1,1,Melakukan analisis kebutuhan dan studi literatur untuk mengidentifikasi masalah teknologi informasi,melakukan,melakukan,C3,C3,kognitif,Y,Y,,,49
+COM60061-SUBCPMK02,COM60061,2,2,Merumuskan tujuan proyek dan merancang solusi teknologi yang sesuai,merumuskan,merumuskan;merancang,C6,C6,kognitif,,Y,,,49
+COM60061-SUBCPMK03,COM60061,3,3,Mengembangkan prototipe atau produk teknologi menggunakan teknologi terkini,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,49
+COM60061-SUBCPMK04,COM60061,4,4,Merancang dan melaksanakan pengujian solusi teknologi,merancang,merancang;melaksanakan,C6,C6,kognitif,,Y,,,49
+COM60061-SUBCPMK05,COM60061,5,5,Menganalisis data hasil pengujian dan melakukan perbaikan pada solusi yang dikembangkan,menganalisis,menganalisis;melakukan,C4,C4,kognitif,Y,Y,,,49
+COM60061-SUBCPMK06,COM60061,6,6,Menerapkan prinsip-prinsip manajemen proyek dalam pengembangan solusi teknologi,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,49
+COM60061-SUBCPMK07,COM60061,7,7,Mengintegrasikan berbagai aspek teknologi informasi dalam solusi yang dikembangkan,mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,49
+COM60061-SUBCPMK08,COM60061,8,8,Mengevaluasi dampak dan efektivitas solusi teknologi yang dikembangkan,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,49
+COM60061-SUBCPMK09,COM60061,9,9,Menyusun laporan proyek dan dokumentasi teknis sesuai dengan standar industri,menyusun,menyusun,C6,C6,kognitif,,Y,,,49
+COM60061-SUBCPMK10,COM60061,10,10,"Mempresentasikan hasil proyek kepada dosen pembimbing, rekan sejawat, dan stakeholder industri",mempresentasikan,mempresentasikan,C3,C3,kognitif,,Y,,,49
+UBU60001-SUBCPMK01,UBU60001,1,1,Melakukan kajian literatur untuk mengidentifikasi kesenjangan penelitian dalam pendidikan teknologi informasi,melakukan,melakukan,C3,C3,kognitif,Y,Y,,,50
+UBU60001-SUBCPMK02,UBU60001,2,2,Merumuskan pertanyaan penelitian dan hipotesis atau proporsi yang relevan,merumuskan,merumuskan,C6,C6,kognitif,,Y,,,50
+UBU60001-SUBCPMK03,UBU60001,3,3,"Merancang metodologi penelitian yang sesuai (kuantitatif, kualitatif, atau mixed method)",merancang,merancang,C6,C6,kognitif,,Y,,,50
+UBU60001-SUBCPMK04,UBU60001,4,4,Mengembangkan instrumen penelitian yang valid dan reliabel,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,50
+UBU60001-SUBCPMK05,UBU60001,5,5,Melaksanakan pengumpulan data dengan memperhatikan etika penelitian,melaksanakan,melaksanakan,C3,C3,kognitif,,Y,,,50
+UBU60001-SUBCPMK06,UBU60001,6,6,Menganalisis data menggunakan teknik statistik atau analisis kualitatif yang sesuai,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,50
+UBU60001-SUBCPMK07,UBU60001,7,7,Menginterpretasikan hasil penelitian dalam konteks teori dan praktik pendidikan maupun pembelajaran bidang teknologi informasi,menginterpretasikan,menginterpretasikan,C2,C2,kognitif,,Y,,,50
+UBU60001-SUBCPMK08,UBU60001,8,8,Menyusun laporan skripsi sesuai dengan format dan kaidah penulisan ilmiah,menyusun,menyusun,C6,C6,kognitif,,Y,,,50
+UBU60001-SUBCPMK09,UBU60001,9,9,Mempresentasikan hasil penelitian secara lisan dan mempertahankannya dalam sidang skripsi,mempresentasikan,mempresentasikan,C3,C3,kognitif,,Y,,,50
+UBU60001-SUBCPMK10,UBU60001,10,10,Mengembangkan rekomendasi praktis berdasarkan hasil penelitian untuk meningkatkan kualitas pendidikan maupun pembelajaran bidang teknologi informasi,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,50
+UBU60005-SUBCPMK01,UBU60005,1,1,Menjelaskan peran teknologi informasi dalam pembangunan masyarakat,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,51
+UBU60005-SUBCPMK02,UBU60005,2,2,Mengidentifikasi isu-isu sosial yang dapat diatasi dengan solusi teknologi informasi,mengidentifikasi,mengidentifikasi,C1,C1,kognitif,Y,Y,,,51
+UBU60005-SUBCPMK03,UBU60005,3,3,Melakukan penilaian kebutuhan masyarakat menggunakan metode participatory rural appraisal (PRA),melakukan,melakukan,C3,C3,kognitif,Y,Y,,,51
+UBU60005-SUBCPMK04,UBU60005,4,4,Merancang solusi teknologi informasi yang sesuai dengan konteks lokal dan berkelanjutan,merancang,merancang,C6,C6,kognitif,,Y,,,51
+UBU60005-SUBCPMK05,UBU60005,5,5,Mengembangkan prototipe aplikasi atau sistem informasi untuk mengatasi masalah masyarakat,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,51
+UBU60005-SUBCPMK06,UBU60005,6,6,Menerapkan prinsip-prinsip user-centered design dalam pengembangan solusi teknologi,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,51
+UBU60005-SUBCPMK07,UBU60005,7,7,Melaksanakan pelatihan dan pendampingan penggunaan teknologi informasi di masyarakat,melaksanakan,melaksanakan,C3,C3,kognitif,,Y,,,51
+UBU60005-SUBCPMK08,UBU60005,8,8,Mengevaluasi efektivitas program pengabdian masyarakat menggunakan metode kualitatif dan kuantitatif,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,51
+UBU60005-SUBCPMK09,UBU60005,9,9,Menyusun laporan dan presentasi hasil program pengabdian masyarakat,menyusun,menyusun,C6,C6,kognitif,,Y,,,51
+UBU60005-SUBCPMK10,UBU60005,10,10,Mengembangkan strategi keberlanjutan program pengabdian masyarakat berbasis teknologi informasi,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,51
+CIE61402-SUBCPMK01,CIE61402,1,1,"Menjelaskan empat pilar computational thinking: dekomposisi, pengenalan pola, abstraksi, dan algoritma",menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,52
+CIE61402-SUBCPMK02,CIE61402,2,2,Menguraikan masalah kompleks menjadi sub-masalah yang lebih kecil dan dapat dikelola,menguraikan,menguraikan,C2,C2,kognitif,,Y,,,52
+CIE61402-SUBCPMK03,CIE61402,3,3,Mengidentifikasi pola dan tren dalam data atau proses,mengidentifikasi,mengidentifikasi,C1,C1,kognitif,Y,Y,,,52
+CIE61402-SUBCPMK04,CIE61402,4,4,Merancang model abstrak untuk merepresentasikan sistem atau masalah,merancang,merancang,C6,C6,kognitif,,Y,,,52
+CIE61402-SUBCPMK05,CIE61402,5,5,Mengembangkan algoritma untuk menyelesaikan masalah secara sistematis,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,52
+CIE61402-SUBCPMK06,CIE61402,6,6,Menerapkan logika pemrograman dasar dalam penyelesaian masalah,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,52
+CIE61402-SUBCPMK07,CIE61402,7,7,Menggunakan struktur data sederhana untuk mengorganisasi informasi,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,52
+CIE61402-SUBCPMK08,CIE61402,8,8,Menganalisis efisiensi algoritma dan optimisasi solusi,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,52
+CIE61402-SUBCPMK09,CIE61402,9,9,Menerapkan computational thinking dalam konteks big data dan analitik,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,52
+CIE61402-SUBCPMK10,CIE61402,10,10,Mengintegrasikan computational thinking dengan domain-specific knowledge,mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,52
+CIE61403-SUBCPMK01,CIE61403,1,1,Menjelaskan komponen dan tipe sistem informasi dalam konteks organisasi,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,53
+CIE61403-SUBCPMK02,CIE61403,2,2,"Mengaplikasikan tahapan design thinking: empathize, define, ideate, prototype, dan test",mengaplikasikan,mengaplikasikan,C3,C3,kognitif,,Y,,,53
+CIE61403-SUBCPMK03,CIE61403,3,3,Melakukan penelitian pengguna dan analisis kebutuhan menggunakan teknik design thinking,melakukan,melakukan,C3,C3,kognitif,Y,Y,,,53
+CIE61403-SUBCPMK04,CIE61403,4,4,Mengembangkan persona dan user journey map untuk perancangan sistem informasi,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,53
+CIE61403-SUBCPMK05,CIE61403,5,5,Merancang prototipe sistem informasi menggunakan teknik low-fidelity dan high-fidelity,merancang,merancang,C6,C6,kognitif,,Y,,,53
+CIE61403-SUBCPMK06,CIE61403,6,6,"Mengintegrasikan teknologi cloud, mobile, dan IoT dalam perancangan sistem informasi",mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,53
+CIE61403-SUBCPMK07,CIE61403,7,7,Menerapkan prinsip user experience (UX) dan user interface (UI) dalam desain sistem informasi,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,53
+CIE61403-SUBCPMK08,CIE61403,8,8,Mengimplementasikan metode agile dalam pengembangan sistem informasi berbasis design thinking,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,53
+CIE61403-SUBCPMK09,CIE61403,9,9,Mengevaluasi efektivitas sistem informasi menggunakan metrik berbasis pengguna,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,53
+CIE61403-SUBCPMK10,CIE61403,10,10,Menganalisis tren dan inovasi terkini dalam pengembangan sistem informasi,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,53
+CIE61404-SUBCPMK01,CIE61404,1,1,"Menjelaskan siklus hidup proyek TI dan metodologi manajemen proyek (waterfall, agile, hybrid)",menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,54
+CIE61404-SUBCPMK02,CIE61404,2,2,Mengembangkan project charter dan work breakdown structure (WBS),mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,54
+CIE61404-SUBCPMK03,CIE61404,3,3,"Menyusun jadwal proyek menggunakan teknik penjadwalan (PERT, CPM, Gantt chart)",menyusun,menyusun,C6,C6,kognitif,,Y,,,54
+CIE61404-SUBCPMK04,CIE61404,4,4,Mengestimasi dan mengelola anggaran proyek TI,mengestimasi,mengestimasi;mengelola,C3,C3,kognitif,Y,Y,,,54
+CIE61404-SUBCPMK05,CIE61404,5,5,"Mengidentifikasi, menganalisis, dan merespons risiko proyek TI",mengidentifikasi,mengidentifikasi;menganalisis;merespons,C1,C4,kognitif,Y,Y,,,54
+CIE61404-SUBCPMK06,CIE61404,6,6,Menerapkan prinsip-prinsip manajemen kualitas dalam proyek TI,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,54
+CIE61404-SUBCPMK07,CIE61404,7,7,Mengelola komunikasi dan stakeholder dalam proyek TI,mengelola,mengelola,C3,C3,kognitif,Y,Y,,,54
+CIE61404-SUBCPMK08,CIE61404,8,8,Memimpin tim proyek TI dengan memperhatikan aspek kepemimpinan dan motivasi,memimpin,memimpin,C3,C3,kognitif,Y,Y,,,54
+CIE61404-SUBCPMK09,CIE61404,9,9,"Menggunakan perangkat lunak manajemen proyek (seperti MS Project, Jira, Trello)",menggunakan,menggunakan,C3,C3,kognitif,,Y,,,54
+CIE61404-SUBCPMK10,CIE61404,10,10,Mengevaluasi kinerja proyek dan melakukan lessons learned,mengevaluasi,mengevaluasi;melakukan,C5,C5,kognitif,Y,Y,,,54
+CSD60701-SUBCPMK01,CSD60701,1,1,Menjelaskan konsep dasar ITSM dan kerangka kerja ITIL (Information Technology Infrastructure Library),menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,55
+CSD60701-SUBCPMK02,CSD60701,2,2,Merancang dan mengimplementasikan manajemen insiden dan permintaan layanan,merancang,merancang;mengimplementasikan,C6,C6,kognitif,,Y,,,55
+CSD60701-SUBCPMK03,CSD60701,3,3,Mengembangkan katalog layanan dan manajemen tingkat layanan (SLM),mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,55
+CSD60701-SUBCPMK04,CSD60701,4,4,Menerapkan manajemen perubahan dan rilis dalam lingkungan TI,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,55
+CSD60701-SUBCPMK05,CSD60701,5,5,Mengimplementasikan manajemen konfigurasi dan aset layanan,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,55
+CSD60701-SUBCPMK06,CSD60701,6,6,Merancang dan mengelola service desk dan manajemen pengetahuan,merancang,merancang;mengelola,C6,C6,kognitif,Y,Y,,,55
+CSD60701-SUBCPMK07,CSD60701,7,7,Menerapkan manajemen kapasitas dan ketersediaan layanan TI,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,55
+CSD60701-SUBCPMK08,CSD60701,8,8,Mengimplementasikan manajemen keamanan informasi dalam konteks ITSM,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,55
+CSD60701-SUBCPMK09,CSD60701,9,9,Menganalisis dan meningkatkan kinerja layanan TI menggunakan metrik dan KPI,menganalisis,menganalisis;meningkatkan,C4,C4,kognitif,Y,Y,,,55
+CSD60701-SUBCPMK10,CSD60701,10,10,Menerapkan continuous service improvement dalam ITSM,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,55
+CIE61113-SUBCPMK01,CIE61113,1,1,Memahami makna peran sebuah program pelatihan terhadap pengembangan keterampilan seseorang,memahami,memahami,C2,C2,kognitif,Y,Y,,,56
+CIE61113-SUBCPMK02,CIE61113,2,2,Melakukan proses analisis kebutuhan pengembangan program pelatihan di bidang teknologi informasi,melakukan,melakukan,C3,C3,kognitif,Y,Y,,,56
+CIE61113-SUBCPMK03,CIE61113,3,3,Merancang sebuah program pelatihan pada bidang teknologi informasi menggunakan Instructional System Design (ISD),merancang,merancang,C6,C6,kognitif,,Y,,,56
+CIE61113-SUBCPMK04,CIE61113,4,4,Mampu menilai kualitas program pelatihan menggunakan metode evaluasi pelatihan dan metode perubahan perilaku,menilai,menilai,C5,C5,kognitif,,Y,,,56
+CIE61113-SUBCPMK05,CIE61113,5,5,Melaksanakan program pelatihan di bidang teknologi informasi,melaksanakan,melaksanakan,C3,C3,kognitif,,Y,,,56
+CIE61114-SUBCPMK01,CIE61114,1,1,Mampu menjelaskan konsep atau filosofi pembelajaran dewasa dan berkelanjutan,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,57
+CIE61114-SUBCPMK02,CIE61114,2,2,Mampu menguraikan proses pembelajaran dewasa dan berkelanjutan,menguraikan,menguraikan,C2,C2,kognitif,,Y,,,57
+CIE61114-SUBCPMK03,CIE61114,3,3,Mampu menganalisis kebutuhan kegiatan pembelajaran dewasa dan berkelanjutan,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,57
+CIE61114-SUBCPMK04,CIE61114,4,4,"Mampu membandingkan bentuk pembelajaran dewasa, berkelanjutan, dan seumur hidup",membandingkan,membandingkan,C2,C2,kognitif,Y,Y,,,57
+CIE61114-SUBCPMK05,CIE61114,5,5,Mampu merancang kegiatan pembelajaran dewasa dan berkelanjutan,merancang,merancang,C6,C6,kognitif,,Y,,,57
+CIE61115-SUBCPMK01,CIE61115,1,1,Menjelaskan komponen-komponen sistem pendidikan dan interaksinya,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,58
+CIE61115-SUBCPMK02,CIE61115,2,2,Menganalisis peran teknologi informasi dalam manajemen sistem pendidikan,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,58
+CIE61115-SUBCPMK03,CIE61115,3,3,Merancang kurikulum dan program pembelajaran teknologi informasi yang efektif,merancang,merancang,C6,C6,kognitif,,Y,,,58
+CIE61115-SUBCPMK04,CIE61115,4,4,Mengimplementasikan strategi pengelolaan kelas dalam pembelajaran teknologi informasi,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,58
+CIE61115-SUBCPMK05,CIE61115,5,5,"Mengelola sumber daya pendidikan, termasuk laboratorium komputer dan perangkat pembelajaran digital",mengelola,mengelola,C3,C3,kognitif,Y,Y,,,58
+CIE61115-SUBCPMK06,CIE61115,6,6,Mengembangkan sistem penilaian dan evaluasi pembelajaran teknologi informasi,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,58
+CIE61115-SUBCPMK07,CIE61115,7,7,Menerapkan prinsip-prinsip kepemimpinan pendidikan dalam konteks pembelajaran teknologi informasi,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,58
+CIE61115-SUBCPMK08,CIE61115,8,8,Menganalisis dan mengatasi tantangan dalam implementasi teknologi informasi di sekolah,menganalisis,menganalisis;mengatasi,C4,C4,kognitif,Y,Y,,,58
+CIE61115-SUBCPMK09,CIE61115,9,9,Merancang program pengembangan profesional untuk guru teknologi informasi,merancang,merancang,C6,C6,kognitif,,Y,,,58
+CIE61115-SUBCPMK10,CIE61115,10,10,"Mengembangkan kemitraan antara sekolah, industri, dan masyarakat dalam konteks pendidikan teknologi informasi",mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,58
+CIE62305-SUBCPMK01,CIE62305,1,1,Mampu menjelaskan pengertian dan konsep dasar pembelajaran sosial emosional,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,59
+CIE62305-SUBCPMK02,CIE62305,2,2,Menguraikan hubungan kualitas pengajar dan kegiatan belajar peserta didik,menguraikan,menguraikan,C2,C2,kognitif,,Y,,,59
+CIE62305-SUBCPMK03,CIE62305,3,3,Mampu memberikan argumentasi hubungan antara faktor pendukung pengajaran dan kegiatan belajar peserta didik,memberikan,memberikan,C5,C5,kognitif,Y,Y,,,59
+CIE62305-SUBCPMK04,CIE62305,4,4,Mampu mengidentifikasi kemampuan yang harus dimiliki pengajar untuk mewujudkan lingkungan belajar positif,mengidentifikasi,mengidentifikasi,C1,C1,kognitif,Y,Y,,,59
+CIE62305-SUBCPMK05,CIE62305,5,5,Mampu merancang skenario pembelajaran yang memperhatikan keadaan sosial dan emosional peserta didik,merancang,merancang,C6,C6,kognitif,,Y,,,59
+CIE62306-SUBCPMK01,CIE62306,1,1,Memahami keberagaman paradigma peserta didik pada pembelajaran saat ini,memahami,memahami,C2,C2,kognitif,Y,Y,,,60
+CIE62306-SUBCPMK02,CIE62306,2,2,Mengadopsi konsep Universal Design for Learning pada sebuah kasus setting pembelajaran,mengadopsi,mengadopsi,C3,C3,kognitif,,Y,,,60
+CIE62306-SUBCPMK03,CIE62306,3,3,Mengidentifikasi keberagaman kebutuhan dan perbedaan peserta didik,mengidentifikasi,mengidentifikasi,C1,C1,kognitif,Y,Y,,,60
+CIE62306-SUBCPMK04,CIE62306,4,4,"Mengidentifikasi alat atau tools pembelajaran asistif no-tech, low-tech, dan high-tech untuk memfasilitasi pembelajaran secara inklusif",mengidentifikasi,mengidentifikasi,C1,C1,kognitif,Y,Y,,,60
+CIE62306-SUBCPMK05,CIE62306,5,5,Menentukan strategi pembelajaran inklusif yang tepat berdasarkan karakteristik peserta didik yang berkebutuhan,menentukan,menentukan,C5,C5,kognitif,Y,Y,,,60
+CSD60702-SUBCPMK01,CSD60702,1,1,Menjelaskan perbedaan antara sistem pendukung keputusan dengan sistem informasi lainnya,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,61
+CSD60702-SUBCPMK02,CSD60702,2,2,Mengidentifikasi dan menganalisis kebutuhan pengambil keputusan dalam organisasi,mengidentifikasi,mengidentifikasi;menganalisis,C1,C4,kognitif,Y,Y,,,61
+CSD60702-SUBCPMK03,CSD60702,3,3,Merancang model keputusan menggunakan teknik optimasi dan simulasi,merancang,merancang,C6,C6,kognitif,,Y,,,61
+CSD60702-SUBCPMK04,CSD60702,4,4,Mengimplementasikan data warehouse dan OLAP untuk mendukung pengambilan keputusan,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,61
+CSD60702-SUBCPMK05,CSD60702,5,5,Menerapkan teknik data mining dan machine learning dalam sistem pendukung keputusan,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,61
+CSD60702-SUBCPMK06,CSD60702,6,6,Mengembangkan dashboard dan visualisasi data untuk mendukung pengambilan keputusan,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,61
+CSD60702-SUBCPMK07,CSD60702,7,7,Mengintegrasikan sistem pendukung keputusan dengan sumber data internal dan eksternal,mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,61
+CSD60702-SUBCPMK08,CSD60702,8,8,Menerapkan analisis sensitivitas dan what-if analysis dalam model keputusan,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,61
+CSD60702-SUBCPMK09,CSD60702,9,9,Mengevaluasi kinerja dan dampak sistem pendukung keputusan dalam organisasi,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,61
+CSD60702-SUBCPMK10,CSD60702,10,10,Menganalisis aspek etika dan privasi dalam pengembangan sistem pendukung,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,61
+CIE61212-SUBCPMK01,CIE61212,1,1,"Menjelaskan perbedaan antara supervised, unsupervised, dan reinforcement learning",menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,62
+CIE61212-SUBCPMK02,CIE61212,2,2,Mengimplementasikan algoritma klasifikasi dan regresi untuk pembelajaran terawasi,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,62
+CIE61212-SUBCPMK03,CIE61212,3,3,Menerapkan teknik clustering dan dimensionality reduction untuk pembelajaran tak terawasi,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,62
+CIE61212-SUBCPMK04,CIE61212,4,4,Merancang dan melatih jaringan saraf tiruan dan deep learning models,merancang,merancang;melatih,C6,C6,kognitif,,Y,,,62
+CIE61212-SUBCPMK05,CIE61212,5,5,Menggunakan teknik feature engineering dan selection untuk meningkatkan performa model,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,62
+CIE61212-SUBCPMK06,CIE61212,6,6,Menerapkan metode evaluasi dan validasi model machine learning,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,62
+CIE61212-SUBCPMK07,CIE61212,7,7,Mengimplementasikan sistem rekomendasi menggunakan teknik machine learning,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,62
+CIE61212-SUBCPMK08,CIE61212,8,8,Mengintegrasikan model machine learning dengan sistem big data dan cloud computing,mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,62
+CIE61212-SUBCPMK09,CIE61212,9,9,Menerapkan teknik optimasi dan fine-tuning untuk meningkatkan akurasi model,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,62
+CIE61212-SUBCPMK10,CIE61212,10,10,Menganalisis aspek etika dan privasi dalam pengembangan sistem machine learning,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,62
+CIE62116-SUBCPMK01,CIE62116,1,1,"Menjelaskan model layanan cloud (IaaS, PaaS, SaaS) dan model deployment (public, private, hybrid)",menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,63
+CIE62116-SUBCPMK02,CIE62116,2,2,"Menggunakan layanan komputasi dan penyimpanan cloud dari penyedia utama (AWS, Azure, GCP)",menggunakan,menggunakan,C3,C3,kognitif,,Y,,,63
+CIE62116-SUBCPMK03,CIE62116,3,3,Merancang arsitektur aplikasi berbasis microservices untuk cloud,merancang,merancang,C6,C6,kognitif,,Y,,,63
+CIE62116-SUBCPMK04,CIE62116,4,4,Mengimplementasikan containerization dan orchestration menggunakan Docker dan Kubernetes,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,63
+CIE62116-SUBCPMK05,CIE62116,5,5,Menerapkan praktik DevOps dalam pengembangan dan deployment aplikasi cloud,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,63
+CIE62116-SUBCPMK06,CIE62116,6,6,Mengkonfigurasi keamanan jaringan dan identitas dalam lingkungan cloud,mengkonfigurasi,mengkonfigurasi,C3,C3,kognitif,,Y,,,63
+CIE62116-SUBCPMK07,CIE62116,7,7,Mengelola data dan backup dalam infrastruktur cloud,mengelola,mengelola,C3,C3,kognitif,Y,Y,,,63
+CIE62116-SUBCPMK08,CIE62116,8,8,Mengoptimalkan kinerja aplikasi cloud menggunakan auto-scaling dan load balancing,mengoptimalkan,mengoptimalkan,C5,C5,kognitif,Y,Y,,,63
+CIE62116-SUBCPMK09,CIE62116,9,9,Menganalisis dan mengoptimalkan biaya penggunaan layanan cloud,menganalisis,menganalisis;mengoptimalkan,C4,C5,kognitif,Y,Y,,,63
+CIE62116-SUBCPMK10,CIE62116,10,10,Mengimplementasikan solusi edge computing dan IoT berbasis cloud,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,63
+CIE62117-SUBCPMK01,CIE62117,1,1,Menjelaskan komponen utama dan lapisan arsitektur IoT,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,64
+CIE62117-SUBCPMK02,CIE62117,2,2,Menggunakan sensor dan aktuator dalam sistem IoT,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,64
+CIE62117-SUBCPMK03,CIE62117,3,3,"Mengimplementasikan protokol komunikasi IoT (MQTT, CoAP, HTTP)",mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,64
+CIE62117-SUBCPMK04,CIE62117,4,4,Merancang dan mengembangkan sistem embedded untuk IoT,merancang,merancang;mengembangkan,C6,C6,kognitif,,Y,,,64
+CIE62117-SUBCPMK05,CIE62117,5,5,Mengintegrasikan sistem IoT dengan platform cloud,mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,64
+CIE62117-SUBCPMK06,CIE62117,6,6,Menerapkan teknik analisis data dan machine learning dalam IoT,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,64
+CIE62117-SUBCPMK07,CIE62117,7,7,Mengimplementasikan mekanisme keamanan dan enkripsi dalam komunikasi IoT,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,64
+CIE62117-SUBCPMK08,CIE62117,8,8,Merancang solusi IoT untuk smart home dan smart city,merancang,merancang,C6,C6,kognitif,,Y,,,64
+CIE62117-SUBCPMK09,CIE62117,9,9,Mengembangkan aplikasi mobile untuk kontrol dan monitoring sistem IoT,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,64
+CIE62117-SUBCPMK10,CIE62117,10,10,Mengevaluasi kinerja dan skalabilitas sistem IoT,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,64
+CIE62118-SUBCPMK01,CIE62118,1,1,Menganalisis karakteristik dan kebutuhan peserta didik dalam konteks pembelajaran gamifikasi,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,65
+CIE62118-SUBCPMK02,CIE62118,2,2,Menerapkan prinsip desain game dalam pengembangan sistem pembelajaran,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,65
+CIE62118-SUBCPMK03,CIE62118,3,3,Merancang mekanisme reward dan progression dalam sistem pembelajaran gamifikasi,merancang,merancang,C6,C6,kognitif,,Y,,,65
+CIE62118-SUBCPMK04,CIE62118,4,4,Mengimplementasikan algoritma personalisasi untuk menyesuaikan konten pembelajaran,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,65
+CIE62118-SUBCPMK05,CIE62118,5,5,Mengembangkan sistem adaptif learning berbasis kecerdasan buatan,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,65
+CIE62118-SUBCPMK06,CIE62118,6,6,Merancang user interface yang menarik dan intuitif untuk sistem pembelajaran gamifikasi,merancang,merancang,C6,C6,kognitif,,Y,,,65
+CIE62118-SUBCPMK07,CIE62118,7,7,Mengintegrasikan elemen sosial dan kolaboratif dalam sistem pembelajaran gamifikasi,mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,65
+CIE62118-SUBCPMK08,CIE62118,8,8,Menerapkan teknik analitik pembelajaran untuk mengukur performa dan kemajuan peserta didik,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,65
+CIE62118-SUBCPMK09,CIE62118,9,9,Mengimplementasikan sistem umpan balik real-time dalam pembelajaran gamifikasi,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,65
+CIE62118-SUBCPMK10,CIE62118,10,10,Mengevaluasi dampak gamifikasi dan personalisasi terhadap motivasi dan hasil belajar peserta didik,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,65
+CIE62307-SUBCPMK01,CIE62307,1,1,Menganalisis karakteristik dan kebutuhan peserta didik dalam konteks pembelajaran digital,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,66
+CIE62307-SUBCPMK02,CIE62307,2,2,Menerapkan prinsip desain instruksional dalam pengembangan konten multimedia,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,66
+CIE62307-SUBCPMK03,CIE62307,3,3,"Mengintegrasikan berbagai elemen multimedia (teks, gambar, audio, video) dalam materi pembelajaran",mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,66
+CIE62307-SUBCPMK04,CIE62307,4,4,Merancang skenario pembelajaran berbasis game yang menarik dan edukatif,merancang,merancang,C6,C6,kognitif,,Y,,,66
+CIE62307-SUBCPMK05,CIE62307,5,5,"Mengimplementasikan elemen gamification (poin, badge, leaderboard) dalam sistem pembelajaran",mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,66
+CIE62307-SUBCPMK06,CIE62307,6,6,Mengembangkan aplikasi pembelajaran mobile dengan memperhatikan user experience,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,66
+CIE62307-SUBCPMK07,CIE62307,7,7,Mengintegrasikan teknologi augmented reality (AR) dalam aplikasi pembelajaran mobile,mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,66
+CIE62307-SUBCPMK08,CIE62307,8,8,Menerapkan teknik adaptif learning dalam sistem pembelajaran digital,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,66
+CIE62307-SUBCPMK09,CIE62307,9,9,Mengimplementasikan sistem penilaian dan feedback dalam aplikasi pembelajaran,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,66
+CIE62307-SUBCPMK10,CIE62307,10,10,Menganalisis data pembelajaran untuk meningkatkan efektivitas sistem instruksional,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,66
+CIE62308-SUBCPMK01,CIE62308,1,1,"Menjelaskan perbedaan antara pembelajaran jarak jauh, e-learning, dan blended learning",menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,67
+CIE62308-SUBCPMK02,CIE62308,2,2,Mengidentifikasi karakteristik dan kebutuhan peserta didik jarak jauh,mengidentifikasi,mengidentifikasi,C1,C1,kognitif,Y,Y,,,67
+CIE62308-SUBCPMK03,CIE62308,3,3,Merancang strategi instruksional yang sesuai untuk pembelajaran jarak jauh,merancang,merancang,C6,C6,kognitif,,Y,,,67
+CIE62308-SUBCPMK04,CIE62308,4,4,Mengembangkan materi pembelajaran multimedia interaktif,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,67
+CIE62308-SUBCPMK05,CIE62308,5,5,Mengimplementasikan Learning Management System (LMS) untuk pembelajaran jarak jauh,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,67
+CIE62308-SUBCPMK06,CIE62308,6,6,Menerapkan teknik penilaian dan evaluasi dalam konteks pembelajaran jarak jauh,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,67
+CIE62308-SUBCPMK07,CIE62308,7,7,Mengintegrasikan teknologi kolaborasi dan komunikasi dalam pembelajaran jarak jauh,mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,67
+CIE62308-SUBCPMK08,CIE62308,8,8,Mengelola aspek administratif dan dukungan peserta didik dalam program jarak jauh,mengelola,mengelola,C3,C3,kognitif,Y,Y,,,67
+CIE62308-SUBCPMK09,CIE62308,9,9,Menganalisis dan mengatasi tantangan dalam implementasi pembelajaran jarak jauh,menganalisis,menganalisis;mengatasi,C4,C4,kognitif,Y,Y,,,67
+CIE62308-SUBCPMK10,CIE62308,10,10,Mengevaluasi efektivitas program pembelajaran jarak jauh menggunakan metrik yang relevan,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,67
+CSD60716-SUBCPMK01,CSD60716,1,1,Menjelaskan perbedaan antara pendekatan kualitatif dan kuantitatif dalam penelitian teknologi informasi,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,68
+CSD60716-SUBCPMK02,CSD60716,2,2,"Merancang instrumen pengumpulan data kualitatif (panduan wawancara, observasi, dll)",merancang,merancang,C6,C6,kognitif,,Y,,,68
+CSD60716-SUBCPMK03,CSD60716,3,3,Melakukan coding dan kategorisasi data kualitatif,melakukan,melakukan,C3,C3,kognitif,Y,Y,,,68
+CSD60716-SUBCPMK04,CSD60716,4,4,Menggunakan software analisis data kualitatif (seperti NVivo atau ATLAS.ti),menggunakan,menggunakan,C3,C3,kognitif,,Y,,,68
+CSD60716-SUBCPMK05,CSD60716,5,5,Mengaplikasikan teknik analisis tematik pada data kualitatif,mengaplikasikan,mengaplikasikan,C3,C3,kognitif,,Y,,,68
+CSD60716-SUBCPMK06,CSD60716,6,6,Melakukan analisis konten pada data teks dan multimedia,melakukan,melakukan,C3,C3,kognitif,Y,Y,,,68
+CSD60716-SUBCPMK07,CSD60716,7,7,Mengintegrasikan metode analisis kualitatif dengan data kuantitatif (mixed methods),mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,68
+CSD60716-SUBCPMK08,CSD60716,8,8,Menyusun laporan hasil analisis data kualitatif,menyusun,menyusun,C6,C6,kognitif,,Y,,,68
+CSD60716-SUBCPMK09,CSD60716,9,9,Menerapkan teknik validasi dan triangulasi dalam penelitian kualitatif,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,68
+CSD60716-SUBCPMK10,CSD60716,10,10,Mengidentifikasi dan mengatasi tantangan etis dalam analisis data kualitatif,mengidentifikasi,mengidentifikasi;mengatasi,C1,C3,kognitif,Y,Y,,,68
+CSD60715-SUBCPMK01,CSD60715,1,1,Menjelaskan perbedaan antara pendekatan kuantitatif dan kualitatif dalam penelitian teknologi informasi,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,69
+CSD60715-SUBCPMK02,CSD60715,2,2,"Merancang instrumen pengumpulan data kuantitatif (kuesioner, eksperimen, dll)",merancang,merancang,C6,C6,kognitif,,Y,,,69
+CSD60715-SUBCPMK03,CSD60715,3,3,Melakukan persiapan dan pembersihan data untuk analisis,melakukan,melakukan,C3,C3,kognitif,Y,Y,,,69
+CSD60715-SUBCPMK04,CSD60715,4,4,"Menggunakan software analisis data kuantitatif (seperti SPSS, R, atau Python)",menggunakan,menggunakan,C3,C3,kognitif,,Y,,,69
+CSD60715-SUBCPMK05,CSD60715,5,5,Mengaplikasikan teknik statistik deskriptif untuk meringkas dan menggambarkan data,mengaplikasikan,mengaplikasikan;menggambarkan,C3,C3,kognitif,,Y,,,69
+CSD60715-SUBCPMK06,CSD60715,6,6,Melakukan uji hipotesis menggunakan metode statistik inferensial,melakukan,melakukan,C3,C3,kognitif,Y,Y,,,69
+CSD60715-SUBCPMK07,CSD60715,7,7,Menganalisis hubungan antar variabel menggunakan teknik korelasi dan regresi,menganalisis,menganalisis,C4,C4,kognitif,,Y,,,69
+CSD60715-SUBCPMK08,CSD60715,8,8,Menyusun laporan hasil analisis data kuantitatif,menyusun,menyusun,C6,C6,kognitif,,Y,,,69
+CSD60715-SUBCPMK09,CSD60715,9,9,Menerapkan teknik validasi dan reliabilitas dalam penelitian kuantitatif,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,69
+CSD60715-SUBCPMK10,CSD60715,10,10,Mengintegrasikan metode analisis kuantitatif dengan data kualitatif (mixed methods),mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,69
+CIE61215-SUBCPMK01,CIE61215,1,1,"Menjelaskan perbedaan pengembangan aplikasi native, hybrid, dan web mobile",menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,70
+CIE61215-SUBCPMK02,CIE61215,2,2,Merancang UI/UX yang responsif dan sesuai dengan pedoman desain platform mobile,merancang,merancang,C6,C6,kognitif,,Y,,,70
+CIE61215-SUBCPMK03,CIE61215,3,3,Mengimplementasikan navigasi dan manajemen state dalam aplikasi mobile,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,70
+CIE61215-SUBCPMK04,CIE61215,4,4,Mengelola penyimpanan data lokal dan sinkronisasi dengan server,mengelola,mengelola,C3,C3,kognitif,Y,Y,,,70
+CIE61215-SUBCPMK05,CIE61215,5,5,"Mengintegrasikan fitur perangkat seperti kamera, GPS, dan sensor dalam aplikasi",mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,70
+CIE61215-SUBCPMK06,CIE61215,6,6,Mengimplementasikan autentikasi dan otorisasi pengguna dalam aplikasi mobile,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,70
+CIE61215-SUBCPMK07,CIE61215,7,7,Mengonsumsi API eksternal dan mengelola konektivitas jaringan,mengonsumsi,mengonsumsi;mengelola,C3,C3,kognitif,Y,Y,,,70
+CIE61215-SUBCPMK08,CIE61215,8,8,Menerapkan teknik caching dan lazy loading untuk optimasi kinerja,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,70
+CIE61215-SUBCPMK09,CIE61215,9,9,Mengimplementasikan notifikasi push dan background services,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,70
+CIE61215-SUBCPMK10,CIE61215,10,10,Mempersiapkan aplikasi untuk publikasi di app store dan melakukan pengujian,mempersiapkan,mempersiapkan;melakukan,C3,C3,kognitif,Y,Y,,,70
+CSD60713-SUBCPMK01,CSD60713,1,1,Menganalisis kebutuhan jaringan dan merancang topologi yang sesuai,menganalisis,menganalisis;merancang,C4,C6,kognitif,,Y,,,71
+CSD60713-SUBCPMK02,CSD60713,2,2,Mengkonfigurasi router dan switch untuk jaringan enterprise,mengkonfigurasi,mengkonfigurasi,C3,C3,kognitif,,Y,,,71
+CSD60713-SUBCPMK03,CSD60713,3,3,"Mengimplementasikan VLAN, VTP, dan Inter-VLAN Routing",mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,71
+CSD60713-SUBCPMK04,CSD60713,4,4,Menerapkan protokol routing dinamis seperti OSPF dan BGP,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,71
+CSD60713-SUBCPMK05,CSD60713,5,5,Mengkonfigurasi dan mengelola jaringan nirkabel enterprise,mengkonfigurasi,mengkonfigurasi;mengelola,C3,C3,kognitif,Y,Y,,,71
+CSD60713-SUBCPMK06,CSD60713,6,6,Mengimplementasikan solusi keamanan jaringan seperti firewall dan VPN,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,71
+CSD60713-SUBCPMK07,CSD60713,7,7,Menerapkan manajemen akses dan autentikasi berbasis AAA,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,71
+CSD60713-SUBCPMK08,CSD60713,8,8,Mengoptimalkan Quality of Service (QoS) untuk berbagai jenis lalu lintas jaringan,mengoptimalkan,mengoptimalkan,C5,C5,kognitif,Y,Y,,,71
+CSD60713-SUBCPMK09,CSD60713,9,9,Melakukan monitoring dan analisis kinerja jaringan menggunakan tools enterprise,melakukan,melakukan,C3,C3,kognitif,Y,Y,,,71
+CSD60713-SUBCPMK10,CSD60713,10,10,Menerapkan teknik troubleshooting untuk mendiagnosis dan menyelesaikan masalah jaringan kompleks,menerapkan,menerapkan;menyelesaikan,C3,C3,kognitif,Y,Y,,,71
+CSD60711-SUBCPMK01,CSD60711,1,1,"Menjelaskan perbedaan dan hubungan antara UI, UX, dan usability",menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,72
+CSD60711-SUBCPMK02,CSD60711,2,2,Mengaplikasikan tahapan proses UX design dalam pengembangan aplikasi,mengaplikasikan,mengaplikasikan,C3,C3,kognitif,,Y,,,72
+CSD60711-SUBCPMK03,CSD60711,3,3,"Melakukan user research menggunakan berbagai metode (wawancara, survei, observasi)",melakukan,melakukan,C3,C3,kognitif,Y,Y,,,72
+CSD60711-SUBCPMK04,CSD60711,4,4,Menganalisis dan mendefinisikan persona pengguna dan user journey,menganalisis,menganalisis;mendefinisikan,C4,C4,kognitif,,Y,,,72
+CSD60711-SUBCPMK05,CSD60711,5,5,Menggunakan teknik ideasi untuk menghasilkan solusi desain yang inovatif,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,72
+CSD60711-SUBCPMK06,CSD60711,6,6,Membuat wireframe dan prototipe interaktif untuk aplikasi web dan mobile,membuat,membuat,C6,C6,kognitif,,Y,,,72
+CSD60711-SUBCPMK07,CSD60711,7,7,Menerapkan prinsip-prinsip desain visual dalam perancangan antarmuka,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,72
+CSD60711-SUBCPMK08,CSD60711,8,8,Melakukan usability testing dan menganalisis hasil evaluasi UX,melakukan,melakukan;menganalisis,C3,C4,kognitif,Y,Y,,,72
+CSD60711-SUBCPMK09,CSD60711,9,9,Mengoptimalkan desain UX berdasarkan metrik dan feedback pengguna,mengoptimalkan,mengoptimalkan,C5,C5,kognitif,Y,Y,,,72
+CSD60711-SUBCPMK10,CSD60711,10,10,Mengintegrasikan aspek aksesibilitas dalam perancangan UX,mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,72
+CSD60714-SUBCPMK01,CSD60714,1,1,Menjelaskan konsep dasar Software Quality Assurance dan peranannya dalam pengembangan perangkat lunak,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,73
+CSD60714-SUBCPMK02,CSD60714,2,2,"Mengidentifikasi berbagai jenis pengujian perangkat lunak (unit testing, integration testing, system testing, acceptance testing)",mengidentifikasi,mengidentifikasi,C1,C1,kognitif,Y,Y,,,73
+CSD60714-SUBCPMK03,CSD60714,3,3,Merancang rencana pengujian perangkat lunak yang komprehensif,merancang,merancang,C6,C6,kognitif,,Y,,,73
+CSD60714-SUBCPMK04,CSD60714,4,4,Mengimplementasikan teknik pengujian manual dan otomatis,mengimplementasikan,mengimplementasikan,C3,C3,kognitif,,Y,,,73
+CSD60714-SUBCPMK05,CSD60714,5,5,"Menggunakan alat bantu pengujian perangkat lunak (misalnya, Selenium, JUnit)",menggunakan,menggunakan,C3,C3,kognitif,,Y,,,73
+CSD60714-SUBCPMK06,CSD60714,6,6,Menerapkan standar dan praktik terbaik dalam pengelolaan kualitas perangkat lunak,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,73
+CSD60714-SUBCPMK07,CSD60714,7,7,Melakukan analisis dan pelaporan hasil pengujian perangkat lunak,melakukan,melakukan,C3,C3,kognitif,Y,Y,,,73
+CSD60714-SUBCPMK08,CSD60714,8,8,Mengelola proses pengujian perangkat lunak dalam tim pengembangan,mengelola,mengelola,C3,C3,kognitif,Y,Y,,,73
+CSD60714-SUBCPMK09,CSD60714,9,9,Mengevaluasi dan mengidentifikasi area untuk perbaikan dalam proses pengembangan perangkat lunak,mengevaluasi,mengevaluasi;mengidentifikasi,C5,C5,kognitif,Y,Y,,,73
+CSD60714-SUBCPMK10,CSD60714,10,10,Menerapkan teknik continuous integration dan continuous delivery (CI/CD) untuk memastikan kualitas perangkat lunak,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,73
+CIE61119-SUBCPMK01,CIE61119,1,1,"Menjelaskan perbedaan dan hubungan antara mode linguistik, visual, spasial, gestural, dan aural dalam storytelling",menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,74
+CIE61119-SUBCPMK02,CIE61119,2,2,Mengidentifikasi karakteristik dan keunggulan masing-masing mode komunikasi,mengidentifikasi,mengidentifikasi,C1,C1,kognitif,Y,Y,,,74
+CIE61119-SUBCPMK03,CIE61119,3,3,"Menerapkan teknik visual storytelling menggunakan gambar, video, dan animasi",menerapkan,menerapkan,C3,C3,kognitif,,Y,,,74
+CIE61119-SUBCPMK04,CIE61119,4,4,Mengembangkan narasi audio yang efektif untuk podcast dan konten suara lainnya,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,74
+CIE61119-SUBCPMK05,CIE61119,5,5,Merancang tata letak dan desain yang mendukung penyampaian cerita multimodal,merancang,merancang,C6,C6,kognitif,,Y,,,74
+CIE61119-SUBCPMK06,CIE61119,6,6,Mengintegrasikan elemen interaktif dalam storytelling digital,mengintegrasikan,mengintegrasikan,C4,C4,kognitif,Y,Y,,,74
+CIE61119-SUBCPMK07,CIE61119,7,7,Menganalisis target audiens dan menyesuaikan strategi storytelling,menganalisis,menganalisis;menyesuaikan,C4,C4,kognitif,,Y,,,74
+CIE61119-SUBCPMK08,CIE61119,8,8,Mengevaluasi dampak dan efektivitas storytelling multimodal menggunakan metrik yang relevan,mengevaluasi,mengevaluasi,C5,C5,kognitif,,Y,,,74
+CIE61119-SUBCPMK09,CIE61119,9,9,Mengaplikasikan prinsip aksesibilitas dalam perancangan konten multimodal,mengaplikasikan,mengaplikasikan,C3,C3,kognitif,,Y,,,74
+CIE61119-SUBCPMK10,CIE61119,10,10,Menggunakan alat dan teknologi terkini untuk produksi konten multimodal,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,74
+CIE61120-SUBCPMK01,CIE61120,1,1,Menjelaskan perkembangan teknologi digital dan dampaknya terhadap masyarakat,menjelaskan,menjelaskan,C2,C2,kognitif,,Y,,,75
+CIE61120-SUBCPMK02,CIE61120,2,2,Mengidentifikasi dan mengevaluasi sumber informasi digital yang kredibel,mengidentifikasi,mengidentifikasi;mengevaluasi,C1,C5,kognitif,Y,Y,,,75
+CIE61120-SUBCPMK03,CIE61120,3,3,Menerapkan teknik penelusuran informasi digital yang efektif,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,75
+CIE61120-SUBCPMK04,CIE61120,4,4,Menggunakan berbagai platform digital untuk komunikasi profesional,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,75
+CIE61120-SUBCPMK05,CIE61120,5,5,Berkolaborasi secara efektif menggunakan alat digital,berkolaborasi,berkolaborasi,C3,C3,kognitif,Y,Y,,,75
+CIE61120-SUBCPMK06,CIE61120,6,6,Memahami dan menerapkan hak cipta digital dan penggunaan konten yang etis,memahami,memahami;menerapkan,C2,C3,kognitif,Y,Y,,,75
+CIE61120-SUBCPMK07,CIE61120,7,7,Menerapkan praktik keamanan online dan perlindungan privasi digital,menerapkan,menerapkan,C3,C3,kognitif,,Y,,,75
+CIE61120-SUBCPMK08,CIE61120,8,8,Menggunakan teknologi digital untuk manajemen waktu dan produktivitas,menggunakan,menggunakan,C3,C3,kognitif,,Y,,,75
+CIE61120-SUBCPMK09,CIE61120,9,9,Memanfaatkan sumber daya digital untuk pembelajaran sepanjang hayat,memanfaatkan,memanfaatkan,C3,C3,kognitif,,Y,,,75
+CIE61120-SUBCPMK10,CIE61120,10,10,Mengembangkan identitas profesional online yang positif,mengembangkan,mengembangkan,C6,C6,kognitif,,Y,,,75

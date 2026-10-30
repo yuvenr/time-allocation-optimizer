@@ -1,0 +1,282 @@
+jalur,nama_jalur,semester,urutan,kode_mk,nama_slot,jenis_slot,tema,sks,praktikum_tabel_struktur,prasyarat_tabel_struktur,mode_pelaksanaan,total_sks_semester,halaman_pdf
+A,Reguler,1,1,COM60014,Pemrograman Dasar,MK_WAJIB,,5,Ya,Tidak ada,reguler,20,27
+A,Reguler,1,2,COM60016,Pengantar Keilmuan Komputer,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+A,Reguler,1,3,COM60015,Matematika Diskrit,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+A,Reguler,1,4,CIE61301,Kalkulus dan Aljabar Linear,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+A,Reguler,1,5,MPK60007,Bahasa Indonesia,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+A,Reguler,1,6,UBU60004,Bahasa Inggris,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+A,Reguler,1,7,MPK60006,Kewarganegaraan,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+A,Reguler,1,8,UBU60003,Kewirausahaan,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+A,Reguler,2,1,CIE62201,Perancangan Antarmuka Pengguna,MK_WAJIB,,3,Ya,Tidak ada,reguler,20,27
+A,Reguler,2,2,CIE62202,Teknologi Platform,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+A,Reguler,2,3,CIE62203,Pemrograman Berbasis Objek,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+A,Reguler,2,4,CIE62204,Paradigma Sistem,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+A,Reguler,2,5,CSD60712,Probabilitas dan Statistika,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+A,Reguler,2,6,CIE62401,Inovasi Digital Kompetitif,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+A,Reguler,2,7,MPK60008,Pancasila,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+A,Reguler,2,8,MPK600XX,Agama (pilih satu: MPK60001-MPK60005),MK_WAJIB_PILIH_SATU,,2,Tidak,Tidak ada,reguler,20,27
+A,Reguler,3,1,CIE61101,Perkembangan Peserta Didik,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,27
+A,Reguler,3,2,CIE61102,Filsafat Pendidikan dan Sains,MK_WAJIB,,4,Tidak,Tidak ada,reguler,21,27
+A,Reguler,3,3,CIE61103,Komunikasi dan Teknologi Pendidikan,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,27
+A,Reguler,3,4,CIE61205,Pemrograman Web,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+A,Reguler,3,5,CIE61206,Jaringan Komputer,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+A,Reguler,3,6,CIE61207,Teknologi Sistem Terintegrasi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,27
+A,Reguler,3,7,CIE61208,Basis Data,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+A,Reguler,4,1,CIE62104,Pengembangan Kurikulum,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+A,Reguler,4,2,CIE62105,Pembelajaran Berdiferensiasi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,28
+A,Reguler,4,3,CIE62106,Teori dan Sains Belajar,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+A,Reguler,4,4,CIE62107,Lingkungan Pembelajaran Digital,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,28
+A,Reguler,4,5,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,MK_WAJIB,,3,Ya,Nilai MK Paradigma Sistem ≥ E,reguler,21,28
+A,Reguler,4,6,CSD60709,Keamanan Siber,MK_WAJIB,,2,Tidak,Nilai MK Jaringan Komputer ≥ E,reguler,21,28
+A,Reguler,4,7,CIE62303,Kecerdasan Artifisial,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+A,Reguler,4,8,COM60052,Etika Profesi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,28
+A,Reguler,5,1,CIE61108,Penilaian Hasil Belajar,MK_WAJIB,,3,Tidak,Nilai MK Pengembangan Kurikulum ≥ E,reguler,21,29
+A,Reguler,5,2,CIE61109,Pembelajaran Mikro,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,29
+A,Reguler,5,3,CIE61110,Perancangan Pembelajaran,MK_WAJIB,,3,Tidak,Nilai MK Teori dan Sains Belajar ≥ E,reguler,21,29
+A,Reguler,5,4,COM60051,Metode Penelitian dan Penulisan Ilmiah,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,29
+A,Reguler,5,5,CSD60708,Penambangan Data,MK_WAJIB,,3,Tidak,Nilai MK Kecerdasan Artifisial ≥ E,reguler,21,29
+A,Reguler,5,6,,Pilihan Tema A,PILIHAN_TEMA,A,3,,,reguler,21,29
+A,Reguler,5,7,,Pilihan Tema B,PILIHAN_TEMA,B,3,,,reguler,21,29
+B,Merdeka Belajar 1 semester di dalam UB,1,1,COM60014,Pemrograman Dasar,MK_WAJIB,,5,Ya,Tidak ada,reguler,20,27
+B,Merdeka Belajar 1 semester di dalam UB,1,2,COM60016,Pengantar Keilmuan Komputer,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+B,Merdeka Belajar 1 semester di dalam UB,1,3,COM60015,Matematika Diskrit,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+B,Merdeka Belajar 1 semester di dalam UB,1,4,CIE61301,Kalkulus dan Aljabar Linear,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+B,Merdeka Belajar 1 semester di dalam UB,1,5,MPK60007,Bahasa Indonesia,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+B,Merdeka Belajar 1 semester di dalam UB,1,6,UBU60004,Bahasa Inggris,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+B,Merdeka Belajar 1 semester di dalam UB,1,7,MPK60006,Kewarganegaraan,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+B,Merdeka Belajar 1 semester di dalam UB,1,8,UBU60003,Kewirausahaan,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+B,Merdeka Belajar 1 semester di dalam UB,2,1,CIE62201,Perancangan Antarmuka Pengguna,MK_WAJIB,,3,Ya,Tidak ada,reguler,20,27
+B,Merdeka Belajar 1 semester di dalam UB,2,2,CIE62202,Teknologi Platform,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+B,Merdeka Belajar 1 semester di dalam UB,2,3,CIE62203,Pemrograman Berbasis Objek,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+B,Merdeka Belajar 1 semester di dalam UB,2,4,CIE62204,Paradigma Sistem,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+B,Merdeka Belajar 1 semester di dalam UB,2,5,CSD60712,Probabilitas dan Statistika,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+B,Merdeka Belajar 1 semester di dalam UB,2,6,CIE62401,Inovasi Digital Kompetitif,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+B,Merdeka Belajar 1 semester di dalam UB,2,7,MPK60008,Pancasila,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+B,Merdeka Belajar 1 semester di dalam UB,2,8,MPK600XX,Agama (pilih satu: MPK60001-MPK60005),MK_WAJIB_PILIH_SATU,,2,Tidak,Tidak ada,reguler,20,27
+B,Merdeka Belajar 1 semester di dalam UB,3,1,CIE61101,Perkembangan Peserta Didik,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,27
+B,Merdeka Belajar 1 semester di dalam UB,3,2,CIE61102,Filsafat Pendidikan dan Sains,MK_WAJIB,,4,Tidak,Tidak ada,reguler,21,27
+B,Merdeka Belajar 1 semester di dalam UB,3,3,CIE61103,Komunikasi dan Teknologi Pendidikan,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,27
+B,Merdeka Belajar 1 semester di dalam UB,3,4,CIE61205,Pemrograman Web,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+B,Merdeka Belajar 1 semester di dalam UB,3,5,CIE61206,Jaringan Komputer,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+B,Merdeka Belajar 1 semester di dalam UB,3,6,CIE61207,Teknologi Sistem Terintegrasi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,27
+B,Merdeka Belajar 1 semester di dalam UB,3,7,CIE61208,Basis Data,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+B,Merdeka Belajar 1 semester di dalam UB,4,1,CIE62104,Pengembangan Kurikulum,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+B,Merdeka Belajar 1 semester di dalam UB,4,2,CIE62105,Pembelajaran Berdiferensiasi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,28
+B,Merdeka Belajar 1 semester di dalam UB,4,3,CIE62106,Teori dan Sains Belajar,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+B,Merdeka Belajar 1 semester di dalam UB,4,4,CIE62107,Lingkungan Pembelajaran Digital,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,28
+B,Merdeka Belajar 1 semester di dalam UB,4,5,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,MK_WAJIB,,3,Ya,Nilai MK Paradigma Sistem ≥ E,reguler,21,28
+B,Merdeka Belajar 1 semester di dalam UB,4,6,CSD60709,Keamanan Siber,MK_WAJIB,,2,Tidak,Nilai MK Jaringan Komputer ≥ E,reguler,21,28
+B,Merdeka Belajar 1 semester di dalam UB,4,7,CIE62303,Kecerdasan Artifisial,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+B,Merdeka Belajar 1 semester di dalam UB,4,8,COM60052,Etika Profesi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,28
+B,Merdeka Belajar 1 semester di dalam UB,5,1,CIE61108,Penilaian Hasil Belajar,MK_WAJIB,,3,Tidak,Nilai MK Pengembangan Kurikulum ≥ E,reguler,21,29
+B,Merdeka Belajar 1 semester di dalam UB,5,2,CIE61109,Pembelajaran Mikro,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,29
+B,Merdeka Belajar 1 semester di dalam UB,5,3,CIE61110,Perancangan Pembelajaran,MK_WAJIB,,3,Tidak,Nilai MK Teori dan Sains Belajar ≥ E,reguler,21,29
+B,Merdeka Belajar 1 semester di dalam UB,5,4,COM60051,Metode Penelitian dan Penulisan Ilmiah,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,29
+B,Merdeka Belajar 1 semester di dalam UB,5,5,CSD60708,Penambangan Data,MK_WAJIB,,3,Tidak,Nilai MK Kecerdasan Artifisial ≥ E,reguler,21,29
+B,Merdeka Belajar 1 semester di dalam UB,5,6,,Pilihan Tema A,PILIHAN_TEMA,A,3,,,reguler,21,29
+B,Merdeka Belajar 1 semester di dalam UB,5,7,,Pilihan Tema B,PILIHAN_TEMA,B,3,,,reguler,21,29
+C,Merdeka Belajar 1 semester di luar UB,1,1,COM60014,Pemrograman Dasar,MK_WAJIB,,5,Ya,Tidak ada,reguler,20,27
+C,Merdeka Belajar 1 semester di luar UB,1,2,COM60016,Pengantar Keilmuan Komputer,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+C,Merdeka Belajar 1 semester di luar UB,1,3,COM60015,Matematika Diskrit,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+C,Merdeka Belajar 1 semester di luar UB,1,4,CIE61301,Kalkulus dan Aljabar Linear,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+C,Merdeka Belajar 1 semester di luar UB,1,5,MPK60007,Bahasa Indonesia,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+C,Merdeka Belajar 1 semester di luar UB,1,6,UBU60004,Bahasa Inggris,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+C,Merdeka Belajar 1 semester di luar UB,1,7,MPK60006,Kewarganegaraan,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+C,Merdeka Belajar 1 semester di luar UB,1,8,UBU60003,Kewirausahaan,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+C,Merdeka Belajar 1 semester di luar UB,2,1,CIE62201,Perancangan Antarmuka Pengguna,MK_WAJIB,,3,Ya,Tidak ada,reguler,20,27
+C,Merdeka Belajar 1 semester di luar UB,2,2,CIE62202,Teknologi Platform,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+C,Merdeka Belajar 1 semester di luar UB,2,3,CIE62203,Pemrograman Berbasis Objek,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+C,Merdeka Belajar 1 semester di luar UB,2,4,CIE62204,Paradigma Sistem,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+C,Merdeka Belajar 1 semester di luar UB,2,5,CSD60712,Probabilitas dan Statistika,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+C,Merdeka Belajar 1 semester di luar UB,2,6,CIE62401,Inovasi Digital Kompetitif,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+C,Merdeka Belajar 1 semester di luar UB,2,7,MPK60008,Pancasila,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+C,Merdeka Belajar 1 semester di luar UB,2,8,MPK600XX,Agama (pilih satu: MPK60001-MPK60005),MK_WAJIB_PILIH_SATU,,2,Tidak,Tidak ada,reguler,20,27
+C,Merdeka Belajar 1 semester di luar UB,3,1,CIE61101,Perkembangan Peserta Didik,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,27
+C,Merdeka Belajar 1 semester di luar UB,3,2,CIE61102,Filsafat Pendidikan dan Sains,MK_WAJIB,,4,Tidak,Tidak ada,reguler,21,27
+C,Merdeka Belajar 1 semester di luar UB,3,3,CIE61103,Komunikasi dan Teknologi Pendidikan,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,27
+C,Merdeka Belajar 1 semester di luar UB,3,4,CIE61205,Pemrograman Web,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+C,Merdeka Belajar 1 semester di luar UB,3,5,CIE61206,Jaringan Komputer,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+C,Merdeka Belajar 1 semester di luar UB,3,6,CIE61207,Teknologi Sistem Terintegrasi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,27
+C,Merdeka Belajar 1 semester di luar UB,3,7,CIE61208,Basis Data,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+C,Merdeka Belajar 1 semester di luar UB,4,1,CIE62104,Pengembangan Kurikulum,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+C,Merdeka Belajar 1 semester di luar UB,4,2,CIE62105,Pembelajaran Berdiferensiasi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,28
+C,Merdeka Belajar 1 semester di luar UB,4,3,CIE62106,Teori dan Sains Belajar,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+C,Merdeka Belajar 1 semester di luar UB,4,4,CIE62107,Lingkungan Pembelajaran Digital,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,28
+C,Merdeka Belajar 1 semester di luar UB,4,5,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,MK_WAJIB,,3,Ya,Nilai MK Paradigma Sistem ≥ E,reguler,21,28
+C,Merdeka Belajar 1 semester di luar UB,4,6,CSD60709,Keamanan Siber,MK_WAJIB,,2,Tidak,Nilai MK Jaringan Komputer ≥ E,reguler,21,28
+C,Merdeka Belajar 1 semester di luar UB,4,7,CIE62303,Kecerdasan Artifisial,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+C,Merdeka Belajar 1 semester di luar UB,4,8,COM60052,Etika Profesi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,28
+C,Merdeka Belajar 1 semester di luar UB,5,1,CIE61108,Penilaian Hasil Belajar,MK_WAJIB,,3,Tidak,Nilai MK Pengembangan Kurikulum ≥ E,reguler,21,29
+C,Merdeka Belajar 1 semester di luar UB,5,2,CIE61109,Pembelajaran Mikro,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,29
+C,Merdeka Belajar 1 semester di luar UB,5,3,CIE61110,Perancangan Pembelajaran,MK_WAJIB,,3,Tidak,Nilai MK Teori dan Sains Belajar ≥ E,reguler,21,29
+C,Merdeka Belajar 1 semester di luar UB,5,4,COM60051,Metode Penelitian dan Penulisan Ilmiah,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,29
+C,Merdeka Belajar 1 semester di luar UB,5,5,CSD60708,Penambangan Data,MK_WAJIB,,3,Tidak,Nilai MK Kecerdasan Artifisial ≥ E,reguler,21,29
+C,Merdeka Belajar 1 semester di luar UB,5,6,,Pilihan Tema A,PILIHAN_TEMA,A,3,,,reguler,21,29
+C,Merdeka Belajar 1 semester di luar UB,5,7,,Pilihan Tema B,PILIHAN_TEMA,B,3,,,reguler,21,29
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),1,1,COM60014,Pemrograman Dasar,MK_WAJIB,,5,Ya,Tidak ada,reguler,20,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),1,2,COM60016,Pengantar Keilmuan Komputer,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),1,3,COM60015,Matematika Diskrit,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),1,4,CIE61301,Kalkulus dan Aljabar Linear,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),1,5,MPK60007,Bahasa Indonesia,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),1,6,UBU60004,Bahasa Inggris,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),1,7,MPK60006,Kewarganegaraan,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),1,8,UBU60003,Kewirausahaan,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),2,1,CIE62201,Perancangan Antarmuka Pengguna,MK_WAJIB,,3,Ya,Tidak ada,reguler,20,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),2,2,CIE62202,Teknologi Platform,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),2,3,CIE62203,Pemrograman Berbasis Objek,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),2,4,CIE62204,Paradigma Sistem,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),2,5,CSD60712,Probabilitas dan Statistika,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),2,6,CIE62401,Inovasi Digital Kompetitif,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),2,7,MPK60008,Pancasila,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),2,8,MPK600XX,Agama (pilih satu: MPK60001-MPK60005),MK_WAJIB_PILIH_SATU,,2,Tidak,Tidak ada,reguler,20,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),3,1,CIE61101,Perkembangan Peserta Didik,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),3,2,CIE61102,Filsafat Pendidikan dan Sains,MK_WAJIB,,4,Tidak,Tidak ada,reguler,21,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),3,3,CIE61103,Komunikasi dan Teknologi Pendidikan,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),3,4,CIE61205,Pemrograman Web,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),3,5,CIE61206,Jaringan Komputer,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),3,6,CIE61207,Teknologi Sistem Terintegrasi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),3,7,CIE61208,Basis Data,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),4,1,CIE62104,Pengembangan Kurikulum,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),4,2,CIE62105,Pembelajaran Berdiferensiasi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,28
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),4,3,CIE62106,Teori dan Sains Belajar,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),4,4,CIE62107,Lingkungan Pembelajaran Digital,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,28
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),4,5,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,MK_WAJIB,,3,Ya,Nilai MK Paradigma Sistem ≥ E,reguler,21,28
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),4,6,CSD60709,Keamanan Siber,MK_WAJIB,,2,Tidak,Nilai MK Jaringan Komputer ≥ E,reguler,21,28
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),4,7,CIE62303,Kecerdasan Artifisial,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),4,8,COM60052,Etika Profesi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,28
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),5,1,CIE61108,Penilaian Hasil Belajar,MK_WAJIB,,3,Tidak,Nilai MK Pengembangan Kurikulum ≥ E,reguler,21,29
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),5,2,CIE61109,Pembelajaran Mikro,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,29
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),5,3,CIE61110,Perancangan Pembelajaran,MK_WAJIB,,3,Tidak,Nilai MK Teori dan Sains Belajar ≥ E,reguler,21,29
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),5,4,COM60051,Metode Penelitian dan Penulisan Ilmiah,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,29
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),5,5,CSD60708,Penambangan Data,MK_WAJIB,,3,Tidak,Nilai MK Kecerdasan Artifisial ≥ E,reguler,21,29
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),5,6,,Pilihan Tema A,PILIHAN_TEMA,A,3,,,reguler,21,29
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),5,7,,Pilihan Tema B,PILIHAN_TEMA,B,3,,,reguler,21,29
+E,Merdeka Belajar 2 semester di luar UB,1,1,COM60014,Pemrograman Dasar,MK_WAJIB,,5,Ya,Tidak ada,reguler,20,27
+E,Merdeka Belajar 2 semester di luar UB,1,2,COM60016,Pengantar Keilmuan Komputer,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+E,Merdeka Belajar 2 semester di luar UB,1,3,COM60015,Matematika Diskrit,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+E,Merdeka Belajar 2 semester di luar UB,1,4,CIE61301,Kalkulus dan Aljabar Linear,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+E,Merdeka Belajar 2 semester di luar UB,1,5,MPK60007,Bahasa Indonesia,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+E,Merdeka Belajar 2 semester di luar UB,1,6,UBU60004,Bahasa Inggris,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+E,Merdeka Belajar 2 semester di luar UB,1,7,MPK60006,Kewarganegaraan,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+E,Merdeka Belajar 2 semester di luar UB,1,8,UBU60003,Kewirausahaan,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+E,Merdeka Belajar 2 semester di luar UB,2,1,CIE62201,Perancangan Antarmuka Pengguna,MK_WAJIB,,3,Ya,Tidak ada,reguler,20,27
+E,Merdeka Belajar 2 semester di luar UB,2,2,CIE62202,Teknologi Platform,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+E,Merdeka Belajar 2 semester di luar UB,2,3,CIE62203,Pemrograman Berbasis Objek,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+E,Merdeka Belajar 2 semester di luar UB,2,4,CIE62204,Paradigma Sistem,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+E,Merdeka Belajar 2 semester di luar UB,2,5,CSD60712,Probabilitas dan Statistika,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+E,Merdeka Belajar 2 semester di luar UB,2,6,CIE62401,Inovasi Digital Kompetitif,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+E,Merdeka Belajar 2 semester di luar UB,2,7,MPK60008,Pancasila,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+E,Merdeka Belajar 2 semester di luar UB,2,8,MPK600XX,Agama (pilih satu: MPK60001-MPK60005),MK_WAJIB_PILIH_SATU,,2,Tidak,Tidak ada,reguler,20,27
+E,Merdeka Belajar 2 semester di luar UB,3,1,CIE61101,Perkembangan Peserta Didik,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,27
+E,Merdeka Belajar 2 semester di luar UB,3,2,CIE61102,Filsafat Pendidikan dan Sains,MK_WAJIB,,4,Tidak,Tidak ada,reguler,21,27
+E,Merdeka Belajar 2 semester di luar UB,3,3,CIE61103,Komunikasi dan Teknologi Pendidikan,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,27
+E,Merdeka Belajar 2 semester di luar UB,3,4,CIE61205,Pemrograman Web,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+E,Merdeka Belajar 2 semester di luar UB,3,5,CIE61206,Jaringan Komputer,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+E,Merdeka Belajar 2 semester di luar UB,3,6,CIE61207,Teknologi Sistem Terintegrasi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,27
+E,Merdeka Belajar 2 semester di luar UB,3,7,CIE61208,Basis Data,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+E,Merdeka Belajar 2 semester di luar UB,4,1,CIE62104,Pengembangan Kurikulum,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+E,Merdeka Belajar 2 semester di luar UB,4,2,CIE62105,Pembelajaran Berdiferensiasi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,28
+E,Merdeka Belajar 2 semester di luar UB,4,3,CIE62106,Teori dan Sains Belajar,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+E,Merdeka Belajar 2 semester di luar UB,4,4,CIE62107,Lingkungan Pembelajaran Digital,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,28
+E,Merdeka Belajar 2 semester di luar UB,4,5,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,MK_WAJIB,,3,Ya,Nilai MK Paradigma Sistem ≥ E,reguler,21,28
+E,Merdeka Belajar 2 semester di luar UB,4,6,CSD60709,Keamanan Siber,MK_WAJIB,,2,Tidak,Nilai MK Jaringan Komputer ≥ E,reguler,21,28
+E,Merdeka Belajar 2 semester di luar UB,4,7,CIE62303,Kecerdasan Artifisial,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+E,Merdeka Belajar 2 semester di luar UB,4,8,COM60052,Etika Profesi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,28
+E,Merdeka Belajar 2 semester di luar UB,5,1,CIE61108,Penilaian Hasil Belajar,MK_WAJIB,,3,Tidak,Nilai MK Pengembangan Kurikulum ≥ E,reguler,21,29
+E,Merdeka Belajar 2 semester di luar UB,5,2,CIE61109,Pembelajaran Mikro,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,29
+E,Merdeka Belajar 2 semester di luar UB,5,3,CIE61110,Perancangan Pembelajaran,MK_WAJIB,,3,Tidak,Nilai MK Teori dan Sains Belajar ≥ E,reguler,21,29
+E,Merdeka Belajar 2 semester di luar UB,5,4,COM60051,Metode Penelitian dan Penulisan Ilmiah,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,29
+E,Merdeka Belajar 2 semester di luar UB,5,5,CSD60708,Penambangan Data,MK_WAJIB,,3,Tidak,Nilai MK Kecerdasan Artifisial ≥ E,reguler,21,29
+E,Merdeka Belajar 2 semester di luar UB,5,6,,Pilihan Tema A,PILIHAN_TEMA,A,3,,,reguler,21,29
+E,Merdeka Belajar 2 semester di luar UB,5,7,,Pilihan Tema B,PILIHAN_TEMA,B,3,,,reguler,21,29
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),1,1,COM60014,Pemrograman Dasar,MK_WAJIB,,5,Ya,Tidak ada,reguler,20,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),1,2,COM60016,Pengantar Keilmuan Komputer,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),1,3,COM60015,Matematika Diskrit,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),1,4,CIE61301,Kalkulus dan Aljabar Linear,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),1,5,MPK60007,Bahasa Indonesia,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),1,6,UBU60004,Bahasa Inggris,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),1,7,MPK60006,Kewarganegaraan,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),1,8,UBU60003,Kewirausahaan,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),2,1,CIE62201,Perancangan Antarmuka Pengguna,MK_WAJIB,,3,Ya,Tidak ada,reguler,20,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),2,2,CIE62202,Teknologi Platform,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),2,3,CIE62203,Pemrograman Berbasis Objek,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),2,4,CIE62204,Paradigma Sistem,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),2,5,CSD60712,Probabilitas dan Statistika,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),2,6,CIE62401,Inovasi Digital Kompetitif,MK_WAJIB,,3,Tidak,Tidak ada,reguler,20,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),2,7,MPK60008,Pancasila,MK_WAJIB,,2,Tidak,Tidak ada,reguler,20,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),2,8,MPK600XX,Agama (pilih satu: MPK60001-MPK60005),MK_WAJIB_PILIH_SATU,,2,Tidak,Tidak ada,reguler,20,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),3,1,CIE61101,Perkembangan Peserta Didik,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),3,2,CIE61102,Filsafat Pendidikan dan Sains,MK_WAJIB,,4,Tidak,Tidak ada,reguler,21,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),3,3,CIE61103,Komunikasi dan Teknologi Pendidikan,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),3,4,CIE61205,Pemrograman Web,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),3,5,CIE61206,Jaringan Komputer,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),3,6,CIE61207,Teknologi Sistem Terintegrasi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),3,7,CIE61208,Basis Data,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,27
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),4,1,CIE62104,Pengembangan Kurikulum,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),4,2,CIE62105,Pembelajaran Berdiferensiasi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,28
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),4,3,CIE62106,Teori dan Sains Belajar,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),4,4,CIE62107,Lingkungan Pembelajaran Digital,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,28
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),4,5,CIE62209,Pengembangan dan Manajemen Perangkat Lunak,MK_WAJIB,,3,Ya,Nilai MK Paradigma Sistem ≥ E,reguler,21,28
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),4,6,CSD60709,Keamanan Siber,MK_WAJIB,,2,Tidak,Nilai MK Jaringan Komputer ≥ E,reguler,21,28
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),4,7,CIE62303,Kecerdasan Artifisial,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,28
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),4,8,COM60052,Etika Profesi,MK_WAJIB,,2,Tidak,Tidak ada,reguler,21,28
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),5,1,CIE61108,Penilaian Hasil Belajar,MK_WAJIB,,3,Tidak,Nilai MK Pengembangan Kurikulum ≥ E,reguler,21,29
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),5,2,CIE61109,Pembelajaran Mikro,MK_WAJIB,,3,Ya,Tidak ada,reguler,21,29
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),5,3,CIE61110,Perancangan Pembelajaran,MK_WAJIB,,3,Tidak,Nilai MK Teori dan Sains Belajar ≥ E,reguler,21,29
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),5,4,COM60051,Metode Penelitian dan Penulisan Ilmiah,MK_WAJIB,,3,Tidak,Tidak ada,reguler,21,29
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),5,5,CSD60708,Penambangan Data,MK_WAJIB,,3,Tidak,Nilai MK Kecerdasan Artifisial ≥ E,reguler,21,29
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),5,6,,Pilihan Tema A,PILIHAN_TEMA,A,3,,,reguler,21,29
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),5,7,,Pilihan Tema B,PILIHAN_TEMA,B,3,,,reguler,21,29
+A,Reguler,6,1,,Pilihan Tema C,PILIHAN_TEMA,C,3,,,reguler,21,29
+A,Reguler,6,2,,Pilihan Tema D,PILIHAN_TEMA,D,3,,,reguler,21,29
+A,Reguler,6,3,,Pilihan Tema E,PILIHAN_TEMA,E,3,,,reguler,21,29
+A,Reguler,6,4,,Pilihan Tema F,PILIHAN_TEMA,F,3,,,reguler,21,29
+A,Reguler,6,5,,Pilihan Tema G,PILIHAN_TEMA,G,3,,,reguler,21,29
+A,Reguler,6,6,,Pilihan Tema H,PILIHAN_TEMA,H,3,,,reguler,21,29
+A,Reguler,6,7,,Pilihan Tema I,PILIHAN_TEMA,I,3,,,reguler,21,29
+A,Reguler,7,1,CIE61111,Pengenalan Lapangan Persekolahan 1,MK_WAJIB,,1,Tidak,Sesuai Pedoman Pengalaman Lapangan Persekolahan (PLP) FILKOM UB,reguler,11,29
+A,Reguler,7,2,CIE61112,Pengenalan Lapangan Persekolahan 2,MK_WAJIB,,3,Tidak,Sesuai Pedoman Pengalaman Lapangan Persekolahan (PLP) FILKOM UB,reguler,11,29
+A,Reguler,7,3,UBU60002,Praktik Kerja Lapangan,MK_WAJIB,,4,Tidak,Sesuai Pedoman Praktik Kerja Lapangan (PKL) FILKOM UB,reguler,11,29
+A,Reguler,7,4,COM60061,Capstone Project,MK_WAJIB,,3,Tidak,Sesuai Pedoman Capstone Project FILKOM UB,reguler,11,29
+A,Reguler,8,1,UBU60001,Tugas Akhir/ Skripsi,MK_WAJIB,,6,Tidak,Sesuai Pedoman Skripsi FILKOM UB,reguler,10,29
+A,Reguler,8,2,UBU60005,Pengabdian Kepada Masyarakat,MK_WAJIB,,4,Tidak,Sesuai Pedoman Pengabdian Kepada Masyarakat (PKM) FILKOM UB,reguler,10,29
+B,Merdeka Belajar 1 semester di dalam UB,6,1,,Mata Kuliah Pilihan hasil konversi kegiatan merdeka belajar (maks. 20 SKS),PILIHAN_KONVERSI,,20,,,konversi_dalam_UB,20,32
+B,Merdeka Belajar 1 semester di dalam UB,7,1,CIE61111,Pengenalan Lapangan Persekolahan 1,MK_WAJIB,,1,Tidak,Sesuai Pedoman Pengalaman Lapangan Persekolahan (PLP) FILKOM UB,reguler,14,32
+B,Merdeka Belajar 1 semester di dalam UB,7,2,CIE61112,Pengenalan Lapangan Persekolahan 2,MK_WAJIB,,3,Tidak,Sesuai Pedoman Pengalaman Lapangan Persekolahan (PLP) FILKOM UB,reguler,14,32
+B,Merdeka Belajar 1 semester di dalam UB,7,3,UBU60002,Praktik Kerja Lapangan,MK_WAJIB,,4,Tidak,Sesuai Pedoman Praktik Kerja Lapangan (PKL) FILKOM UB,reguler,14,32
+B,Merdeka Belajar 1 semester di dalam UB,7,4,COM60061,Capstone Project,MK_WAJIB,,3,Tidak,Sesuai Pedoman Capstone Project FILKOM UB,reguler,14,32
+B,Merdeka Belajar 1 semester di dalam UB,7,5,,Mata Kuliah Pilihan Program Studi untuk tema yang belum terpenuhi,PILIHAN_SISA_TEMA,,3,,,reguler,14,32
+B,Merdeka Belajar 1 semester di dalam UB,8,1,UBU60001,Tugas Akhir/ Skripsi,MK_WAJIB,,6,Tidak,Sesuai Pedoman Skripsi FILKOM UB,reguler,10,32
+B,Merdeka Belajar 1 semester di dalam UB,8,2,UBU60005,Pengabdian Kepada Masyarakat,MK_WAJIB,,4,Tidak,Sesuai Pedoman Pengabdian Kepada Masyarakat (PKM) FILKOM UB,reguler,10,32
+C,Merdeka Belajar 1 semester di luar UB,6,1,,Mata Kuliah Pilihan hasil konversi kegiatan merdeka belajar (maks. 20 SKS),PILIHAN_KONVERSI,,20,,,konversi_luar_UB,20,34
+C,Merdeka Belajar 1 semester di luar UB,7,1,CIE61111,Pengenalan Lapangan Persekolahan 1,MK_WAJIB,,1,Tidak,Sesuai Pedoman Pengalaman Lapangan Persekolahan (PLP) FILKOM UB,reguler,14,34
+C,Merdeka Belajar 1 semester di luar UB,7,2,CIE61112,Pengenalan Lapangan Persekolahan 2,MK_WAJIB,,3,Tidak,Sesuai Pedoman Pengalaman Lapangan Persekolahan (PLP) FILKOM UB,reguler,14,34
+C,Merdeka Belajar 1 semester di luar UB,7,3,UBU60002,Praktik Kerja Lapangan,MK_WAJIB,,4,Tidak,Sesuai Pedoman Praktik Kerja Lapangan (PKL) FILKOM UB,reguler,14,34
+C,Merdeka Belajar 1 semester di luar UB,7,4,COM60061,Capstone Project,MK_WAJIB,,3,Tidak,Sesuai Pedoman Capstone Project FILKOM UB,reguler,14,34
+C,Merdeka Belajar 1 semester di luar UB,7,5,,Mata Kuliah Pilihan Program Studi untuk tema yang belum terpenuhi,PILIHAN_SISA_TEMA,,3,,,konversi_luar_UB,14,34
+C,Merdeka Belajar 1 semester di luar UB,8,1,UBU60001,Tugas Akhir/ Skripsi,MK_WAJIB,,6,Tidak,Sesuai Pedoman Skripsi FILKOM UB,reguler,10,34
+C,Merdeka Belajar 1 semester di luar UB,8,2,UBU60005,Pengabdian Kepada Masyarakat,MK_WAJIB,,4,Tidak,Sesuai Pedoman Pengabdian Kepada Masyarakat (PKM) FILKOM UB,reguler,10,34
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),6,1,,Mata Kuliah Pilihan hasil konversi kegiatan merdeka belajar (maks. 20 SKS),PILIHAN_KONVERSI,,20,,,konversi_dalam_UB,20,37
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),7,1,CIE61111,Pengenalan Lapangan Persekolahan 1,MK_WAJIB,,1,Tidak,Sesuai Pedoman Pengalaman Lapangan Persekolahan (PLP) FILKOM UB,konversi_luar_UB,14,37
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),7,2,CIE61112,Pengenalan Lapangan Persekolahan 2,MK_WAJIB,,3,Tidak,Sesuai Pedoman Pengalaman Lapangan Persekolahan (PLP) FILKOM UB,konversi_luar_UB,14,37
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),7,3,UBU60002,Praktik Kerja Lapangan,MK_WAJIB,,4,Tidak,Sesuai Pedoman Praktik Kerja Lapangan (PKL) FILKOM UB,konversi_luar_UB,14,37
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),7,4,COM60061,Capstone Project,MK_WAJIB,,3,Tidak,Sesuai Pedoman Capstone Project FILKOM UB,konversi_luar_UB,14,37
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),7,5,,Mata Kuliah Pilihan Program Studi untuk tema yang belum terpenuhi,PILIHAN_SISA_TEMA,,3,,,konversi_luar_UB,14,37
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),8,1,UBU60001,Tugas Akhir/ Skripsi,MK_WAJIB,,6,Tidak,Sesuai Pedoman Skripsi FILKOM UB,reguler,10,37
+D,Merdeka Belajar 2 semester (1 di dalam UB + 1 di luar UB),8,2,UBU60005,Pengabdian Kepada Masyarakat,MK_WAJIB,,4,Tidak,Sesuai Pedoman Pengabdian Kepada Masyarakat (PKM) FILKOM UB,reguler,10,37
+E,Merdeka Belajar 2 semester di luar UB,6,1,,Mata Kuliah Pilihan hasil konversi kegiatan merdeka belajar (maks. 20 SKS),PILIHAN_KONVERSI,,20,,,konversi_luar_UB,20,40
+E,Merdeka Belajar 2 semester di luar UB,7,1,CIE61111,Pengenalan Lapangan Persekolahan 1,MK_WAJIB,,1,Tidak,Sesuai Pedoman Pengalaman Lapangan Persekolahan (PLP) FILKOM UB,konversi_luar_UB,14,40
+E,Merdeka Belajar 2 semester di luar UB,7,2,CIE61112,Pengenalan Lapangan Persekolahan 2,MK_WAJIB,,3,Tidak,Sesuai Pedoman Pengalaman Lapangan Persekolahan (PLP) FILKOM UB,konversi_luar_UB,14,40
+E,Merdeka Belajar 2 semester di luar UB,7,3,UBU60002,Praktik Kerja Lapangan,MK_WAJIB,,4,Tidak,Sesuai Pedoman Praktik Kerja Lapangan (PKL) FILKOM UB,konversi_luar_UB,14,40
+E,Merdeka Belajar 2 semester di luar UB,7,4,COM60061,Capstone Project,MK_WAJIB,,3,Tidak,Sesuai Pedoman Capstone Project FILKOM UB,konversi_luar_UB,14,40
+E,Merdeka Belajar 2 semester di luar UB,7,5,,Mata Kuliah Pilihan Program Studi untuk tema yang belum terpenuhi,PILIHAN_SISA_TEMA,,3,,,konversi_luar_UB,14,40
+E,Merdeka Belajar 2 semester di luar UB,8,1,UBU60001,Tugas Akhir/ Skripsi,MK_WAJIB,,6,Tidak,Sesuai Pedoman Skripsi FILKOM UB,reguler,10,40
+E,Merdeka Belajar 2 semester di luar UB,8,2,UBU60005,Pengabdian Kepada Masyarakat,MK_WAJIB,,4,Tidak,Sesuai Pedoman Pengabdian Kepada Masyarakat (PKM) FILKOM UB,reguler,10,40
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),6,1,,Mata Kuliah Pilihan hasil konversi kegiatan merdeka belajar (maks. 20 SKS),PILIHAN_KONVERSI,,20,,,konversi_dalam_UB,20,42
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),7,1,CIE61111,Pengenalan Lapangan Persekolahan 1,MK_WAJIB,,1,Tidak,Sesuai Pedoman Pengalaman Lapangan Persekolahan (PLP) FILKOM UB,konversi_luar_UB,14,42
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),7,2,CIE61112,Pengenalan Lapangan Persekolahan 2,MK_WAJIB,,3,Tidak,Sesuai Pedoman Pengalaman Lapangan Persekolahan (PLP) FILKOM UB,konversi_luar_UB,14,42
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),7,3,UBU60002,Praktik Kerja Lapangan,MK_WAJIB,,4,Tidak,Sesuai Pedoman Praktik Kerja Lapangan (PKL) FILKOM UB,konversi_luar_UB,14,42
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),7,4,COM60061,Capstone Project,MK_WAJIB,,3,Tidak,Sesuai Pedoman Capstone Project FILKOM UB,konversi_luar_UB,14,42
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),7,5,,Mata Kuliah Pilihan Program Studi untuk tema yang belum terpenuhi,PILIHAN_SISA_TEMA,,3,,,konversi_luar_UB,14,42
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),8,1,UBU60001,Tugas Akhir/ Skripsi,MK_WAJIB,,6,Tidak,Sesuai Pedoman Skripsi FILKOM UB,diselesaikan_selama_kegiatan_luar_UB,10,42
+F,Merdeka Belajar 3 semester (1 di dalam UB + 2 di luar UB),8,2,UBU60005,Pengabdian Kepada Masyarakat,MK_WAJIB,,4,Tidak,Sesuai Pedoman Pengabdian Kepada Masyarakat (PKM) FILKOM UB,diselesaikan_selama_kegiatan_luar_UB,10,42

@@ -1,0 +1,22 @@
+id_aturan,kategori,aturan,parameter,keterangan,halaman_pdf_ringkasan
+AT01,SKS,Total SKS minimal lulus,total_min=145,145 SKS,21
+AT02,SKS,Komposisi SKS minimal,wajib_min=118;pilihan_min=27,118 SKS wajib + 27 SKS pilihan,21
+AT03,SKS,Total SKS maksimal selama studi,total_max=160,boleh menambah hingga 160 SKS (konsultasi DPA),21
+AT04,MASA_STUDI,Masa studi,semester_min=7;semester_max=14,"3,5 tahun (7 sem.) s.d. 7 tahun (14 sem.)",21
+AT05,BEBAN,Beban SKS per semester ditentukan IP semester sebelumnya,lihat 09_rekomendasi_beban_sks.csv,"≥3,00:22-24; 2,50-2,99:19-21; 2,00-2,49:16-18; 1,50-1,99:12-15; <1,50:≤12",27-45
+AT06,BEBAN,Semester 1 dan 2 berupa paket,sks_sem1=20;sks_sem2=20,Tabel semester 1 & 2 tanpa tabel rekomendasi,27
+AT07,PILIHAN,Sembilan tema pilihan prodi (A-I) wajib terpenuhi,"tema_wajib=A,B,C,D,E,F,G,H,I;sks_per_tema=3",berlaku untuk jalur reguler maupun merdeka belajar,24
+AT08,PILIHAN,Tema A diganti Tema C bila Tema A sudah diambil,sem=5,Kondisi lainnya semester 5,29
+AT09,PRIORITAS,MK wajib yang tertunda diutamakan daripada MK pilihan,"sem=5,6","Jika ada MK wajib semester ganjil/genap yang belum ditempuh, utamakan MK tersebut",29-30
+AT10,PILIHAN,UBU60030 tidak direkomendasikan bagi mahasiswa PTI,kode=UBU60030,sudah ada CIE62303 Kecerdasan Artifisial (wajib),23
+AT11,JALUR,Jalur kurikulum ditetapkan di awal semester 3,semester_penetapan=3,"formulir Lampiran 1, disetujui DPA, diketahui Kaprodi & Kadep",26
+AT12,MERDEKA_BELAJAR,Syarat menempuh MK pilihan di luar PTI UB,"wajib_lulus=semua_wajib_kecuali:CIE61111,CIE61112,UBU60002,UBU60005,COM60061,UBU60001","sudah lulus semua MK wajib kecuali MK lapangan (PLP, PKL, PKM), Capstone Project, dan Skripsi",26
+AT13,MERDEKA_BELAJAR,Batas konversi SKS per semester,konversi_max_per_semester=20,maksimal 20 SKS dapat dikonversi per semester (termasuk konversi PLP/PKL/PKM/Capstone),26;35
+AT14,MERDEKA_BELAJAR,Tema yang tidak terpenuhi lewat konversi dipenuhi pada semester berikutnya,slot=PILIHAN_SISA_TEMA,melalui MK Pilihan Program Studi; total SKS dapat menjadi 147,32-44
+AT15,LAPANGAN,PLP 1 dan PLP 2 diprogram bersamaan,"korequisit=CIE61111,CIE61112",,31
+AT16,LAPANGAN,Syarat PLP: lulus semua MK Kependidikan,kelompok=Kependidikan,lihat 05_prasyarat.csv (jenis lulus_kelompok_mk_kependidikan),31
+AT17,LAPANGAN,PLP dan PKL sebaiknya dilaksanakan sebelum semester 7,,nilai di semester 7 bersifat klaim atas kegiatan sebelumnya; lihat 16_jadwal_kegiatan_lapangan.csv,31
+AT18,PERALIHAN,Aturan peralihan hanya untuk angkatan 2023 ke bawah,angkatan_max=2023,angkatan 2024+ langsung Kurikulum 2024,52
+AT19,PERALIHAN,Angkatan 2023: MK sem. 1-2 kurikulum lama tetap diakui; MK kurikulum baru sem. 1-2 yang belum ditempuh wajib diprogram,angkatan=2023,mengulang/mengambil baru mengikuti penyetaraan,52-53
+AT20,PERALIHAN,Angkatan 2018-2022: mengulang/mengambil baru mengikuti Daftar Penyetaraan,angkatan=2018-2022,MK wajib lama yang menjadi pilihan boleh tetap diambil sebagai pilihan atau diganti MK wajib baru; MK yang dihapus diganti MK wajib/pilihan baru yang belum pernah ditempuh,53-54
+AT21,PERALIHAN,Prasyarat dapat dipenuhi oleh MK lama yang disetarakan,,contoh: CIE62005 (lama) nilai ≥ E memenuhi prasyarat CIE62104,54
