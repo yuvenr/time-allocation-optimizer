@@ -1,77 +1,69 @@
 # Time Allocation Optimizer
 
-Sistem cerdas untuk perencanaan rencana studi akademik dan optimasi alokasi waktu/beban belajar mahasiswa menggunakan pendekatan **Constraint Satisfaction**, **Association Rule Mining (ARM / FP-Growth)**, dan **Large Language Model (LLM)** untuk estimasi beban kognitif.
+A smart tool for planning students' study schedules and optimizing study load. It combines **constraint satisfaction**, **association rule mining (ARM / FP-Growth)**, and **large language models (LLMs)** to estimate cognitive load.
 
-Sistem menyusun rekomendasi rencana studi mahasiswa per semester dari semester berjalan sampai lulus berdasarkan batasan kurikulum, dengan memadukan:
+The system recommends a semester-by-semester study plan from the current semester to graduation. It considers:
 
-1. **Aturan Kurikulum & Batasan Akademik**: Memastikan pemenuhan batasan keras seperti prasyarat mata kuliah, semester penawaran (ganjil/genap), batas SKS menurut IP semester sebelumnya, paket semester awal, syarat kegiatan lapangan (PLP) dan Tugas Akhir (Capstone), pilihan tema, serta batas masa studi.
-2. **Association Rule Mining (FP-Growth)**: Menambang pola pengambilan mata kuliah dari data riwayat KRS untuk memprioritaskan dan mengurutkan rekomendasi mata kuliah pilihan sesuai minat mahasiswa dan tren historis.
-3. **Optimasi Beban Kognitif & Alokasi Waktu**: Mengevaluasi tingkat kompleksitas kognitif taksonomi Bloom revisi per Capaian Pembelajaran Mata Kuliah (CPMK) menggunakan LLM, yang digunakan sebagai ambang batas beban kognitif per semester (θ) pada mode *hybrid* agar mahasiswa tidak mengalami kelebihan beban di semester tertentu.
+1. **Curriculum and academic rules**: course prerequisites, odd/even semester offerings, credit limits based on the previous GPA, first-semester course packages, PLP and Capstone requirements, topic choices, and maximum study duration.
+2. **Association Rule Mining (FP-Growth)**: patterns from past course registrations are used to rank elective recommendations based on student interests and historical trends.
+3. **Cognitive load and time allocation**: an LLM estimates the revised Bloom's taxonomy level for each course learning outcome. In `hybrid` mode, this sets a per-semester cognitive-load limit (θ).
 
-Mode `arm` (pembanding) dan `hybrid` memakai algoritma yang sama; perbedaan hasilnya hanya berasal dari batasan θ.
+`arm` and `hybrid` use the same planning algorithm. They differ only in the cognitive-load limit (θ).
 
-## Fitur
+## Features
 
-| Peran | Fitur |
+| Role | Features |
 |---|---|
-| Mahasiswa | Profil & riwayat nilai, pilihan MK per tema, rencana per semester dengan alasan per MK, grafik beban kognitif, validasi 16 aturan akademik, geser MK antarsemester (*drag & drop*) dengan pemeriksaan aturan secara interaktif |
-| DPA (berkata sandi) | Tinjauan rencana studi, perbandingan dengan rekomendasi sistem, validasi akhir & catatan bimbingan |
-| Administrator (berkata sandi) | Daftar periksa kesiapan data dari nol, templat data, impor data akademik, preprocessing, ARM & analisis sensitivitas, penilaian Bloom oleh LLM, evaluasi LLM vs pakar (ICC), simulasi komparasi, ekspor CSV untuk JASP, paket data uji |
+| Student | Grade and profile history, topic-based course choices, semester plans with explanations, cognitive-load charts, validation of 16 academic rules, and interactive drag-and-drop course changes |
+| Academic advisor (password protected) | Review study plans, compare them with system recommendations, approve plans, and add advising notes |
+| Administrator (password protected) | Data readiness checklist, data templates, academic data import, preprocessing, ARM and sensitivity analysis, LLM-based Bloom assessment, LLM-vs-expert evaluation (ICC), comparison simulations, CSV export for JASP, and test-data packages |
 
-Panduan: [docs/PANDUAN_PENGGUNA.md](docs/PANDUAN_PENGGUNA.md) ·
-[docs/PANDUAN_ADMINISTRATOR.md](docs/PANDUAN_ADMINISTRATOR.md) ·
-deploy: [docs/DEPLOY_STREAMLIT_NEON.md](docs/DEPLOY_STREAMLIT_NEON.md).
+Guides: [User Guide](docs/PANDUAN_PENGGUNA.md) · [Administrator Guide](docs/PANDUAN_ADMINISTRATOR.md) · [Deployment Guide](docs/DEPLOY_STREAMLIT_NEON.md)
 
-## Menjalankan di komputer sendiri
+## Run locally
 
-Butuh Python 3.11 atau lebih baru.
+Requires Python 3.11 or later.
 
 ```bash
 python -m venv .venv
 .venv\Scripts\activate                 # Linux/macOS: source .venv/bin/activate
 pip install -r requirements-dev.txt
-cp .env.example .env                    # isi hash kata sandi peran: python -m src.auth
+cp .env.example .env                    # set role password hashes: python -m src.auth
 streamlit run app/streamlit_app.py
 ```
 
-Tanpa `DATABASE_URL`, aplikasi memakai SQLite `data/crs.db` yang dibuat otomatis. Sistem awalnya kosong:
-masuk sebagai Administrator, lalu ikuti tab **Mulai di sini** (paket data uji atau langkah demi langkah).
-Tanpa data apa pun, rencana tetap dapat disusun dari struktur kurikulum dan aturan.
+Without `DATABASE_URL`, the app uses SQLite at `data/crs.db` and creates it automatically. The system starts empty. Log in as an Administrator and open **Start here** to load test data or add data step by step.
 
-## Pengujian
+A study plan can still be generated from the curriculum structure and rules without historical data.
+
+## Testing
 
 ```bash
-python -m pytest            # seluruh tes luring; tidak memanggil API LLM, tidak menyentuh data/ aplikasi
+python -m pytest
 ```
 
-Tes memakai data fiktif deterministik. `CRS_TEST_DATABASE_URL=postgresql://...` menjalankan seluruh tes di
-PostgreSQL. GitHub Actions menjalankan keduanya pada setiap *push*.
+The tests use deterministic fictional data. Set `CRS_TEST_DATABASE_URL=postgresql://...` to run the full test suite with PostgreSQL. GitHub Actions runs both configurations on every push.
 
-## Struktur
+## Project structure
 
+```text
+app/                  Streamlit interface (streamlit_app.py, tampilan.py)
+src/                  rules, planner, ARM, LLM/Bloom scoring, preprocessing, simulation,
+                      metrics, statistics, export, database, adjustment, readiness,
+                      templates, test packages, file handling, and authentication
+data/kurikulum_2024/  Sample 2024 curriculum dataset
+tests/                Pytest tests
+docs/                 User, administrator, and deployment guides
+config.yaml           All thresholds and parameters
 ```
-app/                 antarmuka Streamlit (streamlit_app.py, tampilan.py)
-src/                 rules.py (aturan), planner.py (penyusun rencana), arm.py, llm/ (penilaian Bloom),
-                     preprocessing.py, simulate.py, metrics.py, statistik.py, export.py, db.py (SQLite/PostgreSQL),
-                     penyesuaian.py, kesiapan.py, templat.py, paket_uji.py, berkas.py, auth.py
-data/kurikulum_2024/ dataset Kurikulum 2024 sampel
-tests/               pytest
-docs/                panduan pengguna, administrator, dan deploy
-config.yaml          seluruh ambang & parameter
-```
 
-## Data dan privasi
+## Data and privacy
 
-- Repositori **tidak** memuat data mahasiswa, NIM, basis data, maupun kunci API. Data akademik diimpor oleh
-  administrator lewat aplikasi; NIM dianonimkan dengan *hash* bergaram sebelum disimpan.
-- Yang dikirim ke LLM hanya teks kurikulum (deskripsi MK, CPMK, Sub-CPMK).
-- `data/kurikulum_2024/` bersumber dari dokumen kurikulum Prodi PTI UB 2024–2029.
+- The repository contains no student data, student IDs, databases, or API keys. Administrators import academic data through the app. Student IDs are salted and hashed before storage.
+- Only curriculum text (course descriptions, CPMK, and Sub-CPMK) is sent to the LLM.
+- `data/kurikulum_2024/` comes from the 2024–2029 curriculum documents of the Information Technology Education program at UB.
 
-## Lisensi
+## License
 
-- **Kode program** (seluruh isi repositori kecuali yang disebut di bawah): [MIT License](LICENSE),
-  © 2026 Yuven Reksa Pratama.
-- **Dataset Kurikulum 2024** (`data/kurikulum_2024/`) **tidak** termasuk lisensi MIT. Isinya diekstraksi dari
-  dokumen kurikulum Program Studi S1 Pendidikan Teknologi Informasi FILKOM UB dan tetap menjadi hak Program
-  Studi; disertakan sebagai sampel referensi agar aplikasi dapat dijalankan. Lihat
-  [data/kurikulum_2024/README.md](data/kurikulum_2024/README.md).
+- **Source code**: [MIT License](LICENSE), © 2026 Yuven Reksa Pratama.
+- **2024 Curriculum Dataset** (`data/kurikulum_2024/`) is **not** covered by the MIT License. It was extracted from curriculum documents of the Bachelor of Information Technology Education program at FILKOM UB and remains the property of the program. It is included as a reference sample so the app can run. See [data/kurikulum_2024/README.md](data/kurikulum_2024/README.md).
